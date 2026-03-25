@@ -28,27 +28,22 @@ jobs:
           with urllib.request.urlopen(url, timeout=20) as r:
               services = json.loads(r.read())
 
-          print(f"Got {len(services)} service entries.")
-
-          # Flat list
           urls = sorted(set(f"{rss_base}{s['service']}.rss" for s in services))
           with open("aws_rss_feeds.txt", "w") as f:
               f.write("\n".join(urls) + "\n")
 
-          # Structured JSON: service_name -> region_name -> url
           structured = {}
           for s in services:
               name   = s.get("service_name") or "Unknown"
               region = s.get("region_name")  or "global"
-              url    = f"{rss_base}{s['service']}.rss"
-              structured.setdefault(name, {})[region] = url
+              u      = f"{rss_base}{s['service']}.rss"
+              structured.setdefault(name, {})[region] = u
 
           sorted_out = {k: dict(sorted(v.items())) for k, v in sorted(structured.items())}
           with open("aws_rss_feeds.json", "w") as f:
               json.dump(sorted_out, f, indent=2)
               f.write("\n")
 
-          # Region counts and IDs
           region_counts = {}
           region_ids = {}
           for svc, regs in sorted_out.items():
@@ -61,50 +56,51 @@ jobs:
 
           total_feeds = sum(len(regs) for regs in sorted_out.values())
           updated = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d")
+          feed_count = f"{total_feeds:,}"
+          svc_count = f"{len(sorted_out):,}"
+          reg_count = f"{len(region_counts):,}"
 
-          readme = f"""# AWS Status RSS Feeds
-
-Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
-
-Currently tracking **{total_feeds:,} feeds** across **{len(sorted_out):,} services** and **{len(region_counts):,} regions**.
-
-_Last updated: {updated} UTC_
-
-## Files
-
-- `aws_rss_feeds.txt` - flat list, one URL per line
-- `aws_rss_feeds.json` - grouped by service name and region
-
-## Regions ({len(region_counts):,})
-
-| Region ID | Location | Services |
-|-----------|----------|----------|
-"""
+          lines = []
+          lines.append("# AWS Status RSS Feeds")
+          lines.append("")
+          lines.append("Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.")
+          lines.append("")
+          lines.append(f"Currently tracking **{feed_count} feeds** across **{svc_count} services** and **{reg_count} regions**.")
+          lines.append("")
+          lines.append(f"_Last updated: {updated} UTC_")
+          lines.append("")
+          lines.append("## Files")
+          lines.append("")
+          lines.append("- `aws_rss_feeds.txt` - flat list, one URL per line")
+          lines.append("- `aws_rss_feeds.json` - grouped by service name and region")
+          lines.append("")
+          lines.append(f"## Regions ({reg_count})")
+          lines.append("")
+          lines.append("| Region ID | Location | Services |")
+          lines.append("|-----------|----------|----------|")
           for reg in sorted(region_counts.keys(), key=lambda x: region_ids.get(x, x)):
-              readme += f"| {region_ids.get(reg, '')} | {reg} | {region_counts[reg]:,} |\n"
-
-          readme += f"""
-## Services ({len(sorted_out):,})
-
-| Service | Region Count |
-|---------|-------------|
-"""
+              lines.append(f"| {region_ids.get(reg, '')} | {reg} | {region_counts[reg]:,} |")
+          lines.append("")
+          lines.append(f"## Services ({svc_count})")
+          lines.append("")
+          lines.append("| Service | Region Count |")
+          lines.append("|---------|-------------|")
           for svc in sorted(sorted_out.keys()):
-              readme += f"| {svc} | {len(sorted_out[svc]):,} |\n"
+              lines.append(f"| {svc} | {len(sorted_out[svc]):,} |")
+          lines.append("")
+          lines.append("## Source")
+          lines.append("")
+          lines.append("Feed URLs are derived from the `services.json` endpoint that powers the official [AWS Health Dashboard](https://health.aws.amazon.com/health/status).")
+          lines.append("")
+          lines.append("## License")
+          lines.append("")
+          lines.append("This project is released under the MIT License.")
+          lines.append("")
 
-          readme += """
-## Source
-
-Feed URLs are derived from the `services.json` endpoint that powers the official [AWS Health Dashboard](https://health.aws.amazon.com/health/status).
-
-## License
-
-This project is released under the MIT License.
-"""
           with open("README.md", "w") as f:
-              f.write(readme)
+              f.write("\n".join(lines))
 
-          print(f"Done: {total_feeds:,} feeds, {len(sorted_out):,} services, {len(region_counts):,} regions")
+          print(f"Done: {feed_count} feeds, {svc_count} services, {reg_count} regions")
           EOF
 
       - name: Commit and push if changed
