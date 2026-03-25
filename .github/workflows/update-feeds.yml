@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   update:
@@ -64,6 +65,10 @@ jobs:
                       if reg not in sorted_out[svc]:
                           changes.append(f"- Removed **{svc}** from {reg}")
 
+          # Write changes to file for next step
+          with open("changes.txt", "w") as f:
+              f.write("\n".join(changes))
+
           # Write flat list
           urls = sorted(set(f"{rss_base}{s['service']}.rss" for s in services))
           with open("aws_rss_feeds.txt", "w") as f:
@@ -75,7 +80,6 @@ jobs:
               f.write("\n")
 
           # Update CHANGELOG
-          changelog_entry = ""
           if changes:
               changelog_entry = f"## {updated}\n\n" + "\n".join(changes) + "\n"
               existing = ""
@@ -85,19 +89,20 @@ jobs:
               with open("CHANGELOG.md", "w") as f:
                   f.write("# Changelog\n\n")
                   f.write(changelog_entry + "\n")
-                  # write previous entries minus the old header
                   if existing:
                       f.write(existing.replace("# Changelog\n\n", ""))
 
-          # Get last change for README
-          last_change = "No changes recorded yet."
+          # Get last 5 changes from CHANGELOG for README
+          recent_changes = []
           if os.path.exists("CHANGELOG.md"):
               with open("CHANGELOG.md") as f:
                   content = f.read()
-              entries = [e.strip() for e in content.replace("# Changelog\n\n","").split("\n## ") if e.strip()]
-              if entries:
-                  first = entries[0] if entries[0].startswith("## ") else "## " + entries[0]
-                  last_change = first.replace("## ", "").strip()
+              raw_entries = content.replace("# Changelog\n\n", "").split("\n## ")
+              raw_entries = [e.strip() for e in raw_entries if e.strip()]
+              for entry in raw_entries[:5]:
+                  if not entry.startswith("## "):
+                      entry = "## " + entry
+                  recent_changes.append(entry)
 
           # Region counts and IDs
           region_counts = {}
@@ -122,10 +127,16 @@ jobs:
           lines.append("")
           lines.append(f"Currently tracking **{feed_count} feeds** across **{svc_count} services** and **{reg_count} regions**.")
           lines.append("")
-          lines.append(f"_Last updated: {updated} UTC_")
+          lines.append(f"_Last checked: {updated} UTC_")
           lines.append("")
-          lines.append(f"_Last change by AWS: {last_change}_")
-          lines.append("")
+          if recent_changes:
+              lines.append("## Recent changes by AWS")
+              lines.append("")
+              for entry in recent_changes:
+                  lines.append(entry)
+                  lines.append("")
+              lines.append("_Full history in [CHANGELOG.md](CHANGELOG.md)_")
+              lines.append("")
           lines.append("## Files")
           lines.append("")
           lines.append("- `aws_rss_feeds.txt` - flat list, one URL per line")
@@ -167,6 +178,24 @@ jobs:
               print("No changes detected.")
           EOF
 
+      - name: Open issue if AWS made changes
+        if: success()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          CHANGES=$(cat changes.txt)
+          if [ -n "$CHANGES" ]; then
+            DATE=$(date -u +%Y-%m-%d)
+            gh issue create \
+              --title "AWS service changes detected: $DATE" \
+              --body "The following changes were detected in the AWS Service Health Dashboard feeds:
+
+          $CHANGES
+
+          See [CHANGELOG.md](../blob/main/CHANGELOG.md) for full history." \
+              --label "aws-change"
+          fi
+
       - name: Commit and push if changed
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
@@ -174,7 +203,7 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add aws_rss_feeds.txt aws_rss_feeds.json README.md
-            [ -f CHANGELOG.md ] && git add CHANGELOG.md || true
+          [ -f CHANGELOG.md ] && git add CHANGELOG.md || true
           if git diff --staged --quiet; then
             echo "No changes - feed list is up to date."
           else
