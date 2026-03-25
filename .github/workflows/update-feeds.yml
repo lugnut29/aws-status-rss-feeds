@@ -173,7 +173,8 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add aws_rss_feeds.txt aws_rss_feeds.json README.md CHANGELOG.md
+          git add aws_rss_feeds.txt aws_rss_feeds.json README.md
+            [ -f CHANGELOG.md ] && git add CHANGELOG.md || true
           if git diff --staged --quiet; then
             echo "No changes - feed list is up to date."
           else
