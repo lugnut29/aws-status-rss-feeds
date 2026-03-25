@@ -2,7 +2,7 @@ name: Update AWS RSS Feeds
 
 on:
   schedule:
-    - cron: '33 3 * * *'  # Daily at 3am UTC
+    - cron: '33 3 * * *'  # Daily at 3:33am UTC
   workflow_dispatch:      # Allow manual trigger from GitHub UI
 
 permissions:
@@ -19,7 +19,7 @@ jobs:
       - name: Fetch services.json and generate feed files
         run: |
           python3 - <<'EOF'
-          import json, urllib.request
+          import json, urllib.request, datetime
 
           url = "https://servicedata-us-west-2-prod.s3.amazonaws.com/services.json"
           rss_base = "https://status.aws.amazon.com/rss/"
@@ -49,13 +49,40 @@ jobs:
               json.dump(sorted_out, f, indent=2)
               f.write("\n")
           print(f"Written aws_rss_feeds.json ({len(sorted_out)} services)")
+
+          # README with dynamic counts
+          updated = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+          readme = f"""# AWS Status RSS Feeds
+
+Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
+
+Currently tracking **{len(urls)} feeds** across **{len(sorted_out)} services**.
+
+## Files
+
+- `aws_rss_feeds.txt` — flat list, one URL per line
+- `aws_rss_feeds.json` — grouped by service name and region
+
+## Source
+
+Feed URLs are derived from the `services.json` endpoint that powers the official [AWS Health Dashboard](https://health.aws.amazon.com/health/status).
+
+_Last updated: {updated} UTC_
+
+## License
+
+This project is released under the MIT License.
+"""
+          with open("README.md", "w") as f:
+              f.write(readme)
+          print(f"Written README.md")
           EOF
 
       - name: Commit and push if changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add aws_rss_feeds.txt aws_rss_feeds.json
+          git add aws_rss_feeds.txt aws_rss_feeds.json README.md
           if git diff --staged --quiet; then
             echo "No changes - feed list is up to date."
           else
