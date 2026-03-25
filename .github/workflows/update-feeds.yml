@@ -2,8 +2,8 @@ name: Update AWS RSS Feeds
 
 on:
   schedule:
-    - cron: '33 3 * * *'  # Daily at 3:33am UTC
-  workflow_dispatch:      # Allow manual trigger from GitHub UI
+    - cron: '33 3 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -28,15 +28,10 @@ jobs:
           with urllib.request.urlopen(url, timeout=20) as r:
               services = json.loads(r.read())
 
-          print(f"Got {len(services)} service entries.")
-
-          # Flat list
           urls = sorted(set(f"{rss_base}{s['service']}.rss" for s in services))
           with open("aws_rss_feeds.txt", "w") as f:
               f.write("\n".join(urls) + "\n")
-          print(f"Written aws_rss_feeds.txt ({len(urls)} feeds)")
 
-          # Structured JSON: service_name -> region_name -> url
           structured = {}
           for s in services:
               name   = s.get("service_name") or "Unknown"
@@ -48,37 +43,30 @@ jobs:
           with open("aws_rss_feeds.json", "w") as f:
               json.dump(sorted_out, f, indent=2)
               f.write("\n")
-          print(f"Written aws_rss_feeds.json ({len(sorted_out)} services)")
 
-          # README with dynamic counts
           updated = datetime.datetime.utcnow().strftime("%Y-%m-%d")
-          readme = f"""# AWS Status RSS Feeds
-
-Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
-
-Currently tracking **{len(urls)} feeds** across **{len(sorted_out)} services**.
-
-## Files
-
-- `aws_rss_feeds.txt` — flat list, one URL per line
-- `aws_rss_feeds.json` — grouped by service name and region
-
-## Source
-
-Feed URLs are derived from the `services.json` endpoint that powers the official [AWS Health Dashboard](https://health.aws.amazon.com/health/status).
-
-_Last updated: {updated} UTC_
-
-## License
-
-This project is released under the MIT License.
-"""
+          readme = (
+              "# AWS Status RSS Feeds\n\n"
+              "Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.\n\n"
+              f"Currently tracking **{len(urls)} feeds** across **{len(sorted_out)} services**.\n\n"
+              "## Files\n\n"
+              "- `aws_rss_feeds.txt` - flat list, one URL per line\n"
+              "- `aws_rss_feeds.json` - grouped by service name and region\n\n"
+              "## Source\n\n"
+              "Feed URLs are derived from the `services.json` endpoint that powers the official [AWS Health Dashboard](https://health.aws.amazon.com/health/status).\n\n"
+              f"_Last updated: {updated} UTC_\n\n"
+              "## License\n\n"
+              "This project is released under the MIT License.\n"
+          )
           with open("README.md", "w") as f:
               f.write(readme)
-          print(f"Written README.md")
+
+          print(f"Done: {len(urls)} feeds, {len(sorted_out)} services")
           EOF
 
       - name: Commit and push if changed
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -88,6 +76,6 @@ This project is released under the MIT License.
           else
             COUNT=$(wc -l < aws_rss_feeds.txt | tr -d ' ')
             git commit -m "chore: update AWS RSS feeds (${COUNT} feeds) [skip ci]"
-            git push --force https://x-access-token:${{ secrets.GH_PAT }}@github.com/lugnut29/aws-status-rss-feeds.git HEAD:main
+            git push --force https://x-access-token:${GH_PAT}@github.com/lugnut29/aws-status-rss-feeds.git HEAD:main
             echo "Changes committed and pushed."
           fi
