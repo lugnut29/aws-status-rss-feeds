@@ -6,10 +6,13 @@ Currently tracking **5,768 feeds** across **268 services** and **37 regions**.
 
 _Last updated: 2026-03-25 UTC_
 
+_Last change by AWS: No changes recorded yet._
+
 ## Files
 
 - `aws_rss_feeds.txt` - flat list, one URL per line
 - `aws_rss_feeds.json` - grouped by service name and region
+- `CHANGELOG.md` - history of AWS service and region additions/removals
 
 ## Regions (37)
 
