@@ -2,9 +2,20 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,768 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,772 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-03-29 UTC_
+_Last checked: 2026-03-30 UTC_
+
+## Recent changes by AWS
+
+## 2026-03-30
+
+- Added **AWS HealthImaging** in London
+- Added **AWS Private CA Connector for SCEP** in New Zealand
+- Added **AWS Private CA Connector for SCEP** in Taipei
+- Added **Amazon Rekognition** in Sao Paulo
+
+_Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
 
@@ -18,7 +29,7 @@ _Last checked: 2026-03-29 UTC_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 146 |
-| ap-east-2 | Taipei | 91 |
+| ap-east-2 | Taipei | 92 |
 | ap-northeast-1 | Tokyo | 214 |
 | ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 136 |
@@ -29,7 +40,7 @@ _Last checked: 2026-03-29 UTC_
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 119 |
-| ap-southeast-6 | New Zealand | 90 |
+| ap-southeast-6 | New Zealand | 91 |
 | ap-southeast-7 | Thailand | 102 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 111 |
@@ -39,14 +50,14 @@ _Last checked: 2026-03-29 UTC_
 | eu-south-1 | Milan | 142 |
 | eu-south-2 | Spain | 138 |
 | eu-west-1 | Ireland | 229 |
-| eu-west-2 | London | 202 |
+| eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
 | global | global | 23 |
 | il-central-1 | Tel Aviv | 130 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 99 |
-| sa-east-1 | Sao Paulo | 163 |
+| sa-east-1 | Sao Paulo | 164 |
 | us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 146 |
@@ -119,7 +130,7 @@ _Last checked: 2026-03-29 UTC_
 | AWS Glue DataBrew | 20 |
 | AWS Ground Station | 12 |
 | AWS Health | 3 |
-| AWS HealthImaging | 4 |
+| AWS HealthImaging | 5 |
 | AWS HealthLake | 8 |
 | AWS HealthOmics | 8 |
 | AWS IAM Identity Center | 36 |
@@ -161,7 +172,7 @@ _Last checked: 2026-03-29 UTC_
 | AWS Payment Cryptography | 15 |
 | AWS Price List Service | 3 |
 | AWS Private CA Connector for Active Directory | 34 |
-| AWS Private CA Connector for SCEP | 32 |
+| AWS Private CA Connector for SCEP | 34 |
 | AWS Private Certificate Authority | 36 |
 | AWS Proton | 11 |
 | AWS RTB Fabric | 6 |
@@ -285,7 +296,7 @@ _Last checked: 2026-03-29 UTC_
 | Amazon Q Business | 4 |
 | Amazon Quick Suite | 25 |
 | Amazon Redshift | 36 |
-| Amazon Rekognition | 16 |
+| Amazon Rekognition | 17 |
 | Amazon Relational Database Service | 36 |
 | Amazon Route 53 | 3 |
 | Amazon Route 53 Application Recovery Controller | 1 |

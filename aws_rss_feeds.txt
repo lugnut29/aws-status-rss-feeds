@@ -2811,6 +2811,7 @@ https://status.aws.amazon.com/rss/health-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/health.rss
 https://status.aws.amazon.com/rss/healthimaging-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/healthimaging-eu-west-1.rss
+https://status.aws.amazon.com/rss/healthimaging-eu-west-2.rss
 https://status.aws.amazon.com/rss/healthimaging-us-east-1.rss
 https://status.aws.amazon.com/rss/healthimaging-us-west-2.rss
 https://status.aws.amazon.com/rss/healthlake-ap-south-1.rss
@@ -3968,6 +3969,7 @@ https://status.aws.amazon.com/rss/paymentcryptography-us-east-2.rss
 https://status.aws.amazon.com/rss/paymentcryptography-us-west-2.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-af-south-1.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ap-east-1.rss
+https://status.aws.amazon.com/rss/pca-connector-scep-ap-east-2.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ap-northeast-3.rss
@@ -3978,6 +3980,7 @@ https://status.aws.amazon.com/rss/pca-connector-scep-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/pca-connector-scep-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ca-central-1.rss
 https://status.aws.amazon.com/rss/pca-connector-scep-ca-west-1.rss
@@ -4311,6 +4314,7 @@ https://status.aws.amazon.com/rss/rekognition-eu-south-2.rss
 https://status.aws.amazon.com/rss/rekognition-eu-west-1.rss
 https://status.aws.amazon.com/rss/rekognition-eu-west-2.rss
 https://status.aws.amazon.com/rss/rekognition-il-central-1.rss
+https://status.aws.amazon.com/rss/rekognition-sa-east-1.rss
 https://status.aws.amazon.com/rss/rekognition-us-east-1.rss
 https://status.aws.amazon.com/rss/rekognition-us-east-2.rss
 https://status.aws.amazon.com/rss/rekognition-us-gov-west-1.rss

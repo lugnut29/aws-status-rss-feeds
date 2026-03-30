@@ -1441,6 +1441,7 @@
   },
   "AWS HealthImaging": {
     "Ireland": "https://status.aws.amazon.com/rss/healthimaging-eu-west-1.rss",
+    "London": "https://status.aws.amazon.com/rss/healthimaging-eu-west-2.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/healthimaging-us-east-1.rss",
     "Oregon": "https://status.aws.amazon.com/rss/healthimaging-us-west-2.rss",
     "Sydney": "https://status.aws.amazon.com/rss/healthimaging-ap-southeast-2.rss"
@@ -2238,6 +2239,7 @@
     "Mumbai": "https://status.aws.amazon.com/rss/pca-connector-scep-ap-south-1.rss",
     "N. California": "https://status.aws.amazon.com/rss/pca-connector-scep-us-west-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/pca-connector-scep-us-east-1.rss",
+    "New Zealand": "https://status.aws.amazon.com/rss/pca-connector-scep-ap-southeast-6.rss",
     "Ohio": "https://status.aws.amazon.com/rss/pca-connector-scep-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/pca-connector-scep-us-west-2.rss",
     "Osaka": "https://status.aws.amazon.com/rss/pca-connector-scep-ap-northeast-3.rss",
@@ -2248,6 +2250,7 @@
     "Spain": "https://status.aws.amazon.com/rss/pca-connector-scep-eu-south-2.rss",
     "Stockholm": "https://status.aws.amazon.com/rss/pca-connector-scep-eu-north-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/pca-connector-scep-ap-southeast-2.rss",
+    "Taipei": "https://status.aws.amazon.com/rss/pca-connector-scep-ap-east-2.rss",
     "Tel Aviv": "https://status.aws.amazon.com/rss/pca-connector-scep-il-central-1.rss",
     "Thailand": "https://status.aws.amazon.com/rss/pca-connector-scep-ap-southeast-7.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/pca-connector-scep-ap-northeast-1.rss",
@@ -5250,6 +5253,7 @@
     "N. Virginia": "https://status.aws.amazon.com/rss/rekognition-us-east-1.rss",
     "Ohio": "https://status.aws.amazon.com/rss/rekognition-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/rekognition-us-west-2.rss",
+    "Sao Paulo": "https://status.aws.amazon.com/rss/rekognition-sa-east-1.rss",
     "Seoul": "https://status.aws.amazon.com/rss/rekognition-ap-northeast-2.rss",
     "Singapore": "https://status.aws.amazon.com/rss/rekognition-ap-southeast-1.rss",
     "Spain": "https://status.aws.amazon.com/rss/rekognition-eu-south-2.rss",
