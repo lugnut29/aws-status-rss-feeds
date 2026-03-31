@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-03-31
+
+- Added service **AWS DevOps Agent** (Frankfurt, Ireland, N. Virginia, Oregon, Sydney, Tokyo)
+
 ## 2026-03-30
 
 - Added **AWS HealthImaging** in London

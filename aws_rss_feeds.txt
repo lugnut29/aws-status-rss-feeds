@@ -1583,6 +1583,12 @@ https://status.aws.amazon.com/rss/detective-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/detective-us-west-1.rss
 https://status.aws.amazon.com/rss/detective-us-west-2.rss
 https://status.aws.amazon.com/rss/devicefarm-us-west-2.rss
+https://status.aws.amazon.com/rss/devops-agent-ap-northeast-1.rss
+https://status.aws.amazon.com/rss/devops-agent-ap-southeast-2.rss
+https://status.aws.amazon.com/rss/devops-agent-eu-central-1.rss
+https://status.aws.amazon.com/rss/devops-agent-eu-west-1.rss
+https://status.aws.amazon.com/rss/devops-agent-us-east-1.rss
+https://status.aws.amazon.com/rss/devops-agent-us-west-2.rss
 https://status.aws.amazon.com/rss/devops-guru-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/devops-guru-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/devops-guru-ap-south-1.rss
