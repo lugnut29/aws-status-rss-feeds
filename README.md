@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,778 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,779 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-04-05 UTC_
+_Last checked: 2026-04-06 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-06
+
+- Added **Amazon Lightsail** in Malaysia
 
 ## 2026-03-31
 
@@ -43,7 +47,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 222 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 119 |
+| ap-southeast-5 | Malaysia | 120 |
 | ap-southeast-6 | New Zealand | 91 |
 | ap-southeast-7 | Thailand | 102 |
 | ca-central-1 | Canada-Central | 193 |
@@ -277,7 +281,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Kinesis Firehose | 36 |
 | Amazon Kinesis Video Streams | 21 |
 | Amazon Lex | 12 |
-| Amazon Lightsail | 15 |
+| Amazon Lightsail | 16 |
 | Amazon Location Service | 16 |
 | Amazon Lookout for Equipment | 3 |
 | Amazon MQ | 36 |

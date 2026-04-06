@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-04-06
+
+- Added **Amazon Lightsail** in Malaysia
+
 ## 2026-03-31
 
 - Added service **AWS DevOps Agent** (Frankfurt, Ireland, N. Virginia, Oregon, Sydney, Tokyo)
