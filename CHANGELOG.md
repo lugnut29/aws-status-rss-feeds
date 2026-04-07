@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-04-07
+
+- Added **AWS CloudHSM** in Thailand
+
 ## 2026-04-06
 
 - Added **Amazon Lightsail** in Malaysia

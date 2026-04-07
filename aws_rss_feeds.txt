@@ -911,6 +911,7 @@ https://status.aws.amazon.com/rss/cloudhsm-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/cloudhsm-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/cloudhsm-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/cloudhsm-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/cloudhsm-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/cloudhsm-ca-central-1.rss
 https://status.aws.amazon.com/rss/cloudhsm-ca-west-1.rss
 https://status.aws.amazon.com/rss/cloudhsm-eu-central-1.rss

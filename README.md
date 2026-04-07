@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,779 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,780 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-04-06 UTC_
+_Last checked: 2026-04-07 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-07
+
+- Added **AWS CloudHSM** in Thailand
 
 ## 2026-04-06
 
@@ -49,7 +53,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 120 |
 | ap-southeast-6 | New Zealand | 91 |
-| ap-southeast-7 | Thailand | 102 |
+| ap-southeast-7 | Thailand | 103 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 111 |
 | eu-central-1 | Frankfurt | 220 |
@@ -102,7 +106,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Cloud WAN | 3 |
 | AWS Cloud9 | 22 |
 | AWS CloudFormation | 36 |
-| AWS CloudHSM | 32 |
+| AWS CloudHSM | 33 |
 | AWS CloudShell | 30 |
 | AWS CloudTrail | 36 |
 | AWS CodeArtifact | 13 |
