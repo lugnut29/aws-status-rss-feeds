@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-04-08
+
+- Added **AWS CloudShell** in Zurich
+
 ## 2026-04-07
 
 - Added **AWS CloudHSM** in Thailand

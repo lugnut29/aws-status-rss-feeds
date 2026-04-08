@@ -573,7 +573,8 @@
     "Tokyo": "https://status.aws.amazon.com/rss/cloudshell-ap-northeast-1.rss",
     "UAE": "https://status.aws.amazon.com/rss/cloudshell-me-central-1.rss",
     "US-East": "https://status.aws.amazon.com/rss/cloudshell-us-gov-east-1.rss",
-    "US-West": "https://status.aws.amazon.com/rss/cloudshell-us-gov-west-1.rss"
+    "US-West": "https://status.aws.amazon.com/rss/cloudshell-us-gov-west-1.rss",
+    "Zurich": "https://status.aws.amazon.com/rss/cloudshell-eu-central-2.rss"
   },
   "AWS CloudTrail": {
     "Bahrain": "https://status.aws.amazon.com/rss/cloudtrail-me-south-1.rss",

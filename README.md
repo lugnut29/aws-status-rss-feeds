@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,780 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,781 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-04-07 UTC_
+_Last checked: 2026-04-08 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-08
+
+- Added **AWS CloudShell** in Zurich
 
 ## 2026-04-07
 
@@ -57,7 +61,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 111 |
 | eu-central-1 | Frankfurt | 220 |
-| eu-central-2 | Zurich | 127 |
+| eu-central-2 | Zurich | 128 |
 | eu-north-1 | Stockholm | 169 |
 | eu-south-1 | Milan | 142 |
 | eu-south-2 | Spain | 138 |
@@ -107,7 +111,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Cloud9 | 22 |
 | AWS CloudFormation | 36 |
 | AWS CloudHSM | 33 |
-| AWS CloudShell | 30 |
+| AWS CloudShell | 31 |
 | AWS CloudTrail | 36 |
 | AWS CodeArtifact | 13 |
 | AWS CodeBuild | 30 |
