@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,781 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,782 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-04-08 UTC_
+_Last checked: 2026-04-09 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-09
+
+- Added **Bedrock AgentCore** in Sao Paulo
 
 ## 2026-04-08
 
@@ -23,13 +27,6 @@ _Last checked: 2026-04-08 UTC_
 ## 2026-03-31
 
 - Added service **AWS DevOps Agent** (Frankfurt, Ireland, N. Virginia, Oregon, Sydney, Tokyo)
-
-## 2026-03-30
-
-- Added **AWS HealthImaging** in London
-- Added **AWS Private CA Connector for SCEP** in New Zealand
-- Added **AWS Private CA Connector for SCEP** in Taipei
-- Added **Amazon Rekognition** in Sao Paulo
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -73,7 +70,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 99 |
-| sa-east-1 | Sao Paulo | 164 |
+| sa-east-1 | Sao Paulo | 165 |
 | us-east-1 | N. Virginia | 241 |
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 146 |
@@ -343,7 +340,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon WorkSpaces Secure Browser | 10 |
 | Amazon WorkSpaces Thin Client | 7 |
 | Auto Scaling | 36 |
-| Bedrock AgentCore | 14 |
+| Bedrock AgentCore | 15 |
 | Control Catalog | 36 |
 | EC2 Image Builder | 36 |
 | EC2 Serial Console | 34 |

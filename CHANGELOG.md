@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-04-09
+
+- Added **Bedrock AgentCore** in Sao Paulo
+
 ## 2026-04-08
 
 - Added **AWS CloudShell** in Zurich

@@ -687,6 +687,7 @@ https://status.aws.amazon.com/rss/bedrock-agentcore-eu-north-1.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-eu-west-1.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-eu-west-2.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-eu-west-3.rss
+https://status.aws.amazon.com/rss/bedrock-agentcore-sa-east-1.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-us-east-1.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-us-east-2.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-us-west-2.rss

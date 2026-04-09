@@ -6012,6 +6012,7 @@
     "Ohio": "https://status.aws.amazon.com/rss/bedrock-agentcore-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/bedrock-agentcore-us-west-2.rss",
     "Paris": "https://status.aws.amazon.com/rss/bedrock-agentcore-eu-west-3.rss",
+    "Sao Paulo": "https://status.aws.amazon.com/rss/bedrock-agentcore-sa-east-1.rss",
     "Seoul": "https://status.aws.amazon.com/rss/bedrock-agentcore-ap-northeast-2.rss",
     "Singapore": "https://status.aws.amazon.com/rss/bedrock-agentcore-ap-southeast-1.rss",
     "Stockholm": "https://status.aws.amazon.com/rss/bedrock-agentcore-eu-north-1.rss",
