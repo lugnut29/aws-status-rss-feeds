@@ -1558,9 +1558,6 @@ https://status.aws.amazon.com/rss/deadline-eu-west-2.rss
 https://status.aws.amazon.com/rss/deadline-us-east-1.rss
 https://status.aws.amazon.com/rss/deadline-us-east-2.rss
 https://status.aws.amazon.com/rss/deadline-us-west-2.rss
-https://status.aws.amazon.com/rss/deeplens-ap-northeast-1.rss
-https://status.aws.amazon.com/rss/deeplens-eu-central-1.rss
-https://status.aws.amazon.com/rss/deeplens-us-east-1.rss
 https://status.aws.amazon.com/rss/deepracer-us-east-1.rss
 https://status.aws.amazon.com/rss/detective-af-south-1.rss
 https://status.aws.amazon.com/rss/detective-ap-east-1.rss
@@ -5256,6 +5253,7 @@ https://status.aws.amazon.com/rss/supportapi-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/supportapi.rss
 https://status.aws.amazon.com/rss/supportcenter-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/supportcenter.rss
+https://status.aws.amazon.com/rss/sustainability.rss
 https://status.aws.amazon.com/rss/swf-af-south-1.rss
 https://status.aws.amazon.com/rss/swf-ap-east-1.rss
 https://status.aws.amazon.com/rss/swf-ap-east-2.rss

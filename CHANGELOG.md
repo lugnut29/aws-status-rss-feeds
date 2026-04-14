@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-04-14
+
+- Added service **AWS Sustainability** (global)
+- Removed service **AWS DeepLens**
+
 ## 2026-04-09
 
 - Added **Bedrock AgentCore** in Sao Paulo

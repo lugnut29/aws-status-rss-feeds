@@ -1004,11 +1004,6 @@
     "Sydney": "https://status.aws.amazon.com/rss/deadline-ap-southeast-2.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/deadline-ap-northeast-1.rss"
   },
-  "AWS DeepLens": {
-    "Frankfurt": "https://status.aws.amazon.com/rss/deeplens-eu-central-1.rss",
-    "N. Virginia": "https://status.aws.amazon.com/rss/deeplens-us-east-1.rss",
-    "Tokyo": "https://status.aws.amazon.com/rss/deeplens-ap-northeast-1.rss"
-  },
   "AWS DeepRacer": {
     "N. Virginia": "https://status.aws.amazon.com/rss/deepracer-us-east-1.rss"
   },
@@ -2908,6 +2903,9 @@
   "AWS Support Center": {
     "US-West": "https://status.aws.amazon.com/rss/supportcenter-us-gov-west-1.rss",
     "global": "https://status.aws.amazon.com/rss/supportcenter.rss"
+  },
+  "AWS Sustainability": {
+    "global": "https://status.aws.amazon.com/rss/sustainability.rss"
   },
   "AWS Systems Manager": {
     "Bahrain": "https://status.aws.amazon.com/rss/ec2systemsmanager-me-south-1.rss",

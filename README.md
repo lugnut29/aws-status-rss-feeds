@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,782 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,780 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-04-13 UTC_
+_Last checked: 2026-04-14 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-14
+
+- Added service **AWS Sustainability** (global)
+- Removed service **AWS DeepLens**
 
 ## 2026-04-09
 
@@ -24,10 +29,6 @@ _Last checked: 2026-04-13 UTC_
 
 - Added **Amazon Lightsail** in Malaysia
 
-## 2026-03-31
-
-- Added service **AWS DevOps Agent** (Frankfurt, Ireland, N. Virginia, Oregon, Sydney, Tokyo)
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -43,7 +44,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 146 |
 | ap-east-2 | Taipei | 92 |
-| ap-northeast-1 | Tokyo | 215 |
+| ap-northeast-1 | Tokyo | 214 |
 | ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 136 |
 | ap-south-1 | Mumbai | 190 |
@@ -57,7 +58,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-7 | Thailand | 103 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 111 |
-| eu-central-1 | Frankfurt | 220 |
+| eu-central-1 | Frankfurt | 219 |
 | eu-central-2 | Zurich | 128 |
 | eu-north-1 | Stockholm | 169 |
 | eu-south-1 | Milan | 142 |
@@ -65,13 +66,13 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-west-1 | Ireland | 230 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
-| global | global | 23 |
+| global | global | 24 |
 | il-central-1 | Tel Aviv | 130 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 99 |
 | sa-east-1 | Sao Paulo | 165 |
-| us-east-1 | N. Virginia | 241 |
+| us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 146 |
 | us-gov-west-1 | US-West | 166 |
@@ -124,7 +125,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS DataSync | 36 |
 | AWS Database Migration Service | 36 |
 | AWS Deadline Cloud | 10 |
-| AWS DeepLens | 3 |
 | AWS DeepRacer | 1 |
 | AWS DevOps Agent | 6 |
 | AWS Device Farm | 1 |
@@ -210,6 +210,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Storage Gateway | 36 |
 | AWS Support API | 3 |
 | AWS Support Center | 2 |
+| AWS Sustainability | 1 |
 | AWS Systems Manager | 36 |
 | AWS Systems Manager for SAP | 28 |
 | AWS Telco Network Builder | 10 |
