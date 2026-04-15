@@ -2,11 +2,17 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,780 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,788 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-04-14 UTC_
+_Last checked: 2026-04-15 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-15
+
+- Added **AWS Payment Cryptography** in Sao Paulo
+- Added service **AWS Security Agent** (Frankfurt, Ireland, N. Virginia, Oregon, Sydney, Tokyo)
+- Added **Amazon Neptune** in Hyderabad
 
 ## 2026-04-14
 
@@ -25,10 +31,6 @@ _Last checked: 2026-04-14 UTC_
 
 - Added **AWS CloudHSM** in Thailand
 
-## 2026-04-06
-
-- Added **Amazon Lightsail** in Malaysia
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -44,13 +46,13 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 146 |
 | ap-east-2 | Taipei | 92 |
-| ap-northeast-1 | Tokyo | 214 |
+| ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 136 |
 | ap-south-1 | Mumbai | 190 |
-| ap-south-2 | Hyderabad | 125 |
+| ap-south-2 | Hyderabad | 126 |
 | ap-southeast-1 | Singapore | 208 |
-| ap-southeast-2 | Sydney | 222 |
+| ap-southeast-2 | Sydney | 223 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 120 |
@@ -58,12 +60,12 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-7 | Thailand | 103 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 111 |
-| eu-central-1 | Frankfurt | 219 |
+| eu-central-1 | Frankfurt | 220 |
 | eu-central-2 | Zurich | 128 |
 | eu-north-1 | Stockholm | 169 |
 | eu-south-1 | Milan | 142 |
 | eu-south-2 | Spain | 138 |
-| eu-west-1 | Ireland | 230 |
+| eu-west-1 | Ireland | 231 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
 | global | global | 24 |
@@ -71,15 +73,15 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 99 |
-| sa-east-1 | Sao Paulo | 165 |
-| us-east-1 | N. Virginia | 240 |
+| sa-east-1 | Sao Paulo | 166 |
+| us-east-1 | N. Virginia | 241 |
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 146 |
 | us-gov-west-1 | US-West | 166 |
 | us-west-1 | N. California | 162 |
-| us-west-2 | Oregon | 232 |
+| us-west-2 | Oregon | 233 |
 
-## Services (269)
+## Services (270)
 
 | Service | Region Count |
 |---------|-------------|
@@ -183,7 +185,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Panorama | 4 |
 | AWS Parallel Computing Service | 14 |
 | AWS Partner Central | 3 |
-| AWS Payment Cryptography | 15 |
+| AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |
 | AWS Private CA Connector for Active Directory | 34 |
 | AWS Private CA Connector for SCEP | 34 |
@@ -196,6 +198,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Resource Groups | 36 |
 | AWS Resource Groups Tagging API | 36 |
 | AWS Secrets Manager | 36 |
+| AWS Security Agent | 6 |
 | AWS Security Hub | 36 |
 | AWS Security Incident Response | 25 |
 | AWS Security Token Service | 36 |
@@ -301,7 +304,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Managed Workflows for Apache Airflow | 31 |
 | Amazon MemoryDB for Redis | 21 |
 | Amazon Monitron | 3 |
-| Amazon Neptune | 30 |
+| Amazon Neptune | 31 |
 | Amazon One Enterprise | 1 |
 | Amazon OpenSearch Service | 36 |
 | Amazon Personalize | 11 |

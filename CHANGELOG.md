@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-04-15
+
+- Added **AWS Payment Cryptography** in Sao Paulo
+- Added service **AWS Security Agent** (Frankfurt, Ireland, N. Virginia, Oregon, Sydney, Tokyo)
+- Added **Amazon Neptune** in Hyderabad
+
 ## 2026-04-14
 
 - Added service **AWS Sustainability** (global)

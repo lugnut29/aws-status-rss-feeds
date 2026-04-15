@@ -2181,6 +2181,7 @@
     "Oregon": "https://status.aws.amazon.com/rss/paymentcryptography-us-west-2.rss",
     "Osaka": "https://status.aws.amazon.com/rss/paymentcryptography-ap-northeast-3.rss",
     "Paris": "https://status.aws.amazon.com/rss/paymentcryptography-eu-west-3.rss",
+    "Sao Paulo": "https://status.aws.amazon.com/rss/paymentcryptography-sa-east-1.rss",
     "Singapore": "https://status.aws.amazon.com/rss/paymentcryptography-ap-southeast-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/paymentcryptography-ap-southeast-2.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/paymentcryptography-ap-northeast-1.rss"
@@ -2532,6 +2533,14 @@
     "US-East": "https://status.aws.amazon.com/rss/secretsmanager-us-gov-east-1.rss",
     "US-West": "https://status.aws.amazon.com/rss/secretsmanager-us-gov-west-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/secretsmanager-eu-central-2.rss"
+  },
+  "AWS Security Agent": {
+    "Frankfurt": "https://status.aws.amazon.com/rss/securityagent-eu-central-1.rss",
+    "Ireland": "https://status.aws.amazon.com/rss/securityagent-eu-west-1.rss",
+    "N. Virginia": "https://status.aws.amazon.com/rss/securityagent-us-east-1.rss",
+    "Oregon": "https://status.aws.amazon.com/rss/securityagent-us-west-2.rss",
+    "Sydney": "https://status.aws.amazon.com/rss/securityagent-ap-southeast-2.rss",
+    "Tokyo": "https://status.aws.amazon.com/rss/securityagent-ap-northeast-1.rss"
   },
   "AWS Security Hub": {
     "Bahrain": "https://status.aws.amazon.com/rss/securityhub-me-south-1.rss",
@@ -5057,6 +5066,7 @@
     "Cape Town": "https://status.aws.amazon.com/rss/neptune-db-af-south-1.rss",
     "Frankfurt": "https://status.aws.amazon.com/rss/neptune-db-eu-central-1.rss",
     "Hong Kong": "https://status.aws.amazon.com/rss/neptune-db-ap-east-1.rss",
+    "Hyderabad": "https://status.aws.amazon.com/rss/neptune-db-ap-south-2.rss",
     "Ireland": "https://status.aws.amazon.com/rss/neptune-db-eu-west-1.rss",
     "Jakarta": "https://status.aws.amazon.com/rss/neptune-db-ap-southeast-3.rss",
     "London": "https://status.aws.amazon.com/rss/neptune-db-eu-west-2.rss",

@@ -3801,6 +3801,7 @@ https://status.aws.amazon.com/rss/neptune-db-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/neptune-db-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/neptune-db-ap-northeast-3.rss
 https://status.aws.amazon.com/rss/neptune-db-ap-south-1.rss
+https://status.aws.amazon.com/rss/neptune-db-ap-south-2.rss
 https://status.aws.amazon.com/rss/neptune-db-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/neptune-db-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/neptune-db-ap-southeast-3.rss
@@ -3971,6 +3972,7 @@ https://status.aws.amazon.com/rss/paymentcryptography-eu-central-1.rss
 https://status.aws.amazon.com/rss/paymentcryptography-eu-west-1.rss
 https://status.aws.amazon.com/rss/paymentcryptography-eu-west-2.rss
 https://status.aws.amazon.com/rss/paymentcryptography-eu-west-3.rss
+https://status.aws.amazon.com/rss/paymentcryptography-sa-east-1.rss
 https://status.aws.amazon.com/rss/paymentcryptography-us-east-1.rss
 https://status.aws.amazon.com/rss/paymentcryptography-us-east-2.rss
 https://status.aws.amazon.com/rss/paymentcryptography-us-west-2.rss
@@ -4778,6 +4780,12 @@ https://status.aws.amazon.com/rss/security-ir-sa-east-1.rss
 https://status.aws.amazon.com/rss/security-ir-us-east-1.rss
 https://status.aws.amazon.com/rss/security-ir-us-east-2.rss
 https://status.aws.amazon.com/rss/security-ir-us-west-2.rss
+https://status.aws.amazon.com/rss/securityagent-ap-northeast-1.rss
+https://status.aws.amazon.com/rss/securityagent-ap-southeast-2.rss
+https://status.aws.amazon.com/rss/securityagent-eu-central-1.rss
+https://status.aws.amazon.com/rss/securityagent-eu-west-1.rss
+https://status.aws.amazon.com/rss/securityagent-us-east-1.rss
+https://status.aws.amazon.com/rss/securityagent-us-west-2.rss
 https://status.aws.amazon.com/rss/securityhub-af-south-1.rss
 https://status.aws.amazon.com/rss/securityhub-ap-east-1.rss
 https://status.aws.amazon.com/rss/securityhub-ap-east-2.rss
