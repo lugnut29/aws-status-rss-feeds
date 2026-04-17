@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-04-17
+
+- Added **AWS Parallel Computing Service** in Milan
+- Added **Amazon WorkSpaces** in Malaysia
+- Added **Amazon WorkSpaces** in Ohio
+
 ## 2026-04-15
 
 - Added **AWS Payment Cryptography** in Sao Paulo

@@ -2,11 +2,17 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,788 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,791 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-04-16 UTC_
+_Last checked: 2026-04-17 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-17
+
+- Added **AWS Parallel Computing Service** in Milan
+- Added **Amazon WorkSpaces** in Malaysia
+- Added **Amazon WorkSpaces** in Ohio
 
 ## 2026-04-15
 
@@ -26,10 +32,6 @@ _Last checked: 2026-04-16 UTC_
 ## 2026-04-08
 
 - Added **AWS CloudShell** in Zurich
-
-## 2026-04-07
-
-- Added **AWS CloudHSM** in Thailand
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -55,7 +57,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 223 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 120 |
+| ap-southeast-5 | Malaysia | 121 |
 | ap-southeast-6 | New Zealand | 91 |
 | ap-southeast-7 | Thailand | 103 |
 | ca-central-1 | Canada-Central | 193 |
@@ -63,7 +65,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-central-1 | Frankfurt | 220 |
 | eu-central-2 | Zurich | 128 |
 | eu-north-1 | Stockholm | 169 |
-| eu-south-1 | Milan | 142 |
+| eu-south-1 | Milan | 143 |
 | eu-south-2 | Spain | 138 |
 | eu-west-1 | Ireland | 231 |
 | eu-west-2 | London | 203 |
@@ -75,7 +77,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | mx-central-1 | Mexico-Central | 99 |
 | sa-east-1 | Sao Paulo | 166 |
 | us-east-1 | N. Virginia | 241 |
-| us-east-2 | Ohio | 204 |
+| us-east-2 | Ohio | 205 |
 | us-gov-east-1 | US-East | 146 |
 | us-gov-west-1 | US-West | 166 |
 | us-west-1 | N. California | 162 |
@@ -183,7 +185,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
 | AWS Panorama | 4 |
-| AWS Parallel Computing Service | 14 |
+| AWS Parallel Computing Service | 15 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |
@@ -339,7 +341,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Verified Permissions | 36 |
 | Amazon Virtual Private Cloud | 36 |
 | Amazon WorkMail | 3 |
-| Amazon WorkSpaces | 17 |
+| Amazon WorkSpaces | 19 |
 | Amazon WorkSpaces Applications | 20 |
 | Amazon WorkSpaces Secure Browser | 10 |
 | Amazon WorkSpaces Thin Client | 7 |
