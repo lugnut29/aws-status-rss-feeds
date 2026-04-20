@@ -2,11 +2,18 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,791 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,795 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-04-19 UTC_
+_Last checked: 2026-04-20 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-20
+
+- Added **AWS IoT Core** in Milan
+- Added **AWS IoT Core** in Tel Aviv
+- Added **AWS Resource Explorer** in US-East
+- Added **AWS Resource Explorer** in US-West
 
 ## 2026-04-17
 
@@ -28,10 +35,6 @@ _Last checked: 2026-04-19 UTC_
 ## 2026-04-09
 
 - Added **Bedrock AgentCore** in Sao Paulo
-
-## 2026-04-08
-
-- Added **AWS CloudShell** in Zurich
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -65,21 +68,21 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-central-1 | Frankfurt | 220 |
 | eu-central-2 | Zurich | 128 |
 | eu-north-1 | Stockholm | 169 |
-| eu-south-1 | Milan | 143 |
+| eu-south-1 | Milan | 144 |
 | eu-south-2 | Spain | 138 |
 | eu-west-1 | Ireland | 231 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
 | global | global | 24 |
-| il-central-1 | Tel Aviv | 130 |
+| il-central-1 | Tel Aviv | 131 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 99 |
 | sa-east-1 | Sao Paulo | 166 |
 | us-east-1 | N. Virginia | 241 |
 | us-east-2 | Ohio | 205 |
-| us-gov-east-1 | US-East | 146 |
-| us-gov-west-1 | US-West | 166 |
+| us-gov-east-1 | US-East | 147 |
+| us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 162 |
 | us-west-2 | Oregon | 233 |
 
@@ -157,7 +160,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Import/Export | 3 |
 | AWS Internet Connectivity | 36 |
 | AWS IoT Analytics | 8 |
-| AWS IoT Core | 23 |
+| AWS IoT Core | 25 |
 | AWS IoT Device Defender | 22 |
 | AWS IoT Device Management | 21 |
 | AWS IoT Events | 13 |
@@ -196,7 +199,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS RTB Fabric | 6 |
 | AWS Resilience Hub | 22 |
 | AWS Resource Access Manager | 36 |
-| AWS Resource Explorer | 34 |
+| AWS Resource Explorer | 36 |
 | AWS Resource Groups | 36 |
 | AWS Resource Groups Tagging API | 36 |
 | AWS Secrets Manager | 36 |

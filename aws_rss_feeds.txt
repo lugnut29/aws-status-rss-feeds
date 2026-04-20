@@ -524,10 +524,12 @@ https://status.aws.amazon.com/rss/awsiot-ap-southeast-5.rss
 https://status.aws.amazon.com/rss/awsiot-ca-central-1.rss
 https://status.aws.amazon.com/rss/awsiot-eu-central-1.rss
 https://status.aws.amazon.com/rss/awsiot-eu-north-1.rss
+https://status.aws.amazon.com/rss/awsiot-eu-south-1.rss
 https://status.aws.amazon.com/rss/awsiot-eu-south-2.rss
 https://status.aws.amazon.com/rss/awsiot-eu-west-1.rss
 https://status.aws.amazon.com/rss/awsiot-eu-west-2.rss
 https://status.aws.amazon.com/rss/awsiot-eu-west-3.rss
+https://status.aws.amazon.com/rss/awsiot-il-central-1.rss
 https://status.aws.amazon.com/rss/awsiot-me-central-1.rss
 https://status.aws.amazon.com/rss/awsiot-me-south-1.rss
 https://status.aws.amazon.com/rss/awsiot-sa-east-1.rss
@@ -4391,6 +4393,8 @@ https://status.aws.amazon.com/rss/resourceexplorer-mx-central-1.rss
 https://status.aws.amazon.com/rss/resourceexplorer-sa-east-1.rss
 https://status.aws.amazon.com/rss/resourceexplorer-us-east-1.rss
 https://status.aws.amazon.com/rss/resourceexplorer-us-east-2.rss
+https://status.aws.amazon.com/rss/resourceexplorer-us-gov-east-1.rss
+https://status.aws.amazon.com/rss/resourceexplorer-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/resourceexplorer-us-west-1.rss
 https://status.aws.amazon.com/rss/resourceexplorer-us-west-2.rss
 https://status.aws.amazon.com/rss/resourcegroups-af-south-1.rss

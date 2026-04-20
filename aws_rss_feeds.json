@@ -1613,6 +1613,7 @@
     "Ireland": "https://status.aws.amazon.com/rss/awsiot-eu-west-1.rss",
     "London": "https://status.aws.amazon.com/rss/awsiot-eu-west-2.rss",
     "Malaysia": "https://status.aws.amazon.com/rss/awsiot-ap-southeast-5.rss",
+    "Milan": "https://status.aws.amazon.com/rss/awsiot-eu-south-1.rss",
     "Mumbai": "https://status.aws.amazon.com/rss/awsiot-ap-south-1.rss",
     "N. California": "https://status.aws.amazon.com/rss/awsiot-us-west-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/awsiot-us-east-1.rss",
@@ -1625,6 +1626,7 @@
     "Spain": "https://status.aws.amazon.com/rss/awsiot-eu-south-2.rss",
     "Stockholm": "https://status.aws.amazon.com/rss/awsiot-eu-north-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/awsiot-ap-southeast-2.rss",
+    "Tel Aviv": "https://status.aws.amazon.com/rss/awsiot-il-central-1.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/awsiot-ap-northeast-1.rss",
     "UAE": "https://status.aws.amazon.com/rss/awsiot-me-central-1.rss",
     "US-East": "https://status.aws.amazon.com/rss/awsiot-us-gov-east-1.rss",
@@ -2419,6 +2421,8 @@
     "Thailand": "https://status.aws.amazon.com/rss/resourceexplorer-ap-southeast-7.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/resourceexplorer-ap-northeast-1.rss",
     "UAE": "https://status.aws.amazon.com/rss/resourceexplorer-me-central-1.rss",
+    "US-East": "https://status.aws.amazon.com/rss/resourceexplorer-us-gov-east-1.rss",
+    "US-West": "https://status.aws.amazon.com/rss/resourceexplorer-us-gov-west-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/resourceexplorer-eu-central-2.rss"
   },
   "AWS Resource Groups": {

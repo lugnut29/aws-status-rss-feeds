@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-04-20
+
+- Added **AWS IoT Core** in Milan
+- Added **AWS IoT Core** in Tel Aviv
+- Added **AWS Resource Explorer** in US-East
+- Added **AWS Resource Explorer** in US-West
+
 ## 2026-04-17
 
 - Added **AWS Parallel Computing Service** in Milan
