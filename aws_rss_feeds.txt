@@ -957,6 +957,8 @@ https://status.aws.amazon.com/rss/cloudshell-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/cloudshell-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/cloudshell-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/cloudshell-ap-southeast-4.rss
+https://status.aws.amazon.com/rss/cloudshell-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/cloudshell-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/cloudshell-ca-central-1.rss
 https://status.aws.amazon.com/rss/cloudshell-ca-west-1.rss
 https://status.aws.amazon.com/rss/cloudshell-eu-central-1.rss

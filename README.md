@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,795 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,797 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-04-20 UTC_
+_Last checked: 2026-04-21 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-21
+
+- Added **AWS CloudShell** in Malaysia
+- Added **AWS CloudShell** in Thailand
 
 ## 2026-04-20
 
@@ -32,10 +37,6 @@ _Last checked: 2026-04-20 UTC_
 - Added service **AWS Sustainability** (global)
 - Removed service **AWS DeepLens**
 
-## 2026-04-09
-
-- Added **Bedrock AgentCore** in Sao Paulo
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -60,9 +61,9 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 223 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 121 |
+| ap-southeast-5 | Malaysia | 122 |
 | ap-southeast-6 | New Zealand | 91 |
-| ap-southeast-7 | Thailand | 103 |
+| ap-southeast-7 | Thailand | 104 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 111 |
 | eu-central-1 | Frankfurt | 220 |
@@ -116,7 +117,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Cloud9 | 22 |
 | AWS CloudFormation | 36 |
 | AWS CloudHSM | 33 |
-| AWS CloudShell | 31 |
+| AWS CloudShell | 33 |
 | AWS CloudTrail | 36 |
 | AWS CodeArtifact | 13 |
 | AWS CodeBuild | 30 |

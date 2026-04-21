@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-04-21
+
+- Added **AWS CloudShell** in Malaysia
+- Added **AWS CloudShell** in Thailand
+
 ## 2026-04-20
 
 - Added **AWS IoT Core** in Milan
