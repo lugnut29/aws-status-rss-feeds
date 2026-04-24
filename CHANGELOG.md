@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-04-24
+
+- Added **AWS Application Migration Service** in Calgary
+- Added **AWS Application Migration Service** in Mexico-Central
+- Added **AWS Application Migration Service** in New Zealand
+- Added **AWS Application Migration Service** in Taipei
+- Added **AWS Parallel Computing Service** in Spain
+
 ## 2026-04-21
 
 - Added **AWS CloudShell** in Malaysia

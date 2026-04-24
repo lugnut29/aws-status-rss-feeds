@@ -2,11 +2,19 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,797 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,802 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-04-23 UTC_
+_Last checked: 2026-04-24 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-24
+
+- Added **AWS Application Migration Service** in Calgary
+- Added **AWS Application Migration Service** in Mexico-Central
+- Added **AWS Application Migration Service** in New Zealand
+- Added **AWS Application Migration Service** in Taipei
+- Added **AWS Parallel Computing Service** in Spain
 
 ## 2026-04-21
 
@@ -32,11 +40,6 @@ _Last checked: 2026-04-23 UTC_
 - Added service **AWS Security Agent** (Frankfurt, Ireland, N. Virginia, Oregon, Sydney, Tokyo)
 - Added **Amazon Neptune** in Hyderabad
 
-## 2026-04-14
-
-- Added service **AWS Sustainability** (global)
-- Removed service **AWS DeepLens**
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -51,7 +54,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 146 |
-| ap-east-2 | Taipei | 92 |
+| ap-east-2 | Taipei | 93 |
 | ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 136 |
@@ -62,15 +65,15 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 122 |
-| ap-southeast-6 | New Zealand | 91 |
+| ap-southeast-6 | New Zealand | 92 |
 | ap-southeast-7 | Thailand | 104 |
 | ca-central-1 | Canada-Central | 193 |
-| ca-west-1 | Calgary | 111 |
+| ca-west-1 | Calgary | 112 |
 | eu-central-1 | Frankfurt | 220 |
 | eu-central-2 | Zurich | 128 |
 | eu-north-1 | Stockholm | 169 |
 | eu-south-1 | Milan | 144 |
-| eu-south-2 | Spain | 138 |
+| eu-south-2 | Spain | 139 |
 | eu-west-1 | Ireland | 231 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
@@ -78,7 +81,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | il-central-1 | Tel Aviv | 131 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
-| mx-central-1 | Mexico-Central | 99 |
+| mx-central-1 | Mexico-Central | 100 |
 | sa-east-1 | Sao Paulo | 166 |
 | us-east-1 | N. Virginia | 241 |
 | us-east-2 | Ohio | 205 |
@@ -102,7 +105,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS AppFabric | 3 |
 | AWS AppSync | 31 |
 | AWS Application Discovery Service | 7 |
-| AWS Application Migration Service | 32 |
+| AWS Application Migration Service | 36 |
 | AWS Audit Manager | 12 |
 | AWS B2B Data Interchange | 9 |
 | AWS Backup | 36 |
@@ -189,7 +192,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
 | AWS Panorama | 4 |
-| AWS Parallel Computing Service | 15 |
+| AWS Parallel Computing Service | 16 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |
