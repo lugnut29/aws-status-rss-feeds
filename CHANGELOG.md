@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-04-27
+
+- Added **AWS CloudHSM** in New Zealand
+
 ## 2026-04-24
 
 - Added **AWS Application Migration Service** in Calgary

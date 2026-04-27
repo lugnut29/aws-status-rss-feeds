@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,802 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,803 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-04-26 UTC_
+_Last checked: 2026-04-27 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-27
+
+- Added **AWS CloudHSM** in New Zealand
 
 ## 2026-04-24
 
@@ -34,12 +38,6 @@ _Last checked: 2026-04-26 UTC_
 - Added **Amazon WorkSpaces** in Malaysia
 - Added **Amazon WorkSpaces** in Ohio
 
-## 2026-04-15
-
-- Added **AWS Payment Cryptography** in Sao Paulo
-- Added service **AWS Security Agent** (Frankfurt, Ireland, N. Virginia, Oregon, Sydney, Tokyo)
-- Added **Amazon Neptune** in Hyderabad
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -65,7 +63,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 122 |
-| ap-southeast-6 | New Zealand | 92 |
+| ap-southeast-6 | New Zealand | 93 |
 | ap-southeast-7 | Thailand | 104 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 112 |
@@ -119,7 +117,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Cloud WAN | 3 |
 | AWS Cloud9 | 22 |
 | AWS CloudFormation | 36 |
-| AWS CloudHSM | 33 |
+| AWS CloudHSM | 34 |
 | AWS CloudShell | 33 |
 | AWS CloudTrail | 36 |
 | AWS CodeArtifact | 13 |

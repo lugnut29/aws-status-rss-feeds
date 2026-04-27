@@ -529,6 +529,7 @@
     "Mumbai": "https://status.aws.amazon.com/rss/cloudhsm-ap-south-1.rss",
     "N. California": "https://status.aws.amazon.com/rss/cloudhsm-us-west-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/cloudhsm-us-east-1.rss",
+    "New Zealand": "https://status.aws.amazon.com/rss/cloudhsm-ap-southeast-6.rss",
     "Ohio": "https://status.aws.amazon.com/rss/cloudhsm-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/cloudhsm-us-west-2.rss",
     "Osaka": "https://status.aws.amazon.com/rss/cloudhsm-ap-northeast-3.rss",
