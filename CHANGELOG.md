@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-04-28
+
+- Added **Amazon EC2 Instance Connect** in New Zealand
+- Added **Amazon EC2 Instance Connect** in Taipei
+- Added **Amazon Transcribe** in Zurich
+- Added **EC2 Serial Console** in New Zealand
+- Added **EC2 Serial Console** in Taipei
+
 ## 2026-04-27
 
 - Added **AWS CloudHSM** in New Zealand

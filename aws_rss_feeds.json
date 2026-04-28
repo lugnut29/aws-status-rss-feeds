@@ -3963,6 +3963,7 @@
     "Mumbai": "https://status.aws.amazon.com/rss/managedssh-ap-south-1.rss",
     "N. California": "https://status.aws.amazon.com/rss/managedssh-us-west-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/managedssh-us-east-1.rss",
+    "New Zealand": "https://status.aws.amazon.com/rss/managedssh-ap-southeast-6.rss",
     "Ohio": "https://status.aws.amazon.com/rss/managedssh-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/managedssh-us-west-2.rss",
     "Osaka": "https://status.aws.amazon.com/rss/managedssh-ap-northeast-3.rss",
@@ -3973,6 +3974,7 @@
     "Spain": "https://status.aws.amazon.com/rss/managedssh-eu-south-2.rss",
     "Stockholm": "https://status.aws.amazon.com/rss/managedssh-eu-north-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/managedssh-ap-southeast-2.rss",
+    "Taipei": "https://status.aws.amazon.com/rss/managedssh-ap-east-2.rss",
     "Tel Aviv": "https://status.aws.amazon.com/rss/managedssh-il-central-1.rss",
     "Thailand": "https://status.aws.amazon.com/rss/managedssh-ap-southeast-7.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/managedssh-ap-northeast-1.rss",
@@ -5753,7 +5755,8 @@
     "Sydney": "https://status.aws.amazon.com/rss/transcribe-ap-southeast-2.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/transcribe-ap-northeast-1.rss",
     "US-East": "https://status.aws.amazon.com/rss/transcribe-us-gov-east-1.rss",
-    "US-West": "https://status.aws.amazon.com/rss/transcribe-us-gov-west-1.rss"
+    "US-West": "https://status.aws.amazon.com/rss/transcribe-us-gov-west-1.rss",
+    "Zurich": "https://status.aws.amazon.com/rss/transcribe-eu-central-2.rss"
   },
   "Amazon Translate": {
     "Canada-Central": "https://status.aws.amazon.com/rss/translate-ca-central-1.rss",
@@ -6136,6 +6139,7 @@
     "Mumbai": "https://status.aws.amazon.com/rss/ec2serialconsole-ap-south-1.rss",
     "N. California": "https://status.aws.amazon.com/rss/ec2serialconsole-us-west-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/ec2serialconsole-us-east-1.rss",
+    "New Zealand": "https://status.aws.amazon.com/rss/ec2serialconsole-ap-southeast-6.rss",
     "Ohio": "https://status.aws.amazon.com/rss/ec2serialconsole-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/ec2serialconsole-us-west-2.rss",
     "Osaka": "https://status.aws.amazon.com/rss/ec2serialconsole-ap-northeast-3.rss",
@@ -6146,6 +6150,7 @@
     "Spain": "https://status.aws.amazon.com/rss/ec2serialconsole-eu-south-2.rss",
     "Stockholm": "https://status.aws.amazon.com/rss/ec2serialconsole-eu-north-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/ec2serialconsole-ap-southeast-2.rss",
+    "Taipei": "https://status.aws.amazon.com/rss/ec2serialconsole-ap-east-2.rss",
     "Tel Aviv": "https://status.aws.amazon.com/rss/ec2serialconsole-il-central-1.rss",
     "Thailand": "https://status.aws.amazon.com/rss/ec2serialconsole-ap-southeast-7.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/ec2serialconsole-ap-northeast-1.rss",

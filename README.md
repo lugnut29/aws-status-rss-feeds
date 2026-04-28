@@ -2,11 +2,19 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,803 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,808 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-04-27 UTC_
+_Last checked: 2026-04-28 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-28
+
+- Added **Amazon EC2 Instance Connect** in New Zealand
+- Added **Amazon EC2 Instance Connect** in Taipei
+- Added **Amazon Transcribe** in Zurich
+- Added **EC2 Serial Console** in New Zealand
+- Added **EC2 Serial Console** in Taipei
 
 ## 2026-04-27
 
@@ -32,12 +40,6 @@ _Last checked: 2026-04-27 UTC_
 - Added **AWS Resource Explorer** in US-East
 - Added **AWS Resource Explorer** in US-West
 
-## 2026-04-17
-
-- Added **AWS Parallel Computing Service** in Milan
-- Added **Amazon WorkSpaces** in Malaysia
-- Added **Amazon WorkSpaces** in Ohio
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -52,7 +54,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 146 |
-| ap-east-2 | Taipei | 93 |
+| ap-east-2 | Taipei | 95 |
 | ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 136 |
@@ -63,12 +65,12 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 122 |
-| ap-southeast-6 | New Zealand | 93 |
+| ap-southeast-6 | New Zealand | 95 |
 | ap-southeast-7 | Thailand | 104 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 112 |
 | eu-central-1 | Frankfurt | 220 |
-| eu-central-2 | Zurich | 128 |
+| eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 169 |
 | eu-south-1 | Milan | 144 |
 | eu-south-2 | Spain | 139 |
@@ -266,7 +268,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon DevOps Guru | 16 |
 | Amazon DocumentDB | 31 |
 | Amazon DynamoDB | 36 |
-| Amazon EC2 Instance Connect | 34 |
+| Amazon EC2 Instance Connect | 36 |
 | Amazon EMR Serverless | 31 |
 | Amazon ElastiCache | 36 |
 | Amazon Elastic Compute Cloud | 36 |
@@ -339,7 +341,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon SimpleDB | 8 |
 | Amazon Textract | 16 |
 | Amazon Timestream | 9 |
-| Amazon Transcribe | 21 |
+| Amazon Transcribe | 22 |
 | Amazon Translate | 17 |
 | Amazon VPC IP Address Manager | 36 |
 | Amazon VPC Lattice | 28 |
@@ -354,7 +356,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Bedrock AgentCore | 15 |
 | Control Catalog | 36 |
 | EC2 Image Builder | 36 |
-| EC2 Serial Console | 34 |
+| EC2 Serial Console | 36 |
 | Infrastructure Performance | 27 |
 | Kiro | 1 |
 | Multiple services | 34 |

@@ -1903,6 +1903,7 @@ https://status.aws.amazon.com/rss/ec2-us-west-1.rss
 https://status.aws.amazon.com/rss/ec2-us-west-2.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-af-south-1.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ap-east-1.rss
+https://status.aws.amazon.com/rss/ec2serialconsole-ap-east-2.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ap-northeast-3.rss
@@ -1913,6 +1914,7 @@ https://status.aws.amazon.com/rss/ec2serialconsole-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/ec2serialconsole-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ca-central-1.rss
 https://status.aws.amazon.com/rss/ec2serialconsole-ca-west-1.rss
@@ -3576,6 +3578,7 @@ https://status.aws.amazon.com/rss/managedblockchain-us-east-1.rss
 https://status.aws.amazon.com/rss/managedblockchain-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/managedssh-af-south-1.rss
 https://status.aws.amazon.com/rss/managedssh-ap-east-1.rss
+https://status.aws.amazon.com/rss/managedssh-ap-east-2.rss
 https://status.aws.amazon.com/rss/managedssh-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/managedssh-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/managedssh-ap-northeast-3.rss
@@ -3586,6 +3589,7 @@ https://status.aws.amazon.com/rss/managedssh-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/managedssh-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/managedssh-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/managedssh-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/managedssh-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/managedssh-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/managedssh-ca-central-1.rss
 https://status.aws.amazon.com/rss/managedssh-ca-west-1.rss
@@ -5398,6 +5402,7 @@ https://status.aws.amazon.com/rss/transcribe-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/transcribe-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/transcribe-ca-central-1.rss
 https://status.aws.amazon.com/rss/transcribe-eu-central-1.rss
+https://status.aws.amazon.com/rss/transcribe-eu-central-2.rss
 https://status.aws.amazon.com/rss/transcribe-eu-north-1.rss
 https://status.aws.amazon.com/rss/transcribe-eu-west-1.rss
 https://status.aws.amazon.com/rss/transcribe-eu-west-2.rss
