@@ -3875,6 +3875,7 @@
     "Tokyo": "https://status.aws.amazon.com/rss/devops-guru-ap-northeast-1.rss"
   },
   "Amazon DocumentDB": {
+    "Calgary": "https://status.aws.amazon.com/rss/docdb-ca-west-1.rss",
     "Canada-Central": "https://status.aws.amazon.com/rss/docdb-ca-central-1.rss",
     "Cape Town": "https://status.aws.amazon.com/rss/docdb-af-south-1.rss",
     "Frankfurt": "https://status.aws.amazon.com/rss/docdb-eu-central-1.rss",

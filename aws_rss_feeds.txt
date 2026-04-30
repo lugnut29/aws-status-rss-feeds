@@ -1768,6 +1768,7 @@ https://status.aws.amazon.com/rss/docdb-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/docdb-ap-southeast-5.rss
 https://status.aws.amazon.com/rss/docdb-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/docdb-ca-central-1.rss
+https://status.aws.amazon.com/rss/docdb-ca-west-1.rss
 https://status.aws.amazon.com/rss/docdb-eu-central-1.rss
 https://status.aws.amazon.com/rss/docdb-eu-central-2.rss
 https://status.aws.amazon.com/rss/docdb-eu-north-1.rss

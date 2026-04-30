@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-04-30
+
+- Added **Amazon DocumentDB** in Calgary
+
 ## 2026-04-28
 
 - Added **Amazon EC2 Instance Connect** in New Zealand

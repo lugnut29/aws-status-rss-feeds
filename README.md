@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,808 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,809 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-04-29 UTC_
+_Last checked: 2026-04-30 UTC_
 
 ## Recent changes by AWS
+
+## 2026-04-30
+
+- Added **Amazon DocumentDB** in Calgary
 
 ## 2026-04-28
 
@@ -32,13 +36,6 @@ _Last checked: 2026-04-29 UTC_
 
 - Added **AWS CloudShell** in Malaysia
 - Added **AWS CloudShell** in Thailand
-
-## 2026-04-20
-
-- Added **AWS IoT Core** in Milan
-- Added **AWS IoT Core** in Tel Aviv
-- Added **AWS Resource Explorer** in US-East
-- Added **AWS Resource Explorer** in US-West
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -68,7 +65,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-6 | New Zealand | 95 |
 | ap-southeast-7 | Thailand | 104 |
 | ca-central-1 | Canada-Central | 193 |
-| ca-west-1 | Calgary | 112 |
+| ca-west-1 | Calgary | 113 |
 | eu-central-1 | Frankfurt | 220 |
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 169 |
@@ -266,7 +263,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon DataZone | 21 |
 | Amazon Detective | 23 |
 | Amazon DevOps Guru | 16 |
-| Amazon DocumentDB | 31 |
+| Amazon DocumentDB | 32 |
 | Amazon DynamoDB | 36 |
 | Amazon EC2 Instance Connect | 36 |
 | Amazon EMR Serverless | 31 |
