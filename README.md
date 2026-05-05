@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,809 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,801 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-04 UTC_
+_Last checked: 2026-05-05 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-05
+
+- Removed service **AWS IoT Analytics**
 
 ## 2026-04-30
 
@@ -32,11 +36,6 @@ _Last checked: 2026-05-04 UTC_
 - Added **AWS Application Migration Service** in Taipei
 - Added **AWS Parallel Computing Service** in Spain
 
-## 2026-04-21
-
-- Added **AWS CloudShell** in Malaysia
-- Added **AWS CloudShell** in Thailand
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -52,13 +51,13 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 146 |
 | ap-east-2 | Taipei | 95 |
-| ap-northeast-1 | Tokyo | 215 |
+| ap-northeast-1 | Tokyo | 214 |
 | ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 136 |
-| ap-south-1 | Mumbai | 190 |
+| ap-south-1 | Mumbai | 189 |
 | ap-south-2 | Hyderabad | 126 |
 | ap-southeast-1 | Singapore | 208 |
-| ap-southeast-2 | Sydney | 223 |
+| ap-southeast-2 | Sydney | 222 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 122 |
@@ -66,12 +65,12 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-7 | Thailand | 104 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 113 |
-| eu-central-1 | Frankfurt | 220 |
+| eu-central-1 | Frankfurt | 219 |
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 169 |
 | eu-south-1 | Milan | 144 |
 | eu-south-2 | Spain | 139 |
-| eu-west-1 | Ireland | 231 |
+| eu-west-1 | Ireland | 230 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
 | global | global | 24 |
@@ -80,14 +79,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 100 |
 | sa-east-1 | Sao Paulo | 166 |
-| us-east-1 | N. Virginia | 241 |
-| us-east-2 | Ohio | 205 |
+| us-east-1 | N. Virginia | 240 |
+| us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 162 |
-| us-west-2 | Oregon | 233 |
+| us-west-2 | Oregon | 232 |
 
-## Services (270)
+## Services (269)
 
 | Service | Region Count |
 |---------|-------------|
@@ -160,7 +159,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Identity and Access Management Roles Anywhere | 36 |
 | AWS Import/Export | 3 |
 | AWS Internet Connectivity | 36 |
-| AWS IoT Analytics | 8 |
 | AWS IoT Core | 25 |
 | AWS IoT Device Defender | 22 |
 | AWS IoT Device Management | 21 |

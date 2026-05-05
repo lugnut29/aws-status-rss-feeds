@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-05-05
+
+- Removed service **AWS IoT Analytics**
+
 ## 2026-04-30
 
 - Added **Amazon DocumentDB** in Calgary
