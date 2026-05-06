@@ -2641,6 +2641,7 @@ https://status.aws.amazon.com/rss/fsx-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/fsx-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/fsx-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/fsx-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/fsx-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/fsx-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/fsx-ca-central-1.rss
 https://status.aws.amazon.com/rss/fsx-ca-west-1.rss
@@ -5659,6 +5660,7 @@ https://status.aws.amazon.com/rss/vpclattice-eu-west-2.rss
 https://status.aws.amazon.com/rss/vpclattice-eu-west-3.rss
 https://status.aws.amazon.com/rss/vpclattice-me-central-1.rss
 https://status.aws.amazon.com/rss/vpclattice-me-south-1.rss
+https://status.aws.amazon.com/rss/vpclattice-mx-central-1.rss
 https://status.aws.amazon.com/rss/vpclattice-sa-east-1.rss
 https://status.aws.amazon.com/rss/vpclattice-us-east-1.rss
 https://status.aws.amazon.com/rss/vpclattice-us-east-2.rss

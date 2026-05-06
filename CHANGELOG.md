@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-05-06
+
+- Added **Amazon FSx** in New Zealand
+- Added **Amazon VPC Lattice** in Mexico-Central
+
 ## 2026-05-05
 
 - Removed service **AWS IoT Analytics**

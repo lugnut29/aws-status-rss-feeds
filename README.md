@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,801 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,803 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-05 UTC_
+_Last checked: 2026-05-06 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-06
+
+- Added **Amazon FSx** in New Zealand
+- Added **Amazon VPC Lattice** in Mexico-Central
 
 ## 2026-05-05
 
@@ -27,14 +32,6 @@ _Last checked: 2026-05-05 UTC_
 ## 2026-04-27
 
 - Added **AWS CloudHSM** in New Zealand
-
-## 2026-04-24
-
-- Added **AWS Application Migration Service** in Calgary
-- Added **AWS Application Migration Service** in Mexico-Central
-- Added **AWS Application Migration Service** in New Zealand
-- Added **AWS Application Migration Service** in Taipei
-- Added **AWS Parallel Computing Service** in Spain
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -61,7 +58,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 122 |
-| ap-southeast-6 | New Zealand | 95 |
+| ap-southeast-6 | New Zealand | 96 |
 | ap-southeast-7 | Thailand | 104 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 113 |
@@ -77,7 +74,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | il-central-1 | Tel Aviv | 131 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
-| mx-central-1 | Mexico-Central | 100 |
+| mx-central-1 | Mexico-Central | 101 |
 | sa-east-1 | Sao Paulo | 166 |
 | us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 204 |
@@ -276,7 +273,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Elastic MapReduce | 36 |
 | Amazon EventBridge | 36 |
 | Amazon EventBridge Scheduler | 36 |
-| Amazon FSx | 35 |
+| Amazon FSx | 36 |
 | Amazon FinSpace | 10 |
 | Amazon Forecast | 10 |
 | Amazon Fraud Detector | 6 |
@@ -339,7 +336,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Transcribe | 22 |
 | Amazon Translate | 17 |
 | Amazon VPC IP Address Manager | 36 |
-| Amazon VPC Lattice | 28 |
+| Amazon VPC Lattice | 29 |
 | Amazon Verified Permissions | 36 |
 | Amazon Virtual Private Cloud | 36 |
 | Amazon WorkMail | 3 |
