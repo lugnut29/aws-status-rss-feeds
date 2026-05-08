@@ -2672,6 +2672,7 @@
   },
   "AWS Service Catalog": {
     "Bahrain": "https://status.aws.amazon.com/rss/servicecatalog-me-south-1.rss",
+    "Calgary": "https://status.aws.amazon.com/rss/servicecatalog-ca-west-1.rss",
     "Canada-Central": "https://status.aws.amazon.com/rss/servicecatalog-ca-central-1.rss",
     "Cape Town": "https://status.aws.amazon.com/rss/servicecatalog-af-south-1.rss",
     "Frankfurt": "https://status.aws.amazon.com/rss/servicecatalog-eu-central-1.rss",
@@ -2685,6 +2686,7 @@
     "Mumbai": "https://status.aws.amazon.com/rss/servicecatalog-ap-south-1.rss",
     "N. California": "https://status.aws.amazon.com/rss/servicecatalog-us-west-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/servicecatalog-us-east-1.rss",
+    "New Zealand": "https://status.aws.amazon.com/rss/servicecatalog-ap-southeast-6.rss",
     "Ohio": "https://status.aws.amazon.com/rss/servicecatalog-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/servicecatalog-us-west-2.rss",
     "Osaka": "https://status.aws.amazon.com/rss/servicecatalog-ap-northeast-3.rss",
@@ -6181,9 +6183,6 @@
     "UAE": "https://status.aws.amazon.com/rss/infrastructureperformance-me-central-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/infrastructureperformance-eu-central-2.rss"
   },
-  "Kiro": {
-    "N. Virginia": "https://status.aws.amazon.com/rss/codewhisperer-us-east-1.rss"
-  },
   "Multiple services": {
     "Bahrain": "https://status.aws.amazon.com/rss/multipleservices-me-south-1.rss",
     "Calgary": "https://status.aws.amazon.com/rss/multipleservices-ca-west-1.rss",
@@ -6263,6 +6262,23 @@
     "Stockholm": "https://status.aws.amazon.com/rss/reachabilityanalyzer-eu-north-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/reachabilityanalyzer-ap-southeast-2.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/reachabilityanalyzer-ap-northeast-1.rss"
+  },
+  "SageMaker Unified Studio": {
+    "Canada-Central": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-ca-central-1.rss",
+    "Frankfurt": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-eu-central-1.rss",
+    "Ireland": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-eu-west-1.rss",
+    "London": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-eu-west-2.rss",
+    "Mumbai": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-ap-south-1.rss",
+    "N. Virginia": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-us-east-1.rss",
+    "Ohio": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-us-east-2.rss",
+    "Oregon": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-us-west-2.rss",
+    "Paris": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-eu-west-3.rss",
+    "Sao Paulo": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-sa-east-1.rss",
+    "Seoul": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-ap-northeast-2.rss",
+    "Singapore": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-ap-southeast-1.rss",
+    "Stockholm": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-eu-north-1.rss",
+    "Sydney": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-ap-southeast-2.rss",
+    "Tokyo": "https://status.aws.amazon.com/rss/sagemaker-unified-studio-ap-northeast-1.rss"
   },
   "Traffic Mirroring": {
     "Bahrain": "https://status.aws.amazon.com/rss/trafficmirroring-me-south-1.rss",

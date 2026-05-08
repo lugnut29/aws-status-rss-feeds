@@ -2,11 +2,18 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,803 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,819 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-07 UTC_
+_Last checked: 2026-05-08 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-08
+
+- Added **AWS Service Catalog** in Calgary
+- Added **AWS Service Catalog** in New Zealand
+- Added service **SageMaker Unified Studio** (Canada-Central, Frankfurt, Ireland, London, Mumbai, N. Virginia, Ohio, Oregon, Paris, Sao Paulo, Seoul, Singapore, Stockholm, Sydney, Tokyo)
+- Removed service **Kiro**
 
 ## 2026-05-06
 
@@ -29,10 +36,6 @@ _Last checked: 2026-05-07 UTC_
 - Added **EC2 Serial Console** in New Zealand
 - Added **EC2 Serial Console** in Taipei
 
-## 2026-04-27
-
-- Added **AWS CloudHSM** in New Zealand
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -48,40 +51,40 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 146 |
 | ap-east-2 | Taipei | 95 |
-| ap-northeast-1 | Tokyo | 214 |
-| ap-northeast-2 | Seoul | 189 |
+| ap-northeast-1 | Tokyo | 215 |
+| ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 136 |
-| ap-south-1 | Mumbai | 189 |
+| ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 126 |
-| ap-southeast-1 | Singapore | 208 |
-| ap-southeast-2 | Sydney | 222 |
+| ap-southeast-1 | Singapore | 209 |
+| ap-southeast-2 | Sydney | 223 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 122 |
-| ap-southeast-6 | New Zealand | 96 |
+| ap-southeast-6 | New Zealand | 97 |
 | ap-southeast-7 | Thailand | 104 |
-| ca-central-1 | Canada-Central | 193 |
-| ca-west-1 | Calgary | 113 |
-| eu-central-1 | Frankfurt | 219 |
+| ca-central-1 | Canada-Central | 194 |
+| ca-west-1 | Calgary | 114 |
+| eu-central-1 | Frankfurt | 220 |
 | eu-central-2 | Zurich | 129 |
-| eu-north-1 | Stockholm | 169 |
+| eu-north-1 | Stockholm | 170 |
 | eu-south-1 | Milan | 144 |
 | eu-south-2 | Spain | 139 |
-| eu-west-1 | Ireland | 230 |
-| eu-west-2 | London | 203 |
-| eu-west-3 | Paris | 170 |
+| eu-west-1 | Ireland | 231 |
+| eu-west-2 | London | 204 |
+| eu-west-3 | Paris | 171 |
 | global | global | 24 |
 | il-central-1 | Tel Aviv | 131 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 101 |
-| sa-east-1 | Sao Paulo | 166 |
+| sa-east-1 | Sao Paulo | 167 |
 | us-east-1 | N. Virginia | 240 |
-| us-east-2 | Ohio | 204 |
+| us-east-2 | Ohio | 205 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 162 |
-| us-west-2 | Oregon | 232 |
+| us-west-2 | Oregon | 233 |
 
 ## Services (269)
 
@@ -204,7 +207,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Security Incident Response | 25 |
 | AWS Security Token Service | 36 |
 | AWS Serverless Application Repository | 20 |
-| AWS Service Catalog | 30 |
+| AWS Service Catalog | 32 |
 | AWS Service Quotas | 36 |
 | AWS Sign Up | 1 |
 | AWS Sign-In | 36 |
@@ -350,10 +353,10 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | EC2 Image Builder | 36 |
 | EC2 Serial Console | 36 |
 | Infrastructure Performance | 27 |
-| Kiro | 1 |
 | Multiple services | 34 |
 | Network Access Analyzer | 20 |
 | Reachability Analyzer | 20 |
+| SageMaker Unified Studio | 15 |
 | Traffic Mirroring | 36 |
 | VM Import/Export | 36 |
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-05-08
+
+- Added **AWS Service Catalog** in Calgary
+- Added **AWS Service Catalog** in New Zealand
+- Added service **SageMaker Unified Studio** (Canada-Central, Frankfurt, Ireland, London, Mumbai, N. Virginia, Ohio, Oregon, Paris, Sao Paulo, Seoul, Singapore, Stockholm, Sydney, Tokyo)
+- Removed service **Kiro**
+
 ## 2026-05-06
 
 - Added **Amazon FSx** in New Zealand
