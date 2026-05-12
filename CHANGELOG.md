@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-05-12
+
+- Added **Amazon Aurora DSQL Service** in Hong Kong
+- Added **Amazon Aurora DSQL Service** in Mumbai
+- Added **Amazon Aurora DSQL Service** in Sao Paulo
+- Added **Amazon Aurora DSQL Service** in Singapore
+- Added **Amazon Aurora DSQL Service** in Stockholm
+
 ## 2026-05-08
 
 - Added **AWS Service Catalog** in Calgary

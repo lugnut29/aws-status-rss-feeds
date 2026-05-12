@@ -2,11 +2,19 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,819 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,824 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-11 UTC_
+_Last checked: 2026-05-12 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-12
+
+- Added **Amazon Aurora DSQL Service** in Hong Kong
+- Added **Amazon Aurora DSQL Service** in Mumbai
+- Added **Amazon Aurora DSQL Service** in Sao Paulo
+- Added **Amazon Aurora DSQL Service** in Singapore
+- Added **Amazon Aurora DSQL Service** in Stockholm
 
 ## 2026-05-08
 
@@ -28,14 +36,6 @@ _Last checked: 2026-05-11 UTC_
 
 - Added **Amazon DocumentDB** in Calgary
 
-## 2026-04-28
-
-- Added **Amazon EC2 Instance Connect** in New Zealand
-- Added **Amazon EC2 Instance Connect** in Taipei
-- Added **Amazon Transcribe** in Zurich
-- Added **EC2 Serial Console** in New Zealand
-- Added **EC2 Serial Console** in Taipei
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -49,14 +49,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Region ID | Location | Services |
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 148 |
-| ap-east-1 | Hong Kong | 146 |
+| ap-east-1 | Hong Kong | 147 |
 | ap-east-2 | Taipei | 95 |
 | ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 136 |
-| ap-south-1 | Mumbai | 190 |
+| ap-south-1 | Mumbai | 191 |
 | ap-south-2 | Hyderabad | 126 |
-| ap-southeast-1 | Singapore | 209 |
+| ap-southeast-1 | Singapore | 210 |
 | ap-southeast-2 | Sydney | 223 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
@@ -67,7 +67,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ca-west-1 | Calgary | 114 |
 | eu-central-1 | Frankfurt | 220 |
 | eu-central-2 | Zurich | 129 |
-| eu-north-1 | Stockholm | 170 |
+| eu-north-1 | Stockholm | 171 |
 | eu-south-1 | Milan | 144 |
 | eu-south-2 | Spain | 139 |
 | eu-west-1 | Ireland | 231 |
@@ -78,7 +78,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 101 |
-| sa-east-1 | Sao Paulo | 167 |
+| sa-east-1 | Sao Paulo | 168 |
 | us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 205 |
 | us-gov-east-1 | US-East | 147 |
@@ -237,7 +237,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon AppFlow | 16 |
 | Amazon Athena | 36 |
 | Amazon Augmented AI | 12 |
-| Amazon Aurora DSQL Service | 14 |
+| Amazon Aurora DSQL Service | 19 |
 | Amazon Bedrock | 35 |
 | Amazon Braket | 5 |
 | Amazon Chime | 3 |
