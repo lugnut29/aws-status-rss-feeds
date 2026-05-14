@@ -2330,11 +2330,14 @@ https://status.aws.amazon.com/rss/emrserverless-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/emrserverless-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/emrserverless-ap-northeast-3.rss
 https://status.aws.amazon.com/rss/emrserverless-ap-south-1.rss
+https://status.aws.amazon.com/rss/emrserverless-ap-south-2.rss
 https://status.aws.amazon.com/rss/emrserverless-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/emrserverless-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/emrserverless-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/emrserverless-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/emrserverless-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/emrserverless-ap-southeast-6.rss
+https://status.aws.amazon.com/rss/emrserverless-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/emrserverless-ca-central-1.rss
 https://status.aws.amazon.com/rss/emrserverless-ca-west-1.rss
 https://status.aws.amazon.com/rss/emrserverless-eu-central-1.rss
@@ -2348,6 +2351,7 @@ https://status.aws.amazon.com/rss/emrserverless-eu-west-3.rss
 https://status.aws.amazon.com/rss/emrserverless-il-central-1.rss
 https://status.aws.amazon.com/rss/emrserverless-me-central-1.rss
 https://status.aws.amazon.com/rss/emrserverless-me-south-1.rss
+https://status.aws.amazon.com/rss/emrserverless-mx-central-1.rss
 https://status.aws.amazon.com/rss/emrserverless-sa-east-1.rss
 https://status.aws.amazon.com/rss/emrserverless-us-east-1.rss
 https://status.aws.amazon.com/rss/emrserverless-us-east-2.rss

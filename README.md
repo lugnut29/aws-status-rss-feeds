@@ -2,11 +2,18 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,824 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,828 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-13 UTC_
+_Last checked: 2026-05-14 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-14
+
+- Added **Amazon EMR Serverless** in Hyderabad
+- Added **Amazon EMR Serverless** in Mexico-Central
+- Added **Amazon EMR Serverless** in New Zealand
+- Added **Amazon EMR Serverless** in Thailand
 
 ## 2026-05-12
 
@@ -32,10 +39,6 @@ _Last checked: 2026-05-13 UTC_
 
 - Removed service **AWS IoT Analytics**
 
-## 2026-04-30
-
-- Added **Amazon DocumentDB** in Calgary
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -55,14 +58,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 136 |
 | ap-south-1 | Mumbai | 191 |
-| ap-south-2 | Hyderabad | 126 |
+| ap-south-2 | Hyderabad | 127 |
 | ap-southeast-1 | Singapore | 210 |
 | ap-southeast-2 | Sydney | 223 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 122 |
-| ap-southeast-6 | New Zealand | 97 |
-| ap-southeast-7 | Thailand | 104 |
+| ap-southeast-6 | New Zealand | 98 |
+| ap-southeast-7 | Thailand | 105 |
 | ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 114 |
 | eu-central-1 | Frankfurt | 220 |
@@ -77,7 +80,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | il-central-1 | Tel Aviv | 131 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
-| mx-central-1 | Mexico-Central | 101 |
+| mx-central-1 | Mexico-Central | 102 |
 | sa-east-1 | Sao Paulo | 168 |
 | us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 205 |
@@ -264,7 +267,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon DocumentDB | 32 |
 | Amazon DynamoDB | 36 |
 | Amazon EC2 Instance Connect | 36 |
-| Amazon EMR Serverless | 31 |
+| Amazon EMR Serverless | 35 |
 | Amazon ElastiCache | 36 |
 | Amazon Elastic Compute Cloud | 36 |
 | Amazon Elastic Container Registry | 36 |

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-05-14
+
+- Added **Amazon EMR Serverless** in Hyderabad
+- Added **Amazon EMR Serverless** in Mexico-Central
+- Added **Amazon EMR Serverless** in New Zealand
+- Added **Amazon EMR Serverless** in Thailand
+
 ## 2026-05-12
 
 - Added **Amazon Aurora DSQL Service** in Hong Kong
