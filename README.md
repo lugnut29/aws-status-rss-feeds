@@ -2,11 +2,18 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,828 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,830 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-14 UTC_
+_Last checked: 2026-05-15 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-15
+
+- Added service **Amazon Data Firehose** (Bahrain, Calgary, Canada-Central, Cape Town, Frankfurt, Hong Kong, Hyderabad, Ireland, Jakarta, London, Malaysia, Melbourne, Mexico-Central, Milan, Mumbai, N. California, N. Virginia, New Zealand, Ohio, Oregon, Osaka, Paris, Sao Paulo, Seoul, Singapore, Spain, Stockholm, Sydney, Taipei, Tel Aviv, Thailand, Tokyo, UAE, US-East, US-West, Zurich)
+- Added **Amazon EMR Serverless** in Taipei
+- Added **Bedrock AgentCore** in US-West
+- Removed service **Amazon Kinesis Firehose**
 
 ## 2026-05-14
 
@@ -35,10 +42,6 @@ _Last checked: 2026-05-14 UTC_
 - Added **Amazon FSx** in New Zealand
 - Added **Amazon VPC Lattice** in Mexico-Central
 
-## 2026-05-05
-
-- Removed service **AWS IoT Analytics**
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -53,7 +56,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 147 |
-| ap-east-2 | Taipei | 95 |
+| ap-east-2 | Taipei | 96 |
 | ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 136 |
@@ -85,7 +88,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 205 |
 | us-gov-east-1 | US-East | 147 |
-| us-gov-west-1 | US-West | 167 |
+| us-gov-west-1 | US-West | 168 |
 | us-west-1 | N. California | 162 |
 | us-west-2 | Oregon | 233 |
 
@@ -260,6 +263,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Comprehend | 13 |
 | Amazon Comprehend Medical | 8 |
 | Amazon Connect | 11 |
+| Amazon Data Firehose | 36 |
 | Amazon Data Lifecycle Manager | 36 |
 | Amazon DataZone | 21 |
 | Amazon Detective | 23 |
@@ -267,7 +271,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon DocumentDB | 32 |
 | Amazon DynamoDB | 36 |
 | Amazon EC2 Instance Connect | 36 |
-| Amazon EMR Serverless | 35 |
+| Amazon EMR Serverless | 36 |
 | Amazon ElastiCache | 36 |
 | Amazon Elastic Compute Cloud | 36 |
 | Amazon Elastic Container Registry | 36 |
@@ -294,7 +298,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Kendra Intelligent Ranking | 9 |
 | Amazon Keyspaces | 18 |
 | Amazon Kinesis Data Streams | 36 |
-| Amazon Kinesis Firehose | 36 |
 | Amazon Kinesis Video Streams | 21 |
 | Amazon Lex | 12 |
 | Amazon Lightsail | 16 |
@@ -351,7 +354,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon WorkSpaces Secure Browser | 10 |
 | Amazon WorkSpaces Thin Client | 7 |
 | Auto Scaling | 36 |
-| Bedrock AgentCore | 15 |
+| Bedrock AgentCore | 16 |
 | Control Catalog | 36 |
 | EC2 Image Builder | 36 |
 | EC2 Serial Console | 36 |
