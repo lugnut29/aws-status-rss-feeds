@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,830 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,831 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-17 UTC_
+_Last checked: 2026-05-18 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-18
+
+- Added **Amazon Inspector** in Taipei
 
 ## 2026-05-15
 
@@ -37,11 +41,6 @@ _Last checked: 2026-05-17 UTC_
 - Added service **SageMaker Unified Studio** (Canada-Central, Frankfurt, Ireland, London, Mumbai, N. Virginia, Ohio, Oregon, Paris, Sao Paulo, Seoul, Singapore, Stockholm, Sydney, Tokyo)
 - Removed service **Kiro**
 
-## 2026-05-06
-
-- Added **Amazon FSx** in New Zealand
-- Added **Amazon VPC Lattice** in Mexico-Central
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -56,7 +55,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 147 |
-| ap-east-2 | Taipei | 96 |
+| ap-east-2 | Taipei | 97 |
 | ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 136 |
@@ -292,7 +291,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon GameLift Streams | 4 |
 | Amazon Glacier | 33 |
 | Amazon GuardDuty | 36 |
-| Amazon Inspector | 34 |
+| Amazon Inspector | 35 |
 | Amazon Interactive Video Service | 7 |
 | Amazon Kendra | 11 |
 | Amazon Kendra Intelligent Ranking | 9 |

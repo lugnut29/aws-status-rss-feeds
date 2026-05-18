@@ -2990,6 +2990,7 @@ https://status.aws.amazon.com/rss/infrastructureperformance-us-west-1.rss
 https://status.aws.amazon.com/rss/infrastructureperformance-us-west-2.rss
 https://status.aws.amazon.com/rss/inspector-af-south-1.rss
 https://status.aws.amazon.com/rss/inspector-ap-east-1.rss
+https://status.aws.amazon.com/rss/inspector-ap-east-2.rss
 https://status.aws.amazon.com/rss/inspector-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/inspector-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/inspector-ap-northeast-3.rss

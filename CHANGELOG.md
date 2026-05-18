@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-05-18
+
+- Added **Amazon Inspector** in Taipei
+
 ## 2026-05-15
 
 - Added service **Amazon Data Firehose** (Bahrain, Calgary, Canada-Central, Cape Town, Frankfurt, Hong Kong, Hyderabad, Ireland, Jakarta, London, Malaysia, Melbourne, Mexico-Central, Milan, Mumbai, N. California, N. Virginia, New Zealand, Ohio, Oregon, Osaka, Paris, Sao Paulo, Seoul, Singapore, Spain, Stockholm, Sydney, Taipei, Tel Aviv, Thailand, Tokyo, UAE, US-East, US-West, Zurich)
