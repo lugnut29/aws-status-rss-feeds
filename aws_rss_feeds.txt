@@ -1116,6 +1116,9 @@ https://status.aws.amazon.com/rss/codebuild-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/codebuild-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/codebuild-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/codebuild-ap-southeast-4.rss
+https://status.aws.amazon.com/rss/codebuild-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/codebuild-ap-southeast-6.rss
+https://status.aws.amazon.com/rss/codebuild-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/codebuild-ca-central-1.rss
 https://status.aws.amazon.com/rss/codebuild-eu-central-1.rss
 https://status.aws.amazon.com/rss/codebuild-eu-central-2.rss

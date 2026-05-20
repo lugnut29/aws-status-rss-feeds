@@ -2,11 +2,17 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,831 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,834 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-19 UTC_
+_Last checked: 2026-05-20 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-20
+
+- Added **AWS CodeBuild** in Malaysia
+- Added **AWS CodeBuild** in New Zealand
+- Added **AWS CodeBuild** in Thailand
 
 ## 2026-05-18
 
@@ -34,13 +40,6 @@ _Last checked: 2026-05-19 UTC_
 - Added **Amazon Aurora DSQL Service** in Singapore
 - Added **Amazon Aurora DSQL Service** in Stockholm
 
-## 2026-05-08
-
-- Added **AWS Service Catalog** in Calgary
-- Added **AWS Service Catalog** in New Zealand
-- Added service **SageMaker Unified Studio** (Canada-Central, Frankfurt, Ireland, London, Mumbai, N. Virginia, Ohio, Oregon, Paris, Sao Paulo, Seoul, Singapore, Stockholm, Sydney, Tokyo)
-- Removed service **Kiro**
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -65,9 +64,9 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 223 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 122 |
-| ap-southeast-6 | New Zealand | 98 |
-| ap-southeast-7 | Thailand | 105 |
+| ap-southeast-5 | Malaysia | 123 |
+| ap-southeast-6 | New Zealand | 99 |
+| ap-southeast-7 | Thailand | 106 |
 | ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 114 |
 | eu-central-1 | Frankfurt | 220 |
@@ -124,7 +123,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS CloudShell | 33 |
 | AWS CloudTrail | 36 |
 | AWS CodeArtifact | 13 |
-| AWS CodeBuild | 30 |
+| AWS CodeBuild | 33 |
 | AWS CodeCommit | 27 |
 | AWS CodeDeploy | 32 |
 | AWS CodePipeline | 31 |

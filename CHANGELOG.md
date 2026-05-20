@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-05-20
+
+- Added **AWS CodeBuild** in Malaysia
+- Added **AWS CodeBuild** in New Zealand
+- Added **AWS CodeBuild** in Thailand
+
 ## 2026-05-18
 
 - Added **Amazon Inspector** in Taipei
