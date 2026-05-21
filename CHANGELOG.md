@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-05-21
+
+- Added **Amazon Cognito** in New Zealand
+- Added **Amazon Cognito** in Taipei
+
 ## 2026-05-20
 
 - Added **AWS CodeBuild** in Malaysia

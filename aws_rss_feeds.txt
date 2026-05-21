@@ -1252,6 +1252,7 @@ https://status.aws.amazon.com/rss/codepipeline-us-west-1.rss
 https://status.aws.amazon.com/rss/codepipeline-us-west-2.rss
 https://status.aws.amazon.com/rss/cognito-af-south-1.rss
 https://status.aws.amazon.com/rss/cognito-ap-east-1.rss
+https://status.aws.amazon.com/rss/cognito-ap-east-2.rss
 https://status.aws.amazon.com/rss/cognito-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/cognito-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/cognito-ap-northeast-3.rss
@@ -1262,6 +1263,7 @@ https://status.aws.amazon.com/rss/cognito-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/cognito-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/cognito-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/cognito-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/cognito-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/cognito-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/cognito-ca-central-1.rss
 https://status.aws.amazon.com/rss/cognito-ca-west-1.rss

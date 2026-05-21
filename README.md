@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,834 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,836 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-20 UTC_
+_Last checked: 2026-05-21 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-21
+
+- Added **Amazon Cognito** in New Zealand
+- Added **Amazon Cognito** in Taipei
 
 ## 2026-05-20
 
@@ -32,14 +37,6 @@ _Last checked: 2026-05-20 UTC_
 - Added **Amazon EMR Serverless** in New Zealand
 - Added **Amazon EMR Serverless** in Thailand
 
-## 2026-05-12
-
-- Added **Amazon Aurora DSQL Service** in Hong Kong
-- Added **Amazon Aurora DSQL Service** in Mumbai
-- Added **Amazon Aurora DSQL Service** in Sao Paulo
-- Added **Amazon Aurora DSQL Service** in Singapore
-- Added **Amazon Aurora DSQL Service** in Stockholm
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -54,7 +51,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 147 |
-| ap-east-2 | Taipei | 97 |
+| ap-east-2 | Taipei | 98 |
 | ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 136 |
@@ -65,7 +62,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 123 |
-| ap-southeast-6 | New Zealand | 99 |
+| ap-southeast-6 | New Zealand | 100 |
 | ap-southeast-7 | Thailand | 106 |
 | ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 114 |
@@ -257,7 +254,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon CodeCatalyst | 2 |
 | Amazon CodeGuru Profiler | 10 |
 | Amazon CodeGuru Reviewer | 10 |
-| Amazon Cognito | 34 |
+| Amazon Cognito | 36 |
 | Amazon Comprehend | 13 |
 | Amazon Comprehend Medical | 8 |
 | Amazon Connect | 11 |
