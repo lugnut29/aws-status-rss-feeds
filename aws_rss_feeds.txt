@@ -4068,6 +4068,7 @@ https://status.aws.amazon.com/rss/pcaconnectorad-us-east-2.rss
 https://status.aws.amazon.com/rss/pcaconnectorad-us-west-1.rss
 https://status.aws.amazon.com/rss/pcaconnectorad-us-west-2.rss
 https://status.aws.amazon.com/rss/pcs-ap-northeast-1.rss
+https://status.aws.amazon.com/rss/pcs-ap-northeast-3.rss
 https://status.aws.amazon.com/rss/pcs-ap-south-1.rss
 https://status.aws.amazon.com/rss/pcs-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/pcs-ap-southeast-2.rss

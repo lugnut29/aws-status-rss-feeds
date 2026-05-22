@@ -2158,6 +2158,7 @@
     "N. Virginia": "https://status.aws.amazon.com/rss/pcs-us-east-1.rss",
     "Ohio": "https://status.aws.amazon.com/rss/pcs-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/pcs-us-west-2.rss",
+    "Osaka": "https://status.aws.amazon.com/rss/pcs-ap-northeast-3.rss",
     "Paris": "https://status.aws.amazon.com/rss/pcs-eu-west-3.rss",
     "Singapore": "https://status.aws.amazon.com/rss/pcs-ap-southeast-1.rss",
     "Spain": "https://status.aws.amazon.com/rss/pcs-eu-south-2.rss",

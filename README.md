@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,836 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,837 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-05-21 UTC_
+_Last checked: 2026-05-22 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-22
+
+- Added **AWS Parallel Computing Service** in Osaka
 
 ## 2026-05-21
 
@@ -30,13 +34,6 @@ _Last checked: 2026-05-21 UTC_
 - Added **Bedrock AgentCore** in US-West
 - Removed service **Amazon Kinesis Firehose**
 
-## 2026-05-14
-
-- Added **Amazon EMR Serverless** in Hyderabad
-- Added **Amazon EMR Serverless** in Mexico-Central
-- Added **Amazon EMR Serverless** in New Zealand
-- Added **Amazon EMR Serverless** in Thailand
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -54,7 +51,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-east-2 | Taipei | 98 |
 | ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 190 |
-| ap-northeast-3 | Osaka | 136 |
+| ap-northeast-3 | Osaka | 137 |
 | ap-south-1 | Mumbai | 191 |
 | ap-south-2 | Hyderabad | 127 |
 | ap-southeast-1 | Singapore | 210 |
@@ -188,7 +185,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
 | AWS Panorama | 4 |
-| AWS Parallel Computing Service | 16 |
+| AWS Parallel Computing Service | 17 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |

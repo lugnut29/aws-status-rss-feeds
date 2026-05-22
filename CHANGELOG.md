@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-05-22
+
+- Added **AWS Parallel Computing Service** in Osaka
+
 ## 2026-05-21
 
 - Added **Amazon Cognito** in New Zealand
