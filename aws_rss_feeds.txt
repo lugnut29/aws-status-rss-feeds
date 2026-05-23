@@ -495,6 +495,8 @@ https://status.aws.amazon.com/rss/aws-glue-us-east-2.rss
 https://status.aws.amazon.com/rss/aws-glue-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/aws-glue-us-west-1.rss
 https://status.aws.amazon.com/rss/aws-glue-us-west-2.rss
+https://status.aws.amazon.com/rss/aws-mcp-eu-central-1.rss
+https://status.aws.amazon.com/rss/aws-mcp-us-east-1.rss
 https://status.aws.amazon.com/rss/aws-partner-central-us-gov-east-1.rss
 https://status.aws.amazon.com/rss/aws-partner-central-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/aws-partner-central.rss
@@ -4117,6 +4119,7 @@ https://status.aws.amazon.com/rss/polly-ap-south-1.rss
 https://status.aws.amazon.com/rss/polly-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/polly-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/polly-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/polly-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/polly-ca-central-1.rss
 https://status.aws.amazon.com/rss/polly-eu-central-1.rss
 https://status.aws.amazon.com/rss/polly-eu-central-2.rss

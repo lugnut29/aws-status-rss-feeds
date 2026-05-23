@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-05-23
+
+- Added service **AWS MCP Server** (Frankfurt, N. Virginia)
+- Added **Amazon Polly** in Thailand
+
 ## 2026-05-22
 
 - Added **AWS Parallel Computing Service** in Osaka

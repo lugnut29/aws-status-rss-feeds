@@ -1926,6 +1926,10 @@
     "US-West": "https://status.aws.amazon.com/rss/licensemanager-us-gov-west-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/licensemanager-eu-central-2.rss"
   },
+  "AWS MCP Server": {
+    "Frankfurt": "https://status.aws.amazon.com/rss/aws-mcp-eu-central-1.rss",
+    "N. Virginia": "https://status.aws.amazon.com/rss/aws-mcp-us-east-1.rss"
+  },
   "AWS Mainframe Modernization": {
     "Canada-Central": "https://status.aws.amazon.com/rss/m2-ca-central-1.rss",
     "Cape Town": "https://status.aws.amazon.com/rss/m2-af-south-1.rss",
@@ -5209,6 +5213,7 @@
     "Spain": "https://status.aws.amazon.com/rss/polly-eu-south-2.rss",
     "Stockholm": "https://status.aws.amazon.com/rss/polly-eu-north-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/polly-ap-southeast-2.rss",
+    "Thailand": "https://status.aws.amazon.com/rss/polly-ap-southeast-7.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/polly-ap-northeast-1.rss",
     "US-West": "https://status.aws.amazon.com/rss/polly-us-gov-west-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/polly-eu-central-2.rss"

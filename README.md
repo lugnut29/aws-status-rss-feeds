@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,837 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,840 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-05-22 UTC_
+_Last checked: 2026-05-23 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-23
+
+- Added service **AWS MCP Server** (Frankfurt, N. Virginia)
+- Added **Amazon Polly** in Thailand
 
 ## 2026-05-22
 
@@ -26,13 +31,6 @@ _Last checked: 2026-05-22 UTC_
 ## 2026-05-18
 
 - Added **Amazon Inspector** in Taipei
-
-## 2026-05-15
-
-- Added service **Amazon Data Firehose** (Bahrain, Calgary, Canada-Central, Cape Town, Frankfurt, Hong Kong, Hyderabad, Ireland, Jakarta, London, Malaysia, Melbourne, Mexico-Central, Milan, Mumbai, N. California, N. Virginia, New Zealand, Ohio, Oregon, Osaka, Paris, Sao Paulo, Seoul, Singapore, Spain, Stockholm, Sydney, Taipei, Tel Aviv, Thailand, Tokyo, UAE, US-East, US-West, Zurich)
-- Added **Amazon EMR Serverless** in Taipei
-- Added **Bedrock AgentCore** in US-West
-- Removed service **Amazon Kinesis Firehose**
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -60,10 +58,10 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 123 |
 | ap-southeast-6 | New Zealand | 100 |
-| ap-southeast-7 | Thailand | 106 |
+| ap-southeast-7 | Thailand | 107 |
 | ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 114 |
-| eu-central-1 | Frankfurt | 220 |
+| eu-central-1 | Frankfurt | 221 |
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 171 |
 | eu-south-1 | Milan | 144 |
@@ -77,14 +75,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 102 |
 | sa-east-1 | Sao Paulo | 168 |
-| us-east-1 | N. Virginia | 240 |
+| us-east-1 | N. Virginia | 241 |
 | us-east-2 | Ohio | 205 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 168 |
 | us-west-1 | N. California | 162 |
 | us-west-2 | Oregon | 233 |
 
-## Services (269)
+## Services (270)
 
 | Service | Region Count |
 |---------|-------------|
@@ -170,6 +168,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Lambda | 36 |
 | AWS Launch Wizard | 29 |
 | AWS License Manager | 36 |
+| AWS MCP Server | 2 |
 | AWS Mainframe Modernization | 23 |
 | AWS Management Console | 3 |
 | AWS Marketplace | 3 |
@@ -311,7 +310,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon OpenSearch Service | 36 |
 | Amazon Personalize | 11 |
 | Amazon Pinpoint | 13 |
-| Amazon Polly | 24 |
+| Amazon Polly | 25 |
 | Amazon Q Apps | 2 |
 | Amazon Q Business | 4 |
 | Amazon Quick Suite | 25 |
