@@ -4081,6 +4081,7 @@ https://status.aws.amazon.com/rss/pcs-eu-south-2.rss
 https://status.aws.amazon.com/rss/pcs-eu-west-1.rss
 https://status.aws.amazon.com/rss/pcs-eu-west-2.rss
 https://status.aws.amazon.com/rss/pcs-eu-west-3.rss
+https://status.aws.amazon.com/rss/pcs-sa-east-1.rss
 https://status.aws.amazon.com/rss/pcs-us-east-1.rss
 https://status.aws.amazon.com/rss/pcs-us-east-2.rss
 https://status.aws.amazon.com/rss/pcs-us-gov-east-1.rss

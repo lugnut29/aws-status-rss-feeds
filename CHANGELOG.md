@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-05-27
+
+- Added **AWS Parallel Computing Service** in Sao Paulo
+
 ## 2026-05-23
 
 - Added service **AWS MCP Server** (Frankfurt, N. Virginia)

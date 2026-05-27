@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,840 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,841 feeds** across **270 services** and **37 regions**.
 
-_Last checked: 2026-05-26 UTC_
+_Last checked: 2026-05-27 UTC_
 
 ## Recent changes by AWS
+
+## 2026-05-27
+
+- Added **AWS Parallel Computing Service** in Sao Paulo
 
 ## 2026-05-23
 
@@ -27,10 +31,6 @@ _Last checked: 2026-05-26 UTC_
 - Added **AWS CodeBuild** in Malaysia
 - Added **AWS CodeBuild** in New Zealand
 - Added **AWS CodeBuild** in Thailand
-
-## 2026-05-18
-
-- Added **Amazon Inspector** in Taipei
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -74,7 +74,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 102 |
-| sa-east-1 | Sao Paulo | 168 |
+| sa-east-1 | Sao Paulo | 169 |
 | us-east-1 | N. Virginia | 241 |
 | us-east-2 | Ohio | 205 |
 | us-gov-east-1 | US-East | 147 |
@@ -184,7 +184,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
 | AWS Panorama | 4 |
-| AWS Parallel Computing Service | 17 |
+| AWS Parallel Computing Service | 18 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |
