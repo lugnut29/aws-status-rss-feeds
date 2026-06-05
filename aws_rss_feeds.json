@@ -6207,6 +6207,9 @@
     "UAE": "https://status.aws.amazon.com/rss/infrastructureperformance-me-central-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/infrastructureperformance-eu-central-2.rss"
   },
+  "Kiro": {
+    "N. Virginia": "https://status.aws.amazon.com/rss/codewhisperer-us-east-1.rss"
+  },
   "Multiple services": {
     "Bahrain": "https://status.aws.amazon.com/rss/multipleservices-me-south-1.rss",
     "Calgary": "https://status.aws.amazon.com/rss/multipleservices-ca-west-1.rss",

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-05
+
+- Added service **Kiro** (N. Virginia)
+
 ## 2026-05-27
 
 - Added **AWS Parallel Computing Service** in Sao Paulo

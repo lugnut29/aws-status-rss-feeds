@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,841 feeds** across **270 services** and **37 regions**.
+Currently tracking **5,842 feeds** across **271 services** and **37 regions**.
 
-_Last checked: 2026-06-04 UTC_
+_Last checked: 2026-06-05 UTC_
 
 ## Recent changes by AWS
+
+## 2026-06-05
+
+- Added service **Kiro** (N. Virginia)
 
 ## 2026-05-27
 
@@ -25,12 +29,6 @@ _Last checked: 2026-06-04 UTC_
 
 - Added **Amazon Cognito** in New Zealand
 - Added **Amazon Cognito** in Taipei
-
-## 2026-05-20
-
-- Added **AWS CodeBuild** in Malaysia
-- Added **AWS CodeBuild** in New Zealand
-- Added **AWS CodeBuild** in Thailand
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -75,14 +73,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 102 |
 | sa-east-1 | Sao Paulo | 169 |
-| us-east-1 | N. Virginia | 241 |
+| us-east-1 | N. Virginia | 242 |
 | us-east-2 | Ohio | 205 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 168 |
 | us-west-1 | N. California | 162 |
 | us-west-2 | Oregon | 233 |
 
-## Services (270)
+## Services (271)
 
 | Service | Region Count |
 |---------|-------------|
@@ -350,6 +348,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | EC2 Image Builder | 36 |
 | EC2 Serial Console | 36 |
 | Infrastructure Performance | 27 |
+| Kiro | 1 |
 | Multiple services | 34 |
 | Network Access Analyzer | 20 |
 | Reachability Analyzer | 20 |
