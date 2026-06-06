@@ -1252,7 +1252,6 @@ https://status.aws.amazon.com/rss/codepipeline-us-gov-east-1.rss
 https://status.aws.amazon.com/rss/codepipeline-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/codepipeline-us-west-1.rss
 https://status.aws.amazon.com/rss/codepipeline-us-west-2.rss
-https://status.aws.amazon.com/rss/codewhisperer-us-east-1.rss
 https://status.aws.amazon.com/rss/cognito-af-south-1.rss
 https://status.aws.amazon.com/rss/cognito-ap-east-1.rss
 https://status.aws.amazon.com/rss/cognito-ap-east-2.rss
@@ -3346,6 +3345,7 @@ https://status.aws.amazon.com/rss/kinesisvideo-us-east-2.rss
 https://status.aws.amazon.com/rss/kinesisvideo-us-gov-east-1.rss
 https://status.aws.amazon.com/rss/kinesisvideo-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/kinesisvideo-us-west-2.rss
+https://status.aws.amazon.com/rss/kiro-us-east-1.rss
 https://status.aws.amazon.com/rss/kms-af-south-1.rss
 https://status.aws.amazon.com/rss/kms-ap-east-1.rss
 https://status.aws.amazon.com/rss/kms-ap-east-2.rss

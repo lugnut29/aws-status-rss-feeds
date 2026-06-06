@@ -6208,7 +6208,7 @@
     "Zurich": "https://status.aws.amazon.com/rss/infrastructureperformance-eu-central-2.rss"
   },
   "Kiro": {
-    "N. Virginia": "https://status.aws.amazon.com/rss/codewhisperer-us-east-1.rss"
+    "N. Virginia": "https://status.aws.amazon.com/rss/kiro-us-east-1.rss"
   },
   "Multiple services": {
     "Bahrain": "https://status.aws.amazon.com/rss/multipleservices-me-south-1.rss",
