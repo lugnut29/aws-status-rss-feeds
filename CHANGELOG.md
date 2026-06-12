@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-06-12
+
+- Removed service **AWS OpsWorks Stacks**
+- Removed service **AWS OpsWorks for Chef Automate**
+- Removed service **AWS OpsWorks for Puppet Enterprise**
+
 ## 2026-06-05
 
 - Added service **Kiro** (N. Virginia)

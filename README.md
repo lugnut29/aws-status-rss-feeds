@@ -2,11 +2,17 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,842 feeds** across **271 services** and **37 regions**.
+Currently tracking **5,809 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-06-11 UTC_
+_Last checked: 2026-06-12 UTC_
 
 ## Recent changes by AWS
+
+## 2026-06-12
+
+- Removed service **AWS OpsWorks Stacks**
+- Removed service **AWS OpsWorks for Chef Automate**
+- Removed service **AWS OpsWorks for Puppet Enterprise**
 
 ## 2026-06-05
 
@@ -25,11 +31,6 @@ _Last checked: 2026-06-11 UTC_
 
 - Added **AWS Parallel Computing Service** in Osaka
 
-## 2026-05-21
-
-- Added **Amazon Cognito** in New Zealand
-- Added **Amazon Cognito** in Taipei
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -45,42 +46,42 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 148 |
 | ap-east-1 | Hong Kong | 147 |
 | ap-east-2 | Taipei | 98 |
-| ap-northeast-1 | Tokyo | 215 |
-| ap-northeast-2 | Seoul | 190 |
+| ap-northeast-1 | Tokyo | 212 |
+| ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 137 |
-| ap-south-1 | Mumbai | 191 |
+| ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 127 |
-| ap-southeast-1 | Singapore | 210 |
-| ap-southeast-2 | Sydney | 223 |
+| ap-southeast-1 | Singapore | 207 |
+| ap-southeast-2 | Sydney | 220 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 123 |
 | ap-southeast-6 | New Zealand | 100 |
 | ap-southeast-7 | Thailand | 107 |
-| ca-central-1 | Canada-Central | 194 |
+| ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 114 |
-| eu-central-1 | Frankfurt | 221 |
+| eu-central-1 | Frankfurt | 218 |
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 171 |
 | eu-south-1 | Milan | 144 |
 | eu-south-2 | Spain | 139 |
-| eu-west-1 | Ireland | 231 |
-| eu-west-2 | London | 204 |
-| eu-west-3 | Paris | 171 |
+| eu-west-1 | Ireland | 228 |
+| eu-west-2 | London | 203 |
+| eu-west-3 | Paris | 170 |
 | global | global | 24 |
 | il-central-1 | Tel Aviv | 131 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 102 |
-| sa-east-1 | Sao Paulo | 169 |
-| us-east-1 | N. Virginia | 242 |
-| us-east-2 | Ohio | 205 |
+| sa-east-1 | Sao Paulo | 168 |
+| us-east-1 | N. Virginia | 239 |
+| us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 168 |
-| us-west-1 | N. California | 162 |
-| us-west-2 | Oregon | 233 |
+| us-west-1 | N. California | 159 |
+| us-west-2 | Oregon | 230 |
 
-## Services (271)
+## Services (268)
 
 | Service | Region Count |
 |---------|-------------|
@@ -176,9 +177,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Migration Hub Strategy Recommendations | 7 |
 | AWS NAT Gateway | 36 |
 | AWS Network Firewall | 36 |
-| AWS OpsWorks Stacks | 15 |
-| AWS OpsWorks for Chef Automate | 9 |
-| AWS OpsWorks for Puppet Enterprise | 9 |
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
 | AWS Panorama | 4 |

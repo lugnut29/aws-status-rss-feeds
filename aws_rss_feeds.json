@@ -2073,45 +2073,6 @@
     "US-West": "https://status.aws.amazon.com/rss/networkfirewall-us-gov-west-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/networkfirewall-eu-central-2.rss"
   },
-  "AWS OpsWorks Stacks": {
-    "Canada-Central": "https://status.aws.amazon.com/rss/opsworks-ca-central-1.rss",
-    "Frankfurt": "https://status.aws.amazon.com/rss/opsworks-eu-central-1.rss",
-    "Ireland": "https://status.aws.amazon.com/rss/opsworks-eu-west-1.rss",
-    "London": "https://status.aws.amazon.com/rss/opsworks-eu-west-2.rss",
-    "Mumbai": "https://status.aws.amazon.com/rss/opsworks-ap-south-1.rss",
-    "N. California": "https://status.aws.amazon.com/rss/opsworks-us-west-1.rss",
-    "N. Virginia": "https://status.aws.amazon.com/rss/opsworks-us-east-1.rss",
-    "Ohio": "https://status.aws.amazon.com/rss/opsworks-us-east-2.rss",
-    "Oregon": "https://status.aws.amazon.com/rss/opsworks-us-west-2.rss",
-    "Paris": "https://status.aws.amazon.com/rss/opsworks-eu-west-3.rss",
-    "Sao Paulo": "https://status.aws.amazon.com/rss/opsworks-sa-east-1.rss",
-    "Seoul": "https://status.aws.amazon.com/rss/opsworks-ap-northeast-2.rss",
-    "Singapore": "https://status.aws.amazon.com/rss/opsworks-ap-southeast-1.rss",
-    "Sydney": "https://status.aws.amazon.com/rss/opsworks-ap-southeast-2.rss",
-    "Tokyo": "https://status.aws.amazon.com/rss/opsworks-ap-northeast-1.rss"
-  },
-  "AWS OpsWorks for Chef Automate": {
-    "Frankfurt": "https://status.aws.amazon.com/rss/opsworkschef-eu-central-1.rss",
-    "Ireland": "https://status.aws.amazon.com/rss/opsworkschef-eu-west-1.rss",
-    "N. California": "https://status.aws.amazon.com/rss/opsworkschef-us-west-1.rss",
-    "N. Virginia": "https://status.aws.amazon.com/rss/opsworkschef-us-east-1.rss",
-    "Ohio": "https://status.aws.amazon.com/rss/opsworkschef-us-east-2.rss",
-    "Oregon": "https://status.aws.amazon.com/rss/opsworkschef-us-west-2.rss",
-    "Singapore": "https://status.aws.amazon.com/rss/opsworkschef-ap-southeast-1.rss",
-    "Sydney": "https://status.aws.amazon.com/rss/opsworkschef-ap-southeast-2.rss",
-    "Tokyo": "https://status.aws.amazon.com/rss/opsworkschef-ap-northeast-1.rss"
-  },
-  "AWS OpsWorks for Puppet Enterprise": {
-    "Frankfurt": "https://status.aws.amazon.com/rss/opsworkspuppet-eu-central-1.rss",
-    "Ireland": "https://status.aws.amazon.com/rss/opsworkspuppet-eu-west-1.rss",
-    "N. California": "https://status.aws.amazon.com/rss/opsworkspuppet-us-west-1.rss",
-    "N. Virginia": "https://status.aws.amazon.com/rss/opsworkspuppet-us-east-1.rss",
-    "Ohio": "https://status.aws.amazon.com/rss/opsworkspuppet-us-east-2.rss",
-    "Oregon": "https://status.aws.amazon.com/rss/opsworkspuppet-us-west-2.rss",
-    "Singapore": "https://status.aws.amazon.com/rss/opsworkspuppet-ap-southeast-1.rss",
-    "Sydney": "https://status.aws.amazon.com/rss/opsworkspuppet-ap-southeast-2.rss",
-    "Tokyo": "https://status.aws.amazon.com/rss/opsworkspuppet-ap-northeast-1.rss"
-  },
   "AWS Organizations": {
     "US-East": "https://status.aws.amazon.com/rss/organizations-us-gov-east-1.rss",
     "US-West": "https://status.aws.amazon.com/rss/organizations-us-gov-west-1.rss",
