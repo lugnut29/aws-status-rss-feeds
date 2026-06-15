@@ -2,11 +2,24 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,809 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,820 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-06-14 UTC_
+_Last checked: 2026-06-15 UTC_
 
 ## Recent changes by AWS
+
+## 2026-06-15
+
+- Added **AWS CodeDeploy** in Malaysia
+- Added **AWS CodeDeploy** in Mexico-Central
+- Added **AWS CodeDeploy** in New Zealand
+- Added **AWS CodeDeploy** in Thailand
+- Added service **Amazon Connect Health** (N. Virginia, Oregon)
+- Added **Amazon Lightsail** in Hong Kong
+- Added **Amazon Lightsail** in Sao Paulo
+- Added **Amazon Lightsail** in Spain
+- Added **Amazon Rekognition** in Malaysia
+- Added **Amazon Rekognition** in Thailand
 
 ## 2026-06-12
 
@@ -27,10 +40,6 @@ _Last checked: 2026-06-14 UTC_
 - Added service **AWS MCP Server** (Frankfurt, N. Virginia)
 - Added **Amazon Polly** in Thailand
 
-## 2026-05-22
-
-- Added **AWS Parallel Computing Service** in Osaka
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -44,7 +53,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Region ID | Location | Services |
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 148 |
-| ap-east-1 | Hong Kong | 147 |
+| ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 98 |
 | ap-northeast-1 | Tokyo | 212 |
 | ap-northeast-2 | Seoul | 189 |
@@ -55,16 +64,16 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 220 |
 | ap-southeast-3 | Jakarta | 128 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 123 |
-| ap-southeast-6 | New Zealand | 100 |
-| ap-southeast-7 | Thailand | 107 |
+| ap-southeast-5 | Malaysia | 125 |
+| ap-southeast-6 | New Zealand | 101 |
+| ap-southeast-7 | Thailand | 109 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 114 |
 | eu-central-1 | Frankfurt | 218 |
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 171 |
 | eu-south-1 | Milan | 144 |
-| eu-south-2 | Spain | 139 |
+| eu-south-2 | Spain | 140 |
 | eu-west-1 | Ireland | 228 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
@@ -72,16 +81,16 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | il-central-1 | Tel Aviv | 131 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
-| mx-central-1 | Mexico-Central | 102 |
-| sa-east-1 | Sao Paulo | 168 |
-| us-east-1 | N. Virginia | 239 |
+| mx-central-1 | Mexico-Central | 103 |
+| sa-east-1 | Sao Paulo | 169 |
+| us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 168 |
 | us-west-1 | N. California | 159 |
-| us-west-2 | Oregon | 230 |
+| us-west-2 | Oregon | 231 |
 
-## Services (268)
+## Services (269)
 
 | Service | Region Count |
 |---------|-------------|
@@ -116,7 +125,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS CodeArtifact | 13 |
 | AWS CodeBuild | 33 |
 | AWS CodeCommit | 27 |
-| AWS CodeDeploy | 32 |
+| AWS CodeDeploy | 36 |
 | AWS CodePipeline | 31 |
 | AWS Compute Optimizer | 30 |
 | AWS Config | 36 |
@@ -250,6 +259,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Comprehend | 13 |
 | Amazon Comprehend Medical | 8 |
 | Amazon Connect | 11 |
+| Amazon Connect Health | 2 |
 | Amazon Data Firehose | 36 |
 | Amazon Data Lifecycle Manager | 36 |
 | Amazon DataZone | 21 |
@@ -287,7 +297,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Kinesis Data Streams | 36 |
 | Amazon Kinesis Video Streams | 21 |
 | Amazon Lex | 12 |
-| Amazon Lightsail | 16 |
+| Amazon Lightsail | 19 |
 | Amazon Location Service | 16 |
 | Amazon Lookout for Equipment | 3 |
 | Amazon MQ | 36 |
@@ -311,7 +321,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Q Business | 4 |
 | Amazon Quick Suite | 25 |
 | Amazon Redshift | 36 |
-| Amazon Rekognition | 17 |
+| Amazon Rekognition | 19 |
 | Amazon Relational Database Service | 36 |
 | Amazon Route 53 | 3 |
 | Amazon Route 53 Application Recovery Controller | 1 |

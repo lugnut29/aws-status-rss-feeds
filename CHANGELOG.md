@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-06-15
+
+- Added **AWS CodeDeploy** in Malaysia
+- Added **AWS CodeDeploy** in Mexico-Central
+- Added **AWS CodeDeploy** in New Zealand
+- Added **AWS CodeDeploy** in Thailand
+- Added service **Amazon Connect Health** (N. Virginia, Oregon)
+- Added **Amazon Lightsail** in Hong Kong
+- Added **Amazon Lightsail** in Sao Paulo
+- Added **Amazon Lightsail** in Spain
+- Added **Amazon Rekognition** in Malaysia
+- Added **Amazon Rekognition** in Thailand
+
 ## 2026-06-12
 
 - Removed service **AWS OpsWorks Stacks**

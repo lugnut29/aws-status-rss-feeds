@@ -1181,6 +1181,9 @@ https://status.aws.amazon.com/rss/codedeploy-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/codedeploy-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/codedeploy-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/codedeploy-ap-southeast-4.rss
+https://status.aws.amazon.com/rss/codedeploy-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/codedeploy-ap-southeast-6.rss
+https://status.aws.amazon.com/rss/codedeploy-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/codedeploy-ca-central-1.rss
 https://status.aws.amazon.com/rss/codedeploy-ca-west-1.rss
 https://status.aws.amazon.com/rss/codedeploy-eu-central-1.rss
@@ -1194,6 +1197,7 @@ https://status.aws.amazon.com/rss/codedeploy-eu-west-3.rss
 https://status.aws.amazon.com/rss/codedeploy-il-central-1.rss
 https://status.aws.amazon.com/rss/codedeploy-me-central-1.rss
 https://status.aws.amazon.com/rss/codedeploy-me-south-1.rss
+https://status.aws.amazon.com/rss/codedeploy-mx-central-1.rss
 https://status.aws.amazon.com/rss/codedeploy-sa-east-1.rss
 https://status.aws.amazon.com/rss/codedeploy-us-east-1.rss
 https://status.aws.amazon.com/rss/codedeploy-us-east-2.rss
@@ -2838,6 +2842,8 @@ https://status.aws.amazon.com/rss/guardduty-us-gov-east-1.rss
 https://status.aws.amazon.com/rss/guardduty-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/guardduty-us-west-1.rss
 https://status.aws.amazon.com/rss/guardduty-us-west-2.rss
+https://status.aws.amazon.com/rss/health-agent-us-east-1.rss
+https://status.aws.amazon.com/rss/health-agent-us-west-2.rss
 https://status.aws.amazon.com/rss/health-us-gov-east-1.rss
 https://status.aws.amazon.com/rss/health-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/health.rss
@@ -3502,6 +3508,7 @@ https://status.aws.amazon.com/rss/licensemanager-us-gov-east-1.rss
 https://status.aws.amazon.com/rss/licensemanager-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/licensemanager-us-west-1.rss
 https://status.aws.amazon.com/rss/licensemanager-us-west-2.rss
+https://status.aws.amazon.com/rss/lightsail-ap-east-1.rss
 https://status.aws.amazon.com/rss/lightsail-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/lightsail-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/lightsail-ap-south-1.rss
@@ -3512,9 +3519,11 @@ https://status.aws.amazon.com/rss/lightsail-ap-southeast-5.rss
 https://status.aws.amazon.com/rss/lightsail-ca-central-1.rss
 https://status.aws.amazon.com/rss/lightsail-eu-central-1.rss
 https://status.aws.amazon.com/rss/lightsail-eu-north-1.rss
+https://status.aws.amazon.com/rss/lightsail-eu-south-2.rss
 https://status.aws.amazon.com/rss/lightsail-eu-west-1.rss
 https://status.aws.amazon.com/rss/lightsail-eu-west-2.rss
 https://status.aws.amazon.com/rss/lightsail-eu-west-3.rss
+https://status.aws.amazon.com/rss/lightsail-sa-east-1.rss
 https://status.aws.amazon.com/rss/lightsail-us-east-1.rss
 https://status.aws.amazon.com/rss/lightsail-us-east-2.rss
 https://status.aws.amazon.com/rss/lightsail-us-west-2.rss
@@ -4315,6 +4324,8 @@ https://status.aws.amazon.com/rss/rekognition-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/rekognition-ap-south-1.rss
 https://status.aws.amazon.com/rss/rekognition-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/rekognition-ap-southeast-2.rss
+https://status.aws.amazon.com/rss/rekognition-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/rekognition-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/rekognition-ca-central-1.rss
 https://status.aws.amazon.com/rss/rekognition-eu-central-1.rss
 https://status.aws.amazon.com/rss/rekognition-eu-south-2.rss
