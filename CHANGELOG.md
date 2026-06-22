@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-06-22
+
+- Added **AWS Parallel Computing Service** in Cape Town
+- Added **AWS Parallel Computing Service** in Jakarta
+
 ## 2026-06-15
 
 - Added **AWS CodeDeploy** in Malaysia

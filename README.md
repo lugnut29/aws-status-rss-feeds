@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,820 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,822 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-06-21 UTC_
+_Last checked: 2026-06-22 UTC_
 
 ## Recent changes by AWS
+
+## 2026-06-22
+
+- Added **AWS Parallel Computing Service** in Cape Town
+- Added **AWS Parallel Computing Service** in Jakarta
 
 ## 2026-06-15
 
@@ -35,11 +40,6 @@ _Last checked: 2026-06-21 UTC_
 
 - Added **AWS Parallel Computing Service** in Sao Paulo
 
-## 2026-05-23
-
-- Added service **AWS MCP Server** (Frankfurt, N. Virginia)
-- Added **Amazon Polly** in Thailand
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -52,7 +52,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 | Region ID | Location | Services |
 |-----------|----------|----------|
-| af-south-1 | Cape Town | 148 |
+| af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 98 |
 | ap-northeast-1 | Tokyo | 212 |
@@ -62,7 +62,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-south-2 | Hyderabad | 127 |
 | ap-southeast-1 | Singapore | 207 |
 | ap-southeast-2 | Sydney | 220 |
-| ap-southeast-3 | Jakarta | 128 |
+| ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 125 |
 | ap-southeast-6 | New Zealand | 101 |
@@ -189,7 +189,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
 | AWS Panorama | 4 |
-| AWS Parallel Computing Service | 18 |
+| AWS Parallel Computing Service | 20 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |
