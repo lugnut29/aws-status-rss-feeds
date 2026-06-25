@@ -5471,6 +5471,7 @@ https://status.aws.amazon.com/rss/transform-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/transform-ca-central-1.rss
 https://status.aws.amazon.com/rss/transform-eu-central-1.rss
 https://status.aws.amazon.com/rss/transform-eu-west-2.rss
+https://status.aws.amazon.com/rss/transform-sa-east-1.rss
 https://status.aws.amazon.com/rss/transform-us-east-1.rss
 https://status.aws.amazon.com/rss/transitgateway-af-south-1.rss
 https://status.aws.amazon.com/rss/transitgateway-ap-east-1.rss

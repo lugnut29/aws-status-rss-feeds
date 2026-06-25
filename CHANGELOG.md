@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-25
+
+- Added **AWS Transform** in Sao Paulo
+
 ## 2026-06-22
 
 - Added **AWS Parallel Computing Service** in Cape Town

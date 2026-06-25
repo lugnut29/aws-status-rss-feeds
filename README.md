@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,822 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,823 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-06-24 UTC_
+_Last checked: 2026-06-25 UTC_
 
 ## Recent changes by AWS
+
+## 2026-06-25
+
+- Added **AWS Transform** in Sao Paulo
 
 ## 2026-06-22
 
@@ -35,10 +39,6 @@ _Last checked: 2026-06-24 UTC_
 ## 2026-06-05
 
 - Added service **Kiro** (N. Virginia)
-
-## 2026-05-27
-
-- Added **AWS Parallel Computing Service** in Sao Paulo
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -82,7 +82,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 103 |
-| sa-east-1 | Sao Paulo | 169 |
+| sa-east-1 | Sao Paulo | 170 |
 | us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
@@ -224,7 +224,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Systems Manager for SAP | 28 |
 | AWS Telco Network Builder | 10 |
 | AWS Transfer Family | 36 |
-| AWS Transform | 8 |
+| AWS Transform | 9 |
 | AWS Transit Gateway | 36 |
 | AWS Trusted Advisor | 3 |
 | AWS User Notifications | 1 |
