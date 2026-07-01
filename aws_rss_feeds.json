@@ -1146,6 +1146,7 @@
   },
   "AWS Elastic Disaster Recovery": {
     "Bahrain": "https://status.aws.amazon.com/rss/drs-me-south-1.rss",
+    "Calgary": "https://status.aws.amazon.com/rss/drs-ca-west-1.rss",
     "Canada-Central": "https://status.aws.amazon.com/rss/drs-ca-central-1.rss",
     "Cape Town": "https://status.aws.amazon.com/rss/drs-af-south-1.rss",
     "Frankfurt": "https://status.aws.amazon.com/rss/drs-eu-central-1.rss",
@@ -1159,6 +1160,7 @@
     "Mumbai": "https://status.aws.amazon.com/rss/drs-ap-south-1.rss",
     "N. California": "https://status.aws.amazon.com/rss/drs-us-west-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/drs-us-east-1.rss",
+    "New Zealand": "https://status.aws.amazon.com/rss/drs-ap-southeast-6.rss",
     "Ohio": "https://status.aws.amazon.com/rss/drs-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/drs-us-west-2.rss",
     "Osaka": "https://status.aws.amazon.com/rss/drs-ap-northeast-3.rss",

@@ -1808,7 +1808,9 @@ https://status.aws.amazon.com/rss/drs-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/drs-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/drs-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/drs-ap-southeast-4.rss
+https://status.aws.amazon.com/rss/drs-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/drs-ca-central-1.rss
+https://status.aws.amazon.com/rss/drs-ca-west-1.rss
 https://status.aws.amazon.com/rss/drs-eu-central-1.rss
 https://status.aws.amazon.com/rss/drs-eu-central-2.rss
 https://status.aws.amazon.com/rss/drs-eu-north-1.rss

@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-07-01
+
+- Added **AWS Elastic Disaster Recovery** in Calgary
+- Added **AWS Elastic Disaster Recovery** in New Zealand
+
 ## 2026-06-25
 
 - Added **AWS Transform** in Sao Paulo

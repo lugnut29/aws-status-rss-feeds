@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,823 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,825 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-06-30 UTC_
+_Last checked: 2026-07-01 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-01
+
+- Added **AWS Elastic Disaster Recovery** in Calgary
+- Added **AWS Elastic Disaster Recovery** in New Zealand
 
 ## 2026-06-25
 
@@ -36,10 +41,6 @@ _Last checked: 2026-06-30 UTC_
 - Removed service **AWS OpsWorks for Chef Automate**
 - Removed service **AWS OpsWorks for Puppet Enterprise**
 
-## 2026-06-05
-
-- Added service **Kiro** (N. Virginia)
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -65,10 +66,10 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 125 |
-| ap-southeast-6 | New Zealand | 101 |
+| ap-southeast-6 | New Zealand | 102 |
 | ap-southeast-7 | Thailand | 109 |
 | ca-central-1 | Canada-Central | 193 |
-| ca-west-1 | Calgary | 114 |
+| ca-west-1 | Calgary | 115 |
 | eu-central-1 | Frankfurt | 218 |
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 171 |
@@ -142,7 +143,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Direct Connect | 36 |
 | AWS Directory Service | 36 |
 | AWS Elastic Beanstalk | 34 |
-| AWS Elastic Disaster Recovery | 30 |
+| AWS Elastic Disaster Recovery | 32 |
 | AWS Elastic VMWare Service | 19 |
 | AWS Elemental | 24 |
 | AWS End User Messaging | 33 |
