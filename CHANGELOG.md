@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-07-02
+
+- Added **Bedrock AgentCore** in Malaysia
+- Added **Bedrock AgentCore** in Milan
+- Added **Bedrock AgentCore** in Spain
+- Added **Bedrock AgentCore** in Thailand
+
 ## 2026-07-01
 
 - Added **AWS Elastic Disaster Recovery** in Calgary

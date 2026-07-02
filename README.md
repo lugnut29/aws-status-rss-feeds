@@ -2,11 +2,18 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,825 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,829 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-07-01 UTC_
+_Last checked: 2026-07-02 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-02
+
+- Added **Bedrock AgentCore** in Malaysia
+- Added **Bedrock AgentCore** in Milan
+- Added **Bedrock AgentCore** in Spain
+- Added **Bedrock AgentCore** in Thailand
 
 ## 2026-07-01
 
@@ -35,12 +42,6 @@ _Last checked: 2026-07-01 UTC_
 - Added **Amazon Rekognition** in Malaysia
 - Added **Amazon Rekognition** in Thailand
 
-## 2026-06-12
-
-- Removed service **AWS OpsWorks Stacks**
-- Removed service **AWS OpsWorks for Chef Automate**
-- Removed service **AWS OpsWorks for Puppet Enterprise**
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -65,16 +66,16 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 220 |
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 125 |
+| ap-southeast-5 | Malaysia | 126 |
 | ap-southeast-6 | New Zealand | 102 |
-| ap-southeast-7 | Thailand | 109 |
+| ap-southeast-7 | Thailand | 110 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 115 |
 | eu-central-1 | Frankfurt | 218 |
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 171 |
-| eu-south-1 | Milan | 144 |
-| eu-south-2 | Spain | 140 |
+| eu-south-1 | Milan | 145 |
+| eu-south-2 | Spain | 141 |
 | eu-west-1 | Ireland | 228 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
@@ -352,7 +353,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon WorkSpaces Secure Browser | 10 |
 | Amazon WorkSpaces Thin Client | 7 |
 | Auto Scaling | 36 |
-| Bedrock AgentCore | 16 |
+| Bedrock AgentCore | 20 |
 | Control Catalog | 36 |
 | EC2 Image Builder | 36 |
 | EC2 Serial Console | 36 |

@@ -685,9 +685,13 @@ https://status.aws.amazon.com/rss/bedrock-agentcore-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-ap-south-1.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-ap-southeast-2.rss
+https://status.aws.amazon.com/rss/bedrock-agentcore-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/bedrock-agentcore-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-ca-central-1.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-eu-central-1.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-eu-north-1.rss
+https://status.aws.amazon.com/rss/bedrock-agentcore-eu-south-1.rss
+https://status.aws.amazon.com/rss/bedrock-agentcore-eu-south-2.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-eu-west-1.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-eu-west-2.rss
 https://status.aws.amazon.com/rss/bedrock-agentcore-eu-west-3.rss
