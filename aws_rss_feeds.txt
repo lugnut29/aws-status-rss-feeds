@@ -1241,6 +1241,7 @@ https://status.aws.amazon.com/rss/codepipeline-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/codepipeline-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/codepipeline-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/codepipeline-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/codepipeline-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/codepipeline-ca-central-1.rss
 https://status.aws.amazon.com/rss/codepipeline-eu-central-1.rss
 https://status.aws.amazon.com/rss/codepipeline-eu-central-2.rss

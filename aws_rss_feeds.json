@@ -754,6 +754,7 @@
     "Mumbai": "https://status.aws.amazon.com/rss/codepipeline-ap-south-1.rss",
     "N. California": "https://status.aws.amazon.com/rss/codepipeline-us-west-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/codepipeline-us-east-1.rss",
+    "New Zealand": "https://status.aws.amazon.com/rss/codepipeline-ap-southeast-6.rss",
     "Ohio": "https://status.aws.amazon.com/rss/codepipeline-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/codepipeline-us-west-2.rss",
     "Osaka": "https://status.aws.amazon.com/rss/codepipeline-ap-northeast-3.rss",

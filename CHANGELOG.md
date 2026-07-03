@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-07-03
+
+- Added **AWS CodePipeline** in New Zealand
+
 ## 2026-07-02
 
 - Added **Bedrock AgentCore** in Malaysia

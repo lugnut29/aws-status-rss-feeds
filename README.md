@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,829 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,830 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-07-02 UTC_
+_Last checked: 2026-07-03 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-03
+
+- Added **AWS CodePipeline** in New Zealand
 
 ## 2026-07-02
 
@@ -28,19 +32,6 @@ _Last checked: 2026-07-02 UTC_
 
 - Added **AWS Parallel Computing Service** in Cape Town
 - Added **AWS Parallel Computing Service** in Jakarta
-
-## 2026-06-15
-
-- Added **AWS CodeDeploy** in Malaysia
-- Added **AWS CodeDeploy** in Mexico-Central
-- Added **AWS CodeDeploy** in New Zealand
-- Added **AWS CodeDeploy** in Thailand
-- Added service **Amazon Connect Health** (N. Virginia, Oregon)
-- Added **Amazon Lightsail** in Hong Kong
-- Added **Amazon Lightsail** in Sao Paulo
-- Added **Amazon Lightsail** in Spain
-- Added **Amazon Rekognition** in Malaysia
-- Added **Amazon Rekognition** in Thailand
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -67,7 +58,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 126 |
-| ap-southeast-6 | New Zealand | 102 |
+| ap-southeast-6 | New Zealand | 103 |
 | ap-southeast-7 | Thailand | 110 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 115 |
@@ -128,7 +119,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS CodeBuild | 33 |
 | AWS CodeCommit | 27 |
 | AWS CodeDeploy | 36 |
-| AWS CodePipeline | 31 |
+| AWS CodePipeline | 32 |
 | AWS Compute Optimizer | 30 |
 | AWS Config | 36 |
 | AWS Console Mobile App | 29 |
