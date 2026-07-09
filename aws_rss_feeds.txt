@@ -811,6 +811,7 @@ https://status.aws.amazon.com/rss/cleanrooms-us-east-2.rss
 https://status.aws.amazon.com/rss/cleanrooms-us-west-2.rss
 https://status.aws.amazon.com/rss/clientvpn-af-south-1.rss
 https://status.aws.amazon.com/rss/clientvpn-ap-east-1.rss
+https://status.aws.amazon.com/rss/clientvpn-ap-east-2.rss
 https://status.aws.amazon.com/rss/clientvpn-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/clientvpn-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/clientvpn-ap-northeast-3.rss
@@ -821,8 +822,10 @@ https://status.aws.amazon.com/rss/clientvpn-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/clientvpn-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/clientvpn-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/clientvpn-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/clientvpn-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/clientvpn-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/clientvpn-ca-central-1.rss
+https://status.aws.amazon.com/rss/clientvpn-ca-west-1.rss
 https://status.aws.amazon.com/rss/clientvpn-eu-central-1.rss
 https://status.aws.amazon.com/rss/clientvpn-eu-central-2.rss
 https://status.aws.amazon.com/rss/clientvpn-eu-north-1.rss
@@ -834,6 +837,7 @@ https://status.aws.amazon.com/rss/clientvpn-eu-west-3.rss
 https://status.aws.amazon.com/rss/clientvpn-il-central-1.rss
 https://status.aws.amazon.com/rss/clientvpn-me-central-1.rss
 https://status.aws.amazon.com/rss/clientvpn-me-south-1.rss
+https://status.aws.amazon.com/rss/clientvpn-mx-central-1.rss
 https://status.aws.amazon.com/rss/clientvpn-sa-east-1.rss
 https://status.aws.amazon.com/rss/clientvpn-us-east-1.rss
 https://status.aws.amazon.com/rss/clientvpn-us-east-2.rss
@@ -3351,6 +3355,7 @@ https://status.aws.amazon.com/rss/kinesisvideo-eu-south-2.rss
 https://status.aws.amazon.com/rss/kinesisvideo-eu-west-1.rss
 https://status.aws.amazon.com/rss/kinesisvideo-eu-west-2.rss
 https://status.aws.amazon.com/rss/kinesisvideo-eu-west-3.rss
+https://status.aws.amazon.com/rss/kinesisvideo-il-central-1.rss
 https://status.aws.amazon.com/rss/kinesisvideo-me-south-1.rss
 https://status.aws.amazon.com/rss/kinesisvideo-sa-east-1.rss
 https://status.aws.amazon.com/rss/kinesisvideo-us-east-1.rss

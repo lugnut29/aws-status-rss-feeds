@@ -2,11 +2,19 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,830 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,835 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-07-08 UTC_
+_Last checked: 2026-07-09 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-09
+
+- Added **AWS Client VPN** in Calgary
+- Added **AWS Client VPN** in Mexico-Central
+- Added **AWS Client VPN** in New Zealand
+- Added **AWS Client VPN** in Taipei
+- Added **Amazon Kinesis Video Streams** in Tel Aviv
 
 ## 2026-07-03
 
@@ -28,11 +36,6 @@ _Last checked: 2026-07-08 UTC_
 
 - Added **AWS Transform** in Sao Paulo
 
-## 2026-06-22
-
-- Added **AWS Parallel Computing Service** in Cape Town
-- Added **AWS Parallel Computing Service** in Jakarta
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -47,7 +50,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
-| ap-east-2 | Taipei | 98 |
+| ap-east-2 | Taipei | 99 |
 | ap-northeast-1 | Tokyo | 212 |
 | ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 137 |
@@ -58,10 +61,10 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 126 |
-| ap-southeast-6 | New Zealand | 103 |
+| ap-southeast-6 | New Zealand | 104 |
 | ap-southeast-7 | Thailand | 110 |
 | ca-central-1 | Canada-Central | 193 |
-| ca-west-1 | Calgary | 115 |
+| ca-west-1 | Calgary | 116 |
 | eu-central-1 | Frankfurt | 218 |
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 171 |
@@ -71,10 +74,10 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
 | global | global | 24 |
-| il-central-1 | Tel Aviv | 131 |
+| il-central-1 | Tel Aviv | 132 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
-| mx-central-1 | Mexico-Central | 103 |
+| mx-central-1 | Mexico-Central | 104 |
 | sa-east-1 | Sao Paulo | 170 |
 | us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 202 |
@@ -107,7 +110,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Certificate Manager | 36 |
 | AWS Chatbot | 1 |
 | AWS Clean Rooms | 11 |
-| AWS Client VPN | 32 |
+| AWS Client VPN | 36 |
 | AWS Cloud Map | 36 |
 | AWS Cloud WAN | 3 |
 | AWS Cloud9 | 22 |
@@ -288,7 +291,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Kendra Intelligent Ranking | 9 |
 | Amazon Keyspaces | 18 |
 | Amazon Kinesis Data Streams | 36 |
-| Amazon Kinesis Video Streams | 21 |
+| Amazon Kinesis Video Streams | 22 |
 | Amazon Lex | 12 |
 | Amazon Lightsail | 19 |
 | Amazon Location Service | 16 |

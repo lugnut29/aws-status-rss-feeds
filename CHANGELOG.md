@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-07-09
+
+- Added **AWS Client VPN** in Calgary
+- Added **AWS Client VPN** in Mexico-Central
+- Added **AWS Client VPN** in New Zealand
+- Added **AWS Client VPN** in Taipei
+- Added **Amazon Kinesis Video Streams** in Tel Aviv
+
 ## 2026-07-03
 
 - Added **AWS CodePipeline** in New Zealand
