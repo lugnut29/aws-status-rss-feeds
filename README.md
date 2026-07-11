@@ -2,11 +2,18 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,835 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,839 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-07-09 UTC_
+_Last checked: 2026-07-11 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-11
+
+- Added **AWS DevOps Agent** in Canada-Central
+- Added **AWS DevOps Agent** in Mumbai
+- Added **AWS DevOps Agent** in Sao Paulo
+- Added **AWS DevOps Agent** in Singapore
 
 ## 2026-07-09
 
@@ -32,10 +39,6 @@ _Last checked: 2026-07-09 UTC_
 - Added **AWS Elastic Disaster Recovery** in Calgary
 - Added **AWS Elastic Disaster Recovery** in New Zealand
 
-## 2026-06-25
-
-- Added **AWS Transform** in Sao Paulo
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -54,16 +57,16 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-northeast-1 | Tokyo | 212 |
 | ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 137 |
-| ap-south-1 | Mumbai | 190 |
+| ap-south-1 | Mumbai | 191 |
 | ap-south-2 | Hyderabad | 127 |
-| ap-southeast-1 | Singapore | 207 |
+| ap-southeast-1 | Singapore | 208 |
 | ap-southeast-2 | Sydney | 220 |
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 126 |
 | ap-southeast-6 | New Zealand | 104 |
 | ap-southeast-7 | Thailand | 110 |
-| ca-central-1 | Canada-Central | 193 |
+| ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 116 |
 | eu-central-1 | Frankfurt | 218 |
 | eu-central-2 | Zurich | 129 |
@@ -78,7 +81,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 104 |
-| sa-east-1 | Sao Paulo | 170 |
+| sa-east-1 | Sao Paulo | 171 |
 | us-east-1 | N. Virginia | 240 |
 | us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
@@ -133,7 +136,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Database Migration Service | 36 |
 | AWS Deadline Cloud | 10 |
 | AWS DeepRacer | 1 |
-| AWS DevOps Agent | 6 |
+| AWS DevOps Agent | 10 |
 | AWS Device Farm | 1 |
 | AWS Direct Connect | 36 |
 | AWS Directory Service | 36 |

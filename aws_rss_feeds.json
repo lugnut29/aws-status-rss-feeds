@@ -1027,10 +1027,14 @@
     "N. Virginia": "https://status.aws.amazon.com/rss/deepracer-us-east-1.rss"
   },
   "AWS DevOps Agent": {
+    "Canada-Central": "https://status.aws.amazon.com/rss/devops-agent-ca-central-1.rss",
     "Frankfurt": "https://status.aws.amazon.com/rss/devops-agent-eu-central-1.rss",
     "Ireland": "https://status.aws.amazon.com/rss/devops-agent-eu-west-1.rss",
+    "Mumbai": "https://status.aws.amazon.com/rss/devops-agent-ap-south-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/devops-agent-us-east-1.rss",
     "Oregon": "https://status.aws.amazon.com/rss/devops-agent-us-west-2.rss",
+    "Sao Paulo": "https://status.aws.amazon.com/rss/devops-agent-sa-east-1.rss",
+    "Singapore": "https://status.aws.amazon.com/rss/devops-agent-ap-southeast-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/devops-agent-ap-southeast-2.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/devops-agent-ap-northeast-1.rss"
   },

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-07-11
+
+- Added **AWS DevOps Agent** in Canada-Central
+- Added **AWS DevOps Agent** in Mumbai
+- Added **AWS DevOps Agent** in Sao Paulo
+- Added **AWS DevOps Agent** in Singapore
+
 ## 2026-07-09
 
 - Added **AWS Client VPN** in Calgary
