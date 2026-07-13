@@ -1030,6 +1030,7 @@
     "Canada-Central": "https://status.aws.amazon.com/rss/devops-agent-ca-central-1.rss",
     "Frankfurt": "https://status.aws.amazon.com/rss/devops-agent-eu-central-1.rss",
     "Ireland": "https://status.aws.amazon.com/rss/devops-agent-eu-west-1.rss",
+    "London": "https://status.aws.amazon.com/rss/devops-agent-eu-west-2.rss",
     "Mumbai": "https://status.aws.amazon.com/rss/devops-agent-ap-south-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/devops-agent-us-east-1.rss",
     "Oregon": "https://status.aws.amazon.com/rss/devops-agent-us-west-2.rss",

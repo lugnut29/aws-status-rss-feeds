@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,839 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,840 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-07-12 UTC_
+_Last checked: 2026-07-13 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-13
+
+- Added **AWS DevOps Agent** in London
 
 ## 2026-07-11
 
@@ -33,11 +37,6 @@ _Last checked: 2026-07-12 UTC_
 - Added **Bedrock AgentCore** in Milan
 - Added **Bedrock AgentCore** in Spain
 - Added **Bedrock AgentCore** in Thailand
-
-## 2026-07-01
-
-- Added **AWS Elastic Disaster Recovery** in Calgary
-- Added **AWS Elastic Disaster Recovery** in New Zealand
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -74,7 +73,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 141 |
 | eu-west-1 | Ireland | 228 |
-| eu-west-2 | London | 203 |
+| eu-west-2 | London | 204 |
 | eu-west-3 | Paris | 170 |
 | global | global | 24 |
 | il-central-1 | Tel Aviv | 132 |
@@ -136,7 +135,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Database Migration Service | 36 |
 | AWS Deadline Cloud | 10 |
 | AWS DeepRacer | 1 |
-| AWS DevOps Agent | 10 |
+| AWS DevOps Agent | 11 |
 | AWS Device Farm | 1 |
 | AWS Direct Connect | 36 |
 | AWS Directory Service | 36 |

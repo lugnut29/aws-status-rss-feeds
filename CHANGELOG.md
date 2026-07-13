@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-07-13
+
+- Added **AWS DevOps Agent** in London
+
 ## 2026-07-11
 
 - Added **AWS DevOps Agent** in Canada-Central

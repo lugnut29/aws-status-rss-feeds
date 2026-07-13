@@ -1615,6 +1615,7 @@ https://status.aws.amazon.com/rss/devops-agent-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/devops-agent-ca-central-1.rss
 https://status.aws.amazon.com/rss/devops-agent-eu-central-1.rss
 https://status.aws.amazon.com/rss/devops-agent-eu-west-1.rss
+https://status.aws.amazon.com/rss/devops-agent-eu-west-2.rss
 https://status.aws.amazon.com/rss/devops-agent-sa-east-1.rss
 https://status.aws.amazon.com/rss/devops-agent-us-east-1.rss
 https://status.aws.amazon.com/rss/devops-agent-us-west-2.rss
