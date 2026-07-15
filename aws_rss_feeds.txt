@@ -1855,6 +1855,7 @@ https://status.aws.amazon.com/rss/dsql-ca-central-1.rss
 https://status.aws.amazon.com/rss/dsql-ca-west-1.rss
 https://status.aws.amazon.com/rss/dsql-eu-central-1.rss
 https://status.aws.amazon.com/rss/dsql-eu-north-1.rss
+https://status.aws.amazon.com/rss/dsql-eu-south-2.rss
 https://status.aws.amazon.com/rss/dsql-eu-west-1.rss
 https://status.aws.amazon.com/rss/dsql-eu-west-2.rss
 https://status.aws.amazon.com/rss/dsql-eu-west-3.rss

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-07-15
+
+- Added **Amazon Aurora DSQL Service** in Spain
+
 ## 2026-07-13
 
 - Added **AWS DevOps Agent** in London

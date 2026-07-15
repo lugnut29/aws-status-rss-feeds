@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,840 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,841 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-07-14 UTC_
+_Last checked: 2026-07-15 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-15
+
+- Added **Amazon Aurora DSQL Service** in Spain
 
 ## 2026-07-13
 
@@ -30,13 +34,6 @@ _Last checked: 2026-07-14 UTC_
 ## 2026-07-03
 
 - Added **AWS CodePipeline** in New Zealand
-
-## 2026-07-02
-
-- Added **Bedrock AgentCore** in Malaysia
-- Added **Bedrock AgentCore** in Milan
-- Added **Bedrock AgentCore** in Spain
-- Added **Bedrock AgentCore** in Thailand
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -71,7 +68,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 171 |
 | eu-south-1 | Milan | 145 |
-| eu-south-2 | Spain | 141 |
+| eu-south-2 | Spain | 142 |
 | eu-west-1 | Ireland | 228 |
 | eu-west-2 | London | 204 |
 | eu-west-3 | Paris | 170 |
@@ -237,7 +234,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon AppFlow | 16 |
 | Amazon Athena | 36 |
 | Amazon Augmented AI | 12 |
-| Amazon Aurora DSQL Service | 19 |
+| Amazon Aurora DSQL Service | 20 |
 | Amazon Bedrock | 35 |
 | Amazon Braket | 5 |
 | Amazon Chime | 3 |
