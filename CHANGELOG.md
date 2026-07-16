@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-07-16
+
+- Removed service **AWS Panorama**
+
 ## 2026-07-15
 
 - Added **Amazon Aurora DSQL Service** in Spain

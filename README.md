@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,841 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,837 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-07-15 UTC_
+_Last checked: 2026-07-16 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-16
+
+- Removed service **AWS Panorama**
 
 ## 2026-07-15
 
@@ -30,10 +34,6 @@ _Last checked: 2026-07-15 UTC_
 - Added **AWS Client VPN** in New Zealand
 - Added **AWS Client VPN** in Taipei
 - Added **Amazon Kinesis Video Streams** in Tel Aviv
-
-## 2026-07-03
-
-- Added **AWS CodePipeline** in New Zealand
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -62,14 +62,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-5 | Malaysia | 126 |
 | ap-southeast-6 | New Zealand | 104 |
 | ap-southeast-7 | Thailand | 110 |
-| ca-central-1 | Canada-Central | 194 |
+| ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 116 |
 | eu-central-1 | Frankfurt | 218 |
 | eu-central-2 | Zurich | 129 |
 | eu-north-1 | Stockholm | 171 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 142 |
-| eu-west-1 | Ireland | 228 |
+| eu-west-1 | Ireland | 227 |
 | eu-west-2 | London | 204 |
 | eu-west-3 | Paris | 170 |
 | global | global | 24 |
@@ -78,14 +78,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 104 |
 | sa-east-1 | Sao Paulo | 171 |
-| us-east-1 | N. Virginia | 240 |
+| us-east-1 | N. Virginia | 239 |
 | us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 168 |
 | us-west-1 | N. California | 159 |
-| us-west-2 | Oregon | 231 |
+| us-west-2 | Oregon | 230 |
 
-## Services (269)
+## Services (268)
 
 | Service | Region Count |
 |---------|-------------|
@@ -183,7 +183,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Network Firewall | 36 |
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
-| AWS Panorama | 4 |
 | AWS Parallel Computing Service | 20 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
