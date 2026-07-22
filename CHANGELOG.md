@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-07-22
+
+- Added **AWS Elastic Disaster Recovery** in Malaysia
+- Added **AWS Elastic Disaster Recovery** in Mexico-Central
+- Added **AWS Elastic Disaster Recovery** in Taipei
+- Added **AWS Elastic Disaster Recovery** in Thailand
+- Added **AWS Parallel Computing Service** in Seoul
+
 ## 2026-07-16
 
 - Removed service **AWS Panorama**

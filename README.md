@@ -2,11 +2,19 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,837 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,842 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-07-21 UTC_
+_Last checked: 2026-07-22 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-22
+
+- Added **AWS Elastic Disaster Recovery** in Malaysia
+- Added **AWS Elastic Disaster Recovery** in Mexico-Central
+- Added **AWS Elastic Disaster Recovery** in Taipei
+- Added **AWS Elastic Disaster Recovery** in Thailand
+- Added **AWS Parallel Computing Service** in Seoul
 
 ## 2026-07-16
 
@@ -27,14 +35,6 @@ _Last checked: 2026-07-21 UTC_
 - Added **AWS DevOps Agent** in Sao Paulo
 - Added **AWS DevOps Agent** in Singapore
 
-## 2026-07-09
-
-- Added **AWS Client VPN** in Calgary
-- Added **AWS Client VPN** in Mexico-Central
-- Added **AWS Client VPN** in New Zealand
-- Added **AWS Client VPN** in Taipei
-- Added **Amazon Kinesis Video Streams** in Tel Aviv
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -49,9 +49,9 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
-| ap-east-2 | Taipei | 99 |
+| ap-east-2 | Taipei | 100 |
 | ap-northeast-1 | Tokyo | 212 |
-| ap-northeast-2 | Seoul | 189 |
+| ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 137 |
 | ap-south-1 | Mumbai | 191 |
 | ap-south-2 | Hyderabad | 127 |
@@ -59,9 +59,9 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 220 |
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 126 |
+| ap-southeast-5 | Malaysia | 127 |
 | ap-southeast-6 | New Zealand | 104 |
-| ap-southeast-7 | Thailand | 110 |
+| ap-southeast-7 | Thailand | 111 |
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 116 |
 | eu-central-1 | Frankfurt | 218 |
@@ -76,7 +76,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | il-central-1 | Tel Aviv | 132 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
-| mx-central-1 | Mexico-Central | 104 |
+| mx-central-1 | Mexico-Central | 105 |
 | sa-east-1 | Sao Paulo | 171 |
 | us-east-1 | N. Virginia | 239 |
 | us-east-2 | Ohio | 202 |
@@ -137,7 +137,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Direct Connect | 36 |
 | AWS Directory Service | 36 |
 | AWS Elastic Beanstalk | 34 |
-| AWS Elastic Disaster Recovery | 32 |
+| AWS Elastic Disaster Recovery | 36 |
 | AWS Elastic VMWare Service | 19 |
 | AWS Elemental | 24 |
 | AWS End User Messaging | 33 |
@@ -183,7 +183,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Network Firewall | 36 |
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
-| AWS Parallel Computing Service | 20 |
+| AWS Parallel Computing Service | 21 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |
