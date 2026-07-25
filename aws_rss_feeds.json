@@ -1496,10 +1496,12 @@
     "Ireland": "https://status.aws.amazon.com/rss/omics-eu-west-1.rss",
     "London": "https://status.aws.amazon.com/rss/omics-eu-west-2.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/omics-us-east-1.rss",
+    "Ohio": "https://status.aws.amazon.com/rss/omics-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/omics-us-west-2.rss",
     "Seoul": "https://status.aws.amazon.com/rss/omics-ap-northeast-2.rss",
     "Singapore": "https://status.aws.amazon.com/rss/omics-ap-southeast-1.rss",
-    "Tel Aviv": "https://status.aws.amazon.com/rss/omics-il-central-1.rss"
+    "Tel Aviv": "https://status.aws.amazon.com/rss/omics-il-central-1.rss",
+    "Tokyo": "https://status.aws.amazon.com/rss/omics-ap-northeast-1.rss"
   },
   "AWS IAM Identity Center": {
     "Bahrain": "https://status.aws.amazon.com/rss/iamidentitycenter-me-south-1.rss",

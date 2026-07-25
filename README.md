@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,842 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,844 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-07-24 UTC_
+_Last checked: 2026-07-25 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-25
+
+- Added **AWS HealthOmics** in Ohio
+- Added **AWS HealthOmics** in Tokyo
 
 ## 2026-07-22
 
@@ -28,13 +33,6 @@ _Last checked: 2026-07-24 UTC_
 
 - Added **AWS DevOps Agent** in London
 
-## 2026-07-11
-
-- Added **AWS DevOps Agent** in Canada-Central
-- Added **AWS DevOps Agent** in Mumbai
-- Added **AWS DevOps Agent** in Sao Paulo
-- Added **AWS DevOps Agent** in Singapore
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -50,7 +48,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 100 |
-| ap-northeast-1 | Tokyo | 212 |
+| ap-northeast-1 | Tokyo | 213 |
 | ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 137 |
 | ap-south-1 | Mumbai | 191 |
@@ -79,7 +77,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | mx-central-1 | Mexico-Central | 105 |
 | sa-east-1 | Sao Paulo | 171 |
 | us-east-1 | N. Virginia | 239 |
-| us-east-2 | Ohio | 202 |
+| us-east-2 | Ohio | 203 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 168 |
 | us-west-1 | N. California | 159 |
@@ -152,7 +150,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Health | 3 |
 | AWS HealthImaging | 5 |
 | AWS HealthLake | 8 |
-| AWS HealthOmics | 8 |
+| AWS HealthOmics | 10 |
 | AWS IAM Identity Center | 36 |
 | AWS Identity and Access Management | 3 |
 | AWS Identity and Access Management Roles Anywhere | 36 |

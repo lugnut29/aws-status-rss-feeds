@@ -3940,6 +3940,7 @@ https://status.aws.amazon.com/rss/networkfirewall-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/networkfirewall-us-west-1.rss
 https://status.aws.amazon.com/rss/networkfirewall-us-west-2.rss
 https://status.aws.amazon.com/rss/notifications.rss
+https://status.aws.amazon.com/rss/omics-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/omics-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/omics-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/omics-eu-central-1.rss
@@ -3947,6 +3948,7 @@ https://status.aws.amazon.com/rss/omics-eu-west-1.rss
 https://status.aws.amazon.com/rss/omics-eu-west-2.rss
 https://status.aws.amazon.com/rss/omics-il-central-1.rss
 https://status.aws.amazon.com/rss/omics-us-east-1.rss
+https://status.aws.amazon.com/rss/omics-us-east-2.rss
 https://status.aws.amazon.com/rss/omics-us-west-2.rss
 https://status.aws.amazon.com/rss/one-us-east-1.rss
 https://status.aws.amazon.com/rss/organizations-us-gov-east-1.rss

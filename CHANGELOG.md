@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-07-25
+
+- Added **AWS HealthOmics** in Ohio
+- Added **AWS HealthOmics** in Tokyo
+
 ## 2026-07-22
 
 - Added **AWS Elastic Disaster Recovery** in Malaysia
