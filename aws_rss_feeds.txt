@@ -2484,6 +2484,7 @@ https://status.aws.amazon.com/rss/evidently-us-east-1.rss
 https://status.aws.amazon.com/rss/evidently-us-east-2.rss
 https://status.aws.amazon.com/rss/evidently-us-west-2.rss
 https://status.aws.amazon.com/rss/evs-ap-northeast-1.rss
+https://status.aws.amazon.com/rss/evs-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/evs-ap-south-1.rss
 https://status.aws.amazon.com/rss/evs-ap-south-2.rss
 https://status.aws.amazon.com/rss/evs-ap-southeast-1.rss
@@ -2492,6 +2493,8 @@ https://status.aws.amazon.com/rss/evs-ap-southeast-5.rss
 https://status.aws.amazon.com/rss/evs-ca-central-1.rss
 https://status.aws.amazon.com/rss/evs-ca-west-1.rss
 https://status.aws.amazon.com/rss/evs-eu-central-1.rss
+https://status.aws.amazon.com/rss/evs-eu-central-2.rss
+https://status.aws.amazon.com/rss/evs-eu-north-1.rss
 https://status.aws.amazon.com/rss/evs-eu-south-1.rss
 https://status.aws.amazon.com/rss/evs-eu-west-1.rss
 https://status.aws.amazon.com/rss/evs-eu-west-2.rss

@@ -2,11 +2,17 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,844 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,847 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-07-27 UTC_
+_Last checked: 2026-07-28 UTC_
 
 ## Recent changes by AWS
+
+## 2026-07-28
+
+- Added **AWS Elastic VMWare Service** in Seoul
+- Added **AWS Elastic VMWare Service** in Stockholm
+- Added **AWS Elastic VMWare Service** in Zurich
 
 ## 2026-07-25
 
@@ -29,10 +35,6 @@ _Last checked: 2026-07-27 UTC_
 
 - Added **Amazon Aurora DSQL Service** in Spain
 
-## 2026-07-13
-
-- Added **AWS DevOps Agent** in London
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -49,7 +51,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 100 |
 | ap-northeast-1 | Tokyo | 213 |
-| ap-northeast-2 | Seoul | 190 |
+| ap-northeast-2 | Seoul | 191 |
 | ap-northeast-3 | Osaka | 137 |
 | ap-south-1 | Mumbai | 191 |
 | ap-south-2 | Hyderabad | 127 |
@@ -63,8 +65,8 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 116 |
 | eu-central-1 | Frankfurt | 218 |
-| eu-central-2 | Zurich | 129 |
-| eu-north-1 | Stockholm | 171 |
+| eu-central-2 | Zurich | 130 |
+| eu-north-1 | Stockholm | 172 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 142 |
 | eu-west-1 | Ireland | 227 |
@@ -136,7 +138,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Directory Service | 36 |
 | AWS Elastic Beanstalk | 34 |
 | AWS Elastic Disaster Recovery | 36 |
-| AWS Elastic VMWare Service | 19 |
+| AWS Elastic VMWare Service | 22 |
 | AWS Elemental | 24 |
 | AWS End User Messaging | 33 |
 | AWS Entity Resolution | 12 |

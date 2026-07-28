@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-07-28
+
+- Added **AWS Elastic VMWare Service** in Seoul
+- Added **AWS Elastic VMWare Service** in Stockholm
+- Added **AWS Elastic VMWare Service** in Zurich
+
 ## 2026-07-25
 
 - Added **AWS HealthOmics** in Ohio
