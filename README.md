@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,847 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,848 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-07-31 UTC_
+_Last checked: 2026-08-01 UTC_
 
 ## Recent changes by AWS
+
+## 2026-08-01
+
+- Added **Amazon VPC Lattice** in Malaysia
 
 ## 2026-07-28
 
@@ -30,10 +34,6 @@ _Last checked: 2026-07-31 UTC_
 ## 2026-07-16
 
 - Removed service **AWS Panorama**
-
-## 2026-07-15
-
-- Added **Amazon Aurora DSQL Service** in Spain
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -59,7 +59,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 220 |
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 127 |
+| ap-southeast-5 | Malaysia | 128 |
 | ap-southeast-6 | New Zealand | 104 |
 | ap-southeast-7 | Thailand | 111 |
 | ca-central-1 | Canada-Central | 193 |
@@ -336,7 +336,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Transcribe | 22 |
 | Amazon Translate | 17 |
 | Amazon VPC IP Address Manager | 36 |
-| Amazon VPC Lattice | 29 |
+| Amazon VPC Lattice | 30 |
 | Amazon Verified Permissions | 36 |
 | Amazon Virtual Private Cloud | 36 |
 | Amazon WorkMail | 3 |

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-01
+
+- Added **Amazon VPC Lattice** in Malaysia
+
 ## 2026-07-28
 
 - Added **AWS Elastic VMWare Service** in Seoul

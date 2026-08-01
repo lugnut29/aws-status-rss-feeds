@@ -5692,6 +5692,7 @@ https://status.aws.amazon.com/rss/vpclattice-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/vpclattice-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/vpclattice-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/vpclattice-ap-southeast-4.rss
+https://status.aws.amazon.com/rss/vpclattice-ap-southeast-5.rss
 https://status.aws.amazon.com/rss/vpclattice-ca-central-1.rss
 https://status.aws.amazon.com/rss/vpclattice-ca-west-1.rss
 https://status.aws.amazon.com/rss/vpclattice-eu-central-1.rss
