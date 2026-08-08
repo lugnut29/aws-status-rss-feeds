@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,848 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,835 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-08-07 UTC_
+_Last checked: 2026-08-08 UTC_
 
 ## Recent changes by AWS
+
+## 2026-08-08
+
+- Removed service **AWS IoT Events**
 
 ## 2026-08-01
 
@@ -31,10 +35,6 @@ _Last checked: 2026-08-07 UTC_
 - Added **AWS Elastic Disaster Recovery** in Thailand
 - Added **AWS Parallel Computing Service** in Seoul
 
-## 2026-07-16
-
-- Removed service **AWS Panorama**
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -50,27 +50,27 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 100 |
-| ap-northeast-1 | Tokyo | 213 |
-| ap-northeast-2 | Seoul | 191 |
+| ap-northeast-1 | Tokyo | 212 |
+| ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 137 |
-| ap-south-1 | Mumbai | 191 |
+| ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 127 |
-| ap-southeast-1 | Singapore | 208 |
-| ap-southeast-2 | Sydney | 220 |
+| ap-southeast-1 | Singapore | 207 |
+| ap-southeast-2 | Sydney | 219 |
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 128 |
 | ap-southeast-6 | New Zealand | 104 |
 | ap-southeast-7 | Thailand | 111 |
-| ca-central-1 | Canada-Central | 193 |
+| ca-central-1 | Canada-Central | 192 |
 | ca-west-1 | Calgary | 116 |
-| eu-central-1 | Frankfurt | 218 |
+| eu-central-1 | Frankfurt | 217 |
 | eu-central-2 | Zurich | 130 |
 | eu-north-1 | Stockholm | 172 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 142 |
-| eu-west-1 | Ireland | 227 |
-| eu-west-2 | London | 204 |
+| eu-west-1 | Ireland | 226 |
+| eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
 | global | global | 24 |
 | il-central-1 | Tel Aviv | 132 |
@@ -78,14 +78,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 105 |
 | sa-east-1 | Sao Paulo | 171 |
-| us-east-1 | N. Virginia | 239 |
-| us-east-2 | Ohio | 203 |
+| us-east-1 | N. Virginia | 238 |
+| us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
-| us-gov-west-1 | US-West | 168 |
+| us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 159 |
-| us-west-2 | Oregon | 230 |
+| us-west-2 | Oregon | 229 |
 
-## Services (268)
+## Services (267)
 
 | Service | Region Count |
 |---------|-------------|
@@ -161,7 +161,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS IoT Core | 25 |
 | AWS IoT Device Defender | 22 |
 | AWS IoT Device Management | 21 |
-| AWS IoT Events | 13 |
 | AWS IoT FleetWise | 3 |
 | AWS IoT Greengrass | 16 |
 | AWS IoT SiteWise | 12 |

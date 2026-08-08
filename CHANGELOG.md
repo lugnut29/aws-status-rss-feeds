@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-08
+
+- Removed service **AWS IoT Events**
+
 ## 2026-08-01
 
 - Added **Amazon VPC Lattice** in Malaysia
