@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,835 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,836 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-08-17 UTC_
+_Last checked: 2026-08-18 UTC_
 
 ## Recent changes by AWS
+
+## 2026-08-18
+
+- Added service **Amazon Route 53 Global Resolver** (global)
 
 ## 2026-08-08
 
@@ -26,14 +30,6 @@ _Last checked: 2026-08-17 UTC_
 
 - Added **AWS HealthOmics** in Ohio
 - Added **AWS HealthOmics** in Tokyo
-
-## 2026-07-22
-
-- Added **AWS Elastic Disaster Recovery** in Malaysia
-- Added **AWS Elastic Disaster Recovery** in Mexico-Central
-- Added **AWS Elastic Disaster Recovery** in Taipei
-- Added **AWS Elastic Disaster Recovery** in Thailand
-- Added **AWS Parallel Computing Service** in Seoul
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -72,7 +68,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-west-1 | Ireland | 226 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
-| global | global | 24 |
+| global | global | 25 |
 | il-central-1 | Tel Aviv | 132 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
@@ -85,7 +81,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | us-west-1 | N. California | 159 |
 | us-west-2 | Oregon | 229 |
 
-## Services (267)
+## Services (268)
 
 | Service | Region Count |
 |---------|-------------|
@@ -319,6 +315,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Route 53 | 3 |
 | Amazon Route 53 Application Recovery Controller | 1 |
 | Amazon Route 53 Domain Registration | 1 |
+| Amazon Route 53 Global Resolver | 1 |
 | Amazon Route 53 Private DNS | 36 |
 | Amazon Route 53 Resolver | 36 |
 | Amazon S3 Replication Time Control | 30 |

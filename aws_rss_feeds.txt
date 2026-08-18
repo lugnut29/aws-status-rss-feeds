@@ -4493,6 +4493,7 @@ https://status.aws.amazon.com/rss/route53-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/route53.rss
 https://status.aws.amazon.com/rss/route53apprecoverycontroller.rss
 https://status.aws.amazon.com/rss/route53domainregistration.rss
+https://status.aws.amazon.com/rss/route53globalresolver.rss
 https://status.aws.amazon.com/rss/route53privatedns-af-south-1.rss
 https://status.aws.amazon.com/rss/route53privatedns-ap-east-1.rss
 https://status.aws.amazon.com/rss/route53privatedns-ap-east-2.rss

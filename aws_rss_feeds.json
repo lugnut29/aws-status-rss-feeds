@@ -5342,6 +5342,9 @@
   "Amazon Route 53 Domain Registration": {
     "global": "https://status.aws.amazon.com/rss/route53domainregistration.rss"
   },
+  "Amazon Route 53 Global Resolver": {
+    "global": "https://status.aws.amazon.com/rss/route53globalresolver.rss"
+  },
   "Amazon Route 53 Private DNS": {
     "Bahrain": "https://status.aws.amazon.com/rss/route53privatedns-me-south-1.rss",
     "Calgary": "https://status.aws.amazon.com/rss/route53privatedns-ca-west-1.rss",

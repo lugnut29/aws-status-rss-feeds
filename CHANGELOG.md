@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-18
+
+- Added service **Amazon Route 53 Global Resolver** (global)
+
 ## 2026-08-08
 
 - Removed service **AWS IoT Events**
