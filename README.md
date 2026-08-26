@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,836 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,838 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-08-25 UTC_
+_Last checked: 2026-08-26 UTC_
 
 ## Recent changes by AWS
+
+## 2026-08-26
+
+- Added **Amazon Timestream** in Singapore
+- Added **Amazon Timestream** in Stockholm
 
 ## 2026-08-18
 
@@ -25,11 +30,6 @@ _Last checked: 2026-08-25 UTC_
 - Added **AWS Elastic VMWare Service** in Seoul
 - Added **AWS Elastic VMWare Service** in Stockholm
 - Added **AWS Elastic VMWare Service** in Zurich
-
-## 2026-07-25
-
-- Added **AWS HealthOmics** in Ohio
-- Added **AWS HealthOmics** in Tokyo
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -51,7 +51,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-northeast-3 | Osaka | 137 |
 | ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 127 |
-| ap-southeast-1 | Singapore | 207 |
+| ap-southeast-1 | Singapore | 208 |
 | ap-southeast-2 | Sydney | 219 |
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
@@ -62,7 +62,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ca-west-1 | Calgary | 116 |
 | eu-central-1 | Frankfurt | 217 |
 | eu-central-2 | Zurich | 130 |
-| eu-north-1 | Stockholm | 172 |
+| eu-north-1 | Stockholm | 173 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 142 |
 | eu-west-1 | Ireland | 226 |
@@ -328,7 +328,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Simple Workflow Service | 36 |
 | Amazon SimpleDB | 8 |
 | Amazon Textract | 16 |
-| Amazon Timestream | 9 |
+| Amazon Timestream | 11 |
 | Amazon Transcribe | 22 |
 | Amazon Translate | 17 |
 | Amazon VPC IP Address Manager | 36 |

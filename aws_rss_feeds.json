@@ -5730,6 +5730,8 @@
     "N. Virginia": "https://status.aws.amazon.com/rss/timestream-us-east-1.rss",
     "Ohio": "https://status.aws.amazon.com/rss/timestream-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/timestream-us-west-2.rss",
+    "Singapore": "https://status.aws.amazon.com/rss/timestream-ap-southeast-1.rss",
+    "Stockholm": "https://status.aws.amazon.com/rss/timestream-eu-north-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/timestream-ap-southeast-2.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/timestream-ap-northeast-1.rss",
     "US-West": "https://status.aws.amazon.com/rss/timestream-us-gov-west-1.rss"
