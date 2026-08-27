@@ -6035,11 +6035,13 @@
   "Bedrock AgentCore": {
     "Canada-Central": "https://status.aws.amazon.com/rss/bedrock-agentcore-ca-central-1.rss",
     "Frankfurt": "https://status.aws.amazon.com/rss/bedrock-agentcore-eu-central-1.rss",
+    "Hyderabad": "https://status.aws.amazon.com/rss/bedrock-agentcore-ap-south-2.rss",
     "Ireland": "https://status.aws.amazon.com/rss/bedrock-agentcore-eu-west-1.rss",
     "London": "https://status.aws.amazon.com/rss/bedrock-agentcore-eu-west-2.rss",
     "Malaysia": "https://status.aws.amazon.com/rss/bedrock-agentcore-ap-southeast-5.rss",
     "Milan": "https://status.aws.amazon.com/rss/bedrock-agentcore-eu-south-1.rss",
     "Mumbai": "https://status.aws.amazon.com/rss/bedrock-agentcore-ap-south-1.rss",
+    "N. California": "https://status.aws.amazon.com/rss/bedrock-agentcore-us-west-1.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/bedrock-agentcore-us-east-1.rss",
     "Ohio": "https://status.aws.amazon.com/rss/bedrock-agentcore-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/bedrock-agentcore-us-west-2.rss",

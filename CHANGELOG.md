@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-27
+
+- Added **Bedrock AgentCore** in Hyderabad
+- Added **Bedrock AgentCore** in N. California
+
 ## 2026-08-26
 
 - Added **Amazon Timestream** in Singapore

@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,838 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,840 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-08-26 UTC_
+_Last checked: 2026-08-27 UTC_
 
 ## Recent changes by AWS
+
+## 2026-08-27
+
+- Added **Bedrock AgentCore** in Hyderabad
+- Added **Bedrock AgentCore** in N. California
 
 ## 2026-08-26
 
@@ -24,12 +29,6 @@ _Last checked: 2026-08-26 UTC_
 ## 2026-08-01
 
 - Added **Amazon VPC Lattice** in Malaysia
-
-## 2026-07-28
-
-- Added **AWS Elastic VMWare Service** in Seoul
-- Added **AWS Elastic VMWare Service** in Stockholm
-- Added **AWS Elastic VMWare Service** in Zurich
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -50,7 +49,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 137 |
 | ap-south-1 | Mumbai | 190 |
-| ap-south-2 | Hyderabad | 127 |
+| ap-south-2 | Hyderabad | 128 |
 | ap-southeast-1 | Singapore | 208 |
 | ap-southeast-2 | Sydney | 219 |
 | ap-southeast-3 | Jakarta | 129 |
@@ -78,7 +77,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 167 |
-| us-west-1 | N. California | 159 |
+| us-west-1 | N. California | 160 |
 | us-west-2 | Oregon | 229 |
 
 ## Services (268)
@@ -341,7 +340,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon WorkSpaces Secure Browser | 10 |
 | Amazon WorkSpaces Thin Client | 7 |
 | Auto Scaling | 36 |
-| Bedrock AgentCore | 20 |
+| Bedrock AgentCore | 22 |
 | Control Catalog | 36 |
 | EC2 Image Builder | 36 |
 | EC2 Serial Console | 36 |
