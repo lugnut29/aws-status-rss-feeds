@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,840 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,845 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-09-01 UTC_
+_Last checked: 2026-09-02 UTC_
 
 ## Recent changes by AWS
+
+## 2026-09-02
+
+- Added service **AWS Agent Registry** (Ireland, N. Virginia, Oregon, Sydney, Tokyo)
 
 ## 2026-08-27
 
@@ -26,10 +30,6 @@ _Last checked: 2026-09-01 UTC_
 
 - Removed service **AWS IoT Events**
 
-## 2026-08-01
-
-- Added **Amazon VPC Lattice** in Malaysia
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -45,13 +45,13 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 100 |
-| ap-northeast-1 | Tokyo | 212 |
+| ap-northeast-1 | Tokyo | 213 |
 | ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 137 |
 | ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 128 |
 | ap-southeast-1 | Singapore | 208 |
-| ap-southeast-2 | Sydney | 219 |
+| ap-southeast-2 | Sydney | 220 |
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 128 |
@@ -64,7 +64,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-north-1 | Stockholm | 173 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 142 |
-| eu-west-1 | Ireland | 226 |
+| eu-west-1 | Ireland | 227 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
 | global | global | 25 |
@@ -73,19 +73,20 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 105 |
 | sa-east-1 | Sao Paulo | 171 |
-| us-east-1 | N. Virginia | 238 |
+| us-east-1 | N. Virginia | 239 |
 | us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 160 |
-| us-west-2 | Oregon | 229 |
+| us-west-2 | Oregon | 230 |
 
-## Services (268)
+## Services (269)
 
 | Service | Region Count |
 |---------|-------------|
 | AWS Account Management | 1 |
 | AWS Activate Console | 1 |
+| AWS Agent Registry | 5 |
 | AWS Amplify | 20 |
 | AWS Amplify Admin | 19 |
 | AWS App Mesh | 25 |

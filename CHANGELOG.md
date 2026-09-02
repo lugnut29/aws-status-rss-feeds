@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-02
+
+- Added service **AWS Agent Registry** (Ireland, N. Virginia, Oregon, Sydney, Tokyo)
+
 ## 2026-08-27
 
 - Added **Bedrock AgentCore** in Hyderabad

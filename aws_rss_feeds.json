@@ -5,6 +5,13 @@
   "AWS Activate Console": {
     "Oregon": "https://status.aws.amazon.com/rss/activateconsole-us-west-2.rss"
   },
+  "AWS Agent Registry": {
+    "Ireland": "https://status.aws.amazon.com/rss/agent-registry-eu-west-1.rss",
+    "N. Virginia": "https://status.aws.amazon.com/rss/agent-registry-us-east-1.rss",
+    "Oregon": "https://status.aws.amazon.com/rss/agent-registry-us-west-2.rss",
+    "Sydney": "https://status.aws.amazon.com/rss/agent-registry-ap-southeast-2.rss",
+    "Tokyo": "https://status.aws.amazon.com/rss/agent-registry-ap-northeast-1.rss"
+  },
   "AWS Amplify": {
     "Bahrain": "https://status.aws.amazon.com/rss/amplify-me-south-1.rss",
     "Canada-Central": "https://status.aws.amazon.com/rss/amplify-ca-central-1.rss",
