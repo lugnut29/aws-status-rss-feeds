@@ -2,11 +2,17 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,845 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,848 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-09-02 UTC_
+_Last checked: 2026-09-03 UTC_
 
 ## Recent changes by AWS
+
+## 2026-09-03
+
+- Added **Amazon WorkSpaces Applications** in Calgary
+- Added **Amazon WorkSpaces Applications** in Osaka
+- Added **Amazon WorkSpaces Applications** in Zurich
 
 ## 2026-09-02
 
@@ -26,10 +32,6 @@ _Last checked: 2026-09-02 UTC_
 
 - Added service **Amazon Route 53 Global Resolver** (global)
 
-## 2026-08-08
-
-- Removed service **AWS IoT Events**
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -47,7 +49,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-east-2 | Taipei | 100 |
 | ap-northeast-1 | Tokyo | 213 |
 | ap-northeast-2 | Seoul | 190 |
-| ap-northeast-3 | Osaka | 137 |
+| ap-northeast-3 | Osaka | 138 |
 | ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 128 |
 | ap-southeast-1 | Singapore | 208 |
@@ -58,9 +60,9 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-6 | New Zealand | 104 |
 | ap-southeast-7 | Thailand | 111 |
 | ca-central-1 | Canada-Central | 192 |
-| ca-west-1 | Calgary | 116 |
+| ca-west-1 | Calgary | 117 |
 | eu-central-1 | Frankfurt | 217 |
-| eu-central-2 | Zurich | 130 |
+| eu-central-2 | Zurich | 131 |
 | eu-north-1 | Stockholm | 173 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 142 |
@@ -337,7 +339,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Virtual Private Cloud | 36 |
 | Amazon WorkMail | 3 |
 | Amazon WorkSpaces | 19 |
-| Amazon WorkSpaces Applications | 20 |
+| Amazon WorkSpaces Applications | 23 |
 | Amazon WorkSpaces Secure Browser | 10 |
 | Amazon WorkSpaces Thin Client | 7 |
 | Auto Scaling | 36 |

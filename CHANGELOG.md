@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-09-03
+
+- Added **Amazon WorkSpaces Applications** in Calgary
+- Added **Amazon WorkSpaces Applications** in Osaka
+- Added **Amazon WorkSpaces Applications** in Zurich
+
 ## 2026-09-02
 
 - Added service **AWS Agent Registry** (Ireland, N. Virginia, Oregon, Sydney, Tokyo)
