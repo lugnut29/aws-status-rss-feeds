@@ -4074,6 +4074,7 @@ https://status.aws.amazon.com/rss/pcs-ap-south-1.rss
 https://status.aws.amazon.com/rss/pcs-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/pcs-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/pcs-ap-southeast-3.rss
+https://status.aws.amazon.com/rss/pcs-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/pcs-eu-central-1.rss
 https://status.aws.amazon.com/rss/pcs-eu-north-1.rss
 https://status.aws.amazon.com/rss/pcs-eu-south-1.rss

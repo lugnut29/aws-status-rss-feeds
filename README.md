@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,848 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,849 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-09-08 UTC_
+_Last checked: 2026-09-09 UTC_
 
 ## Recent changes by AWS
+
+## 2026-09-09
+
+- Added **AWS Parallel Computing Service** in New Zealand
 
 ## 2026-09-03
 
@@ -27,10 +31,6 @@ _Last checked: 2026-09-08 UTC_
 
 - Added **Amazon Timestream** in Singapore
 - Added **Amazon Timestream** in Stockholm
-
-## 2026-08-18
-
-- Added service **Amazon Route 53 Global Resolver** (global)
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -57,7 +57,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 129 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 128 |
-| ap-southeast-6 | New Zealand | 104 |
+| ap-southeast-6 | New Zealand | 105 |
 | ap-southeast-7 | Thailand | 111 |
 | ca-central-1 | Canada-Central | 192 |
 | ca-west-1 | Calgary | 117 |
@@ -180,7 +180,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Network Firewall | 36 |
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
-| AWS Parallel Computing Service | 21 |
+| AWS Parallel Computing Service | 22 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |

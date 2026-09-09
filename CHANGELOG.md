@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-09
+
+- Added **AWS Parallel Computing Service** in New Zealand
+
 ## 2026-09-03
 
 - Added **Amazon WorkSpaces Applications** in Calgary
