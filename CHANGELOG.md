@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-10
+
+- Added **AWS Elastic VMWare Service** in Osaka
+- Added **AWS Elastic VMWare Service** in Spain
+- Added **AWS Elastic VMWare Service** in Taipei
+- Added **AWS Elastic VMWare Service** in Tel Aviv
+- Added **AWS Transform** in US-West
+
 ## 2026-09-09
 
 - Added **AWS Parallel Computing Service** in New Zealand

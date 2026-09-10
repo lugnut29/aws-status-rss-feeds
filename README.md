@@ -2,11 +2,19 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,849 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,854 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-09-09 UTC_
+_Last checked: 2026-09-10 UTC_
 
 ## Recent changes by AWS
+
+## 2026-09-10
+
+- Added **AWS Elastic VMWare Service** in Osaka
+- Added **AWS Elastic VMWare Service** in Spain
+- Added **AWS Elastic VMWare Service** in Taipei
+- Added **AWS Elastic VMWare Service** in Tel Aviv
+- Added **AWS Transform** in US-West
 
 ## 2026-09-09
 
@@ -27,11 +35,6 @@ _Last checked: 2026-09-09 UTC_
 - Added **Bedrock AgentCore** in Hyderabad
 - Added **Bedrock AgentCore** in N. California
 
-## 2026-08-26
-
-- Added **Amazon Timestream** in Singapore
-- Added **Amazon Timestream** in Stockholm
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -46,10 +49,10 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
-| ap-east-2 | Taipei | 100 |
+| ap-east-2 | Taipei | 101 |
 | ap-northeast-1 | Tokyo | 213 |
 | ap-northeast-2 | Seoul | 190 |
-| ap-northeast-3 | Osaka | 138 |
+| ap-northeast-3 | Osaka | 139 |
 | ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 128 |
 | ap-southeast-1 | Singapore | 208 |
@@ -65,12 +68,12 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-central-2 | Zurich | 131 |
 | eu-north-1 | Stockholm | 173 |
 | eu-south-1 | Milan | 145 |
-| eu-south-2 | Spain | 142 |
+| eu-south-2 | Spain | 143 |
 | eu-west-1 | Ireland | 227 |
 | eu-west-2 | London | 203 |
 | eu-west-3 | Paris | 170 |
 | global | global | 25 |
-| il-central-1 | Tel Aviv | 132 |
+| il-central-1 | Tel Aviv | 133 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 105 |
@@ -78,7 +81,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | us-east-1 | N. Virginia | 239 |
 | us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
-| us-gov-west-1 | US-West | 167 |
+| us-gov-west-1 | US-West | 168 |
 | us-west-1 | N. California | 160 |
 | us-west-2 | Oregon | 230 |
 
@@ -136,7 +139,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Directory Service | 36 |
 | AWS Elastic Beanstalk | 34 |
 | AWS Elastic Disaster Recovery | 36 |
-| AWS Elastic VMWare Service | 22 |
+| AWS Elastic VMWare Service | 26 |
 | AWS Elemental | 24 |
 | AWS End User Messaging | 33 |
 | AWS Entity Resolution | 12 |
@@ -215,7 +218,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Systems Manager for SAP | 28 |
 | AWS Telco Network Builder | 10 |
 | AWS Transfer Family | 36 |
-| AWS Transform | 9 |
+| AWS Transform | 10 |
 | AWS Transit Gateway | 36 |
 | AWS Trusted Advisor | 3 |
 | AWS User Notifications | 1 |

@@ -1214,12 +1214,16 @@
     "N. Virginia": "https://status.aws.amazon.com/rss/evs-us-east-1.rss",
     "Ohio": "https://status.aws.amazon.com/rss/evs-us-east-2.rss",
     "Oregon": "https://status.aws.amazon.com/rss/evs-us-west-2.rss",
+    "Osaka": "https://status.aws.amazon.com/rss/evs-ap-northeast-3.rss",
     "Paris": "https://status.aws.amazon.com/rss/evs-eu-west-3.rss",
     "Sao Paulo": "https://status.aws.amazon.com/rss/evs-sa-east-1.rss",
     "Seoul": "https://status.aws.amazon.com/rss/evs-ap-northeast-2.rss",
     "Singapore": "https://status.aws.amazon.com/rss/evs-ap-southeast-1.rss",
+    "Spain": "https://status.aws.amazon.com/rss/evs-eu-south-2.rss",
     "Stockholm": "https://status.aws.amazon.com/rss/evs-eu-north-1.rss",
     "Sydney": "https://status.aws.amazon.com/rss/evs-ap-southeast-2.rss",
+    "Taipei": "https://status.aws.amazon.com/rss/evs-ap-east-2.rss",
+    "Tel Aviv": "https://status.aws.amazon.com/rss/evs-il-central-1.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/evs-ap-northeast-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/evs-eu-central-2.rss"
   },
@@ -3033,7 +3037,8 @@
     "Sao Paulo": "https://status.aws.amazon.com/rss/transform-sa-east-1.rss",
     "Seoul": "https://status.aws.amazon.com/rss/transform-ap-northeast-2.rss",
     "Sydney": "https://status.aws.amazon.com/rss/transform-ap-southeast-2.rss",
-    "Tokyo": "https://status.aws.amazon.com/rss/transform-ap-northeast-1.rss"
+    "Tokyo": "https://status.aws.amazon.com/rss/transform-ap-northeast-1.rss",
+    "US-West": "https://status.aws.amazon.com/rss/transform-us-gov-west-1.rss"
   },
   "AWS Transit Gateway": {
     "Bahrain": "https://status.aws.amazon.com/rss/transitgateway-me-south-1.rss",

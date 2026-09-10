@@ -2493,8 +2493,10 @@ https://status.aws.amazon.com/rss/evidently-eu-west-1.rss
 https://status.aws.amazon.com/rss/evidently-us-east-1.rss
 https://status.aws.amazon.com/rss/evidently-us-east-2.rss
 https://status.aws.amazon.com/rss/evidently-us-west-2.rss
+https://status.aws.amazon.com/rss/evs-ap-east-2.rss
 https://status.aws.amazon.com/rss/evs-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/evs-ap-northeast-2.rss
+https://status.aws.amazon.com/rss/evs-ap-northeast-3.rss
 https://status.aws.amazon.com/rss/evs-ap-south-1.rss
 https://status.aws.amazon.com/rss/evs-ap-south-2.rss
 https://status.aws.amazon.com/rss/evs-ap-southeast-1.rss
@@ -2506,9 +2508,11 @@ https://status.aws.amazon.com/rss/evs-eu-central-1.rss
 https://status.aws.amazon.com/rss/evs-eu-central-2.rss
 https://status.aws.amazon.com/rss/evs-eu-north-1.rss
 https://status.aws.amazon.com/rss/evs-eu-south-1.rss
+https://status.aws.amazon.com/rss/evs-eu-south-2.rss
 https://status.aws.amazon.com/rss/evs-eu-west-1.rss
 https://status.aws.amazon.com/rss/evs-eu-west-2.rss
 https://status.aws.amazon.com/rss/evs-eu-west-3.rss
+https://status.aws.amazon.com/rss/evs-il-central-1.rss
 https://status.aws.amazon.com/rss/evs-mx-central-1.rss
 https://status.aws.amazon.com/rss/evs-sa-east-1.rss
 https://status.aws.amazon.com/rss/evs-us-east-1.rss
@@ -5498,6 +5502,7 @@ https://status.aws.amazon.com/rss/transform-eu-central-1.rss
 https://status.aws.amazon.com/rss/transform-eu-west-2.rss
 https://status.aws.amazon.com/rss/transform-sa-east-1.rss
 https://status.aws.amazon.com/rss/transform-us-east-1.rss
+https://status.aws.amazon.com/rss/transform-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/transitgateway-af-south-1.rss
 https://status.aws.amazon.com/rss/transitgateway-ap-east-1.rss
 https://status.aws.amazon.com/rss/transitgateway-ap-east-2.rss
