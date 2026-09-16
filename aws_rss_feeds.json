@@ -3762,6 +3762,7 @@
     "US-West": "https://status.aws.amazon.com/rss/connect-us-gov-west-1.rss"
   },
   "Amazon Connect Health": {
+    "London": "https://status.aws.amazon.com/rss/health-agent-eu-west-2.rss",
     "N. Virginia": "https://status.aws.amazon.com/rss/health-agent-us-east-1.rss",
     "Oregon": "https://status.aws.amazon.com/rss/health-agent-us-west-2.rss"
   },

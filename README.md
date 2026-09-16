@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,854 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,855 feeds** across **269 services** and **37 regions**.
 
-_Last checked: 2026-09-15 UTC_
+_Last checked: 2026-09-16 UTC_
 
 ## Recent changes by AWS
+
+## 2026-09-16
+
+- Added **Amazon Connect Health** in London
 
 ## 2026-09-10
 
@@ -29,11 +33,6 @@ _Last checked: 2026-09-15 UTC_
 ## 2026-09-02
 
 - Added service **AWS Agent Registry** (Ireland, N. Virginia, Oregon, Sydney, Tokyo)
-
-## 2026-08-27
-
-- Added **Bedrock AgentCore** in Hyderabad
-- Added **Bedrock AgentCore** in N. California
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -70,7 +69,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 143 |
 | eu-west-1 | Ireland | 227 |
-| eu-west-2 | London | 203 |
+| eu-west-2 | London | 204 |
 | eu-west-3 | Paris | 170 |
 | global | global | 25 |
 | il-central-1 | Tel Aviv | 133 |
@@ -253,7 +252,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Comprehend | 13 |
 | Amazon Comprehend Medical | 8 |
 | Amazon Connect | 11 |
-| Amazon Connect Health | 2 |
+| Amazon Connect Health | 3 |
 | Amazon Data Firehose | 36 |
 | Amazon Data Lifecycle Manager | 36 |
 | Amazon DataZone | 21 |

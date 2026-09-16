@@ -2880,6 +2880,7 @@ https://status.aws.amazon.com/rss/guardduty-us-gov-east-1.rss
 https://status.aws.amazon.com/rss/guardduty-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/guardduty-us-west-1.rss
 https://status.aws.amazon.com/rss/guardduty-us-west-2.rss
+https://status.aws.amazon.com/rss/health-agent-eu-west-2.rss
 https://status.aws.amazon.com/rss/health-agent-us-east-1.rss
 https://status.aws.amazon.com/rss/health-agent-us-west-2.rss
 https://status.aws.amazon.com/rss/health-us-gov-east-1.rss

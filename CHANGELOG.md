@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-16
+
+- Added **Amazon Connect Health** in London
+
 ## 2026-09-10
 
 - Added **AWS Elastic VMWare Service** in Osaka
