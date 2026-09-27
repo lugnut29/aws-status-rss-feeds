@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-27
+
+- Added **Amazon GameLift Servers** in Hyderabad
+- Added **Amazon GameLift Servers** in Jakarta
+- Added **Amazon GameLift Servers** in Mexico-Central
+- Added **Amazon GameLift Servers** in Spain
+- Added **Amazon GameLift Servers** in Tel Aviv
+- Removed service **AWS Telco Network Builder**
+
 ## 2026-09-16
 
 - Added **Amazon Connect Health** in London

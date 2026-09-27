@@ -2,11 +2,20 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,855 feeds** across **269 services** and **37 regions**.
+Currently tracking **5,850 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-09-25 UTC_
+_Last checked: 2026-09-27 UTC_
 
 ## Recent changes by AWS
+
+## 2026-09-27
+
+- Added **Amazon GameLift Servers** in Hyderabad
+- Added **Amazon GameLift Servers** in Jakarta
+- Added **Amazon GameLift Servers** in Mexico-Central
+- Added **Amazon GameLift Servers** in Spain
+- Added **Amazon GameLift Servers** in Tel Aviv
+- Removed service **AWS Telco Network Builder**
 
 ## 2026-09-16
 
@@ -30,10 +39,6 @@ _Last checked: 2026-09-25 UTC_
 - Added **Amazon WorkSpaces Applications** in Osaka
 - Added **Amazon WorkSpaces Applications** in Zurich
 
-## 2026-09-02
-
-- Added service **AWS Agent Registry** (Ireland, N. Virginia, Oregon, Sydney, Tokyo)
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -50,41 +55,41 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 101 |
 | ap-northeast-1 | Tokyo | 213 |
-| ap-northeast-2 | Seoul | 190 |
+| ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 139 |
 | ap-south-1 | Mumbai | 190 |
-| ap-south-2 | Hyderabad | 128 |
+| ap-south-2 | Hyderabad | 129 |
 | ap-southeast-1 | Singapore | 208 |
-| ap-southeast-2 | Sydney | 220 |
-| ap-southeast-3 | Jakarta | 129 |
+| ap-southeast-2 | Sydney | 219 |
+| ap-southeast-3 | Jakarta | 130 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 128 |
 | ap-southeast-6 | New Zealand | 105 |
 | ap-southeast-7 | Thailand | 111 |
-| ca-central-1 | Canada-Central | 192 |
+| ca-central-1 | Canada-Central | 191 |
 | ca-west-1 | Calgary | 117 |
-| eu-central-1 | Frankfurt | 217 |
+| eu-central-1 | Frankfurt | 216 |
 | eu-central-2 | Zurich | 131 |
-| eu-north-1 | Stockholm | 173 |
+| eu-north-1 | Stockholm | 172 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 143 |
 | eu-west-1 | Ireland | 227 |
 | eu-west-2 | London | 204 |
-| eu-west-3 | Paris | 170 |
+| eu-west-3 | Paris | 169 |
 | global | global | 25 |
-| il-central-1 | Tel Aviv | 133 |
+| il-central-1 | Tel Aviv | 134 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
-| mx-central-1 | Mexico-Central | 105 |
-| sa-east-1 | Sao Paulo | 171 |
-| us-east-1 | N. Virginia | 239 |
+| mx-central-1 | Mexico-Central | 106 |
+| sa-east-1 | Sao Paulo | 170 |
+| us-east-1 | N. Virginia | 238 |
 | us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 168 |
 | us-west-1 | N. California | 160 |
-| us-west-2 | Oregon | 230 |
+| us-west-2 | Oregon | 229 |
 
-## Services (269)
+## Services (268)
 
 | Service | Region Count |
 |---------|-------------|
@@ -215,7 +220,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Sustainability | 1 |
 | AWS Systems Manager | 36 |
 | AWS Systems Manager for SAP | 28 |
-| AWS Telco Network Builder | 10 |
 | AWS Transfer Family | 36 |
 | AWS Transform | 10 |
 | AWS Transit Gateway | 36 |
@@ -278,7 +282,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Forecast | 10 |
 | Amazon Fraud Detector | 6 |
 | Amazon FreeRTOS | 18 |
-| Amazon GameLift Servers | 23 |
+| Amazon GameLift Servers | 28 |
 | Amazon GameLift Streams | 4 |
 | Amazon Glacier | 33 |
 | Amazon GuardDuty | 36 |
