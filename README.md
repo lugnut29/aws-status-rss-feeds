@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,850 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,840 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-09-29 UTC_
+_Last checked: 2026-09-30 UTC_
 
 ## Recent changes by AWS
+
+## 2026-09-30
+
+- Removed service **AWS SimSpace Weaver**
 
 ## 2026-09-27
 
@@ -33,12 +37,6 @@ _Last checked: 2026-09-29 UTC_
 
 - Added **AWS Parallel Computing Service** in New Zealand
 
-## 2026-09-03
-
-- Added **Amazon WorkSpaces Applications** in Calgary
-- Added **Amazon WorkSpaces Applications** in Osaka
-- Added **Amazon WorkSpaces Applications** in Zurich
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -59,8 +57,8 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-northeast-3 | Osaka | 139 |
 | ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 129 |
-| ap-southeast-1 | Singapore | 208 |
-| ap-southeast-2 | Sydney | 219 |
+| ap-southeast-1 | Singapore | 207 |
+| ap-southeast-2 | Sydney | 218 |
 | ap-southeast-3 | Jakarta | 130 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 128 |
@@ -68,12 +66,12 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-7 | Thailand | 111 |
 | ca-central-1 | Canada-Central | 191 |
 | ca-west-1 | Calgary | 117 |
-| eu-central-1 | Frankfurt | 216 |
+| eu-central-1 | Frankfurt | 215 |
 | eu-central-2 | Zurich | 131 |
-| eu-north-1 | Stockholm | 172 |
+| eu-north-1 | Stockholm | 171 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 143 |
-| eu-west-1 | Ireland | 227 |
+| eu-west-1 | Ireland | 226 |
 | eu-west-2 | London | 204 |
 | eu-west-3 | Paris | 169 |
 | global | global | 25 |
@@ -82,14 +80,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 106 |
 | sa-east-1 | Sao Paulo | 170 |
-| us-east-1 | N. Virginia | 238 |
-| us-east-2 | Ohio | 202 |
-| us-gov-east-1 | US-East | 147 |
-| us-gov-west-1 | US-West | 168 |
+| us-east-1 | N. Virginia | 237 |
+| us-east-2 | Ohio | 201 |
+| us-gov-east-1 | US-East | 146 |
+| us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 160 |
-| us-west-2 | Oregon | 229 |
+| us-west-2 | Oregon | 228 |
 
-## Services (268)
+## Services (267)
 
 | Service | Region Count |
 |---------|-------------|
@@ -211,7 +209,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Service Quotas | 36 |
 | AWS Sign Up | 1 |
 | AWS Sign-In | 36 |
-| AWS SimSpace Weaver | 10 |
 | AWS Site-to-Site VPN | 36 |
 | AWS Step Functions | 36 |
 | AWS Storage Gateway | 36 |

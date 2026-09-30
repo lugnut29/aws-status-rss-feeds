@@ -5100,16 +5100,6 @@ https://status.aws.amazon.com/rss/simpledb-sa-east-1.rss
 https://status.aws.amazon.com/rss/simpledb-us-east-1.rss
 https://status.aws.amazon.com/rss/simpledb-us-west-1.rss
 https://status.aws.amazon.com/rss/simpledb-us-west-2.rss
-https://status.aws.amazon.com/rss/simspaceweaver-ap-southeast-1.rss
-https://status.aws.amazon.com/rss/simspaceweaver-ap-southeast-2.rss
-https://status.aws.amazon.com/rss/simspaceweaver-eu-central-1.rss
-https://status.aws.amazon.com/rss/simspaceweaver-eu-north-1.rss
-https://status.aws.amazon.com/rss/simspaceweaver-eu-west-1.rss
-https://status.aws.amazon.com/rss/simspaceweaver-us-east-1.rss
-https://status.aws.amazon.com/rss/simspaceweaver-us-east-2.rss
-https://status.aws.amazon.com/rss/simspaceweaver-us-gov-east-1.rss
-https://status.aws.amazon.com/rss/simspaceweaver-us-gov-west-1.rss
-https://status.aws.amazon.com/rss/simspaceweaver-us-west-2.rss
 https://status.aws.amazon.com/rss/sns-af-south-1.rss
 https://status.aws.amazon.com/rss/sns-ap-east-1.rss
 https://status.aws.amazon.com/rss/sns-ap-east-2.rss

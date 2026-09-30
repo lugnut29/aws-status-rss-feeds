@@ -2772,18 +2772,6 @@
     "US-West": "https://status.aws.amazon.com/rss/signin-us-gov-west-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/signin-eu-central-2.rss"
   },
-  "AWS SimSpace Weaver": {
-    "Frankfurt": "https://status.aws.amazon.com/rss/simspaceweaver-eu-central-1.rss",
-    "Ireland": "https://status.aws.amazon.com/rss/simspaceweaver-eu-west-1.rss",
-    "N. Virginia": "https://status.aws.amazon.com/rss/simspaceweaver-us-east-1.rss",
-    "Ohio": "https://status.aws.amazon.com/rss/simspaceweaver-us-east-2.rss",
-    "Oregon": "https://status.aws.amazon.com/rss/simspaceweaver-us-west-2.rss",
-    "Singapore": "https://status.aws.amazon.com/rss/simspaceweaver-ap-southeast-1.rss",
-    "Stockholm": "https://status.aws.amazon.com/rss/simspaceweaver-eu-north-1.rss",
-    "Sydney": "https://status.aws.amazon.com/rss/simspaceweaver-ap-southeast-2.rss",
-    "US-East": "https://status.aws.amazon.com/rss/simspaceweaver-us-gov-east-1.rss",
-    "US-West": "https://status.aws.amazon.com/rss/simspaceweaver-us-gov-west-1.rss"
-  },
   "AWS Site-to-Site VPN": {
     "Bahrain": "https://status.aws.amazon.com/rss/vpnvpc-me-south-1.rss",
     "Calgary": "https://status.aws.amazon.com/rss/vpnvpc-ca-west-1.rss",

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-30
+
+- Removed service **AWS SimSpace Weaver**
+
 ## 2026-09-27
 
 - Added **Amazon GameLift Servers** in Hyderabad
