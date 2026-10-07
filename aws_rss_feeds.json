@@ -1949,7 +1949,13 @@
   },
   "AWS MCP Server": {
     "Frankfurt": "https://status.aws.amazon.com/rss/aws-mcp-eu-central-1.rss",
-    "N. Virginia": "https://status.aws.amazon.com/rss/aws-mcp-us-east-1.rss"
+    "Ireland": "https://status.aws.amazon.com/rss/aws-mcp-eu-west-1.rss",
+    "London": "https://status.aws.amazon.com/rss/aws-mcp-eu-west-2.rss",
+    "N. Virginia": "https://status.aws.amazon.com/rss/aws-mcp-us-east-1.rss",
+    "Oregon": "https://status.aws.amazon.com/rss/aws-mcp-us-west-2.rss",
+    "Singapore": "https://status.aws.amazon.com/rss/aws-mcp-ap-southeast-1.rss",
+    "Sydney": "https://status.aws.amazon.com/rss/aws-mcp-ap-southeast-2.rss",
+    "Tokyo": "https://status.aws.amazon.com/rss/aws-mcp-ap-northeast-1.rss"
   },
   "AWS Mainframe Modernization": {
     "Canada-Central": "https://status.aws.amazon.com/rss/m2-ca-central-1.rss",

@@ -2,11 +2,20 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,840 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,846 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-06 UTC_
+_Last checked: 2026-10-07 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-07
+
+- Added **AWS MCP Server** in Ireland
+- Added **AWS MCP Server** in London
+- Added **AWS MCP Server** in Oregon
+- Added **AWS MCP Server** in Singapore
+- Added **AWS MCP Server** in Sydney
+- Added **AWS MCP Server** in Tokyo
 
 ## 2026-09-30
 
@@ -33,10 +42,6 @@ _Last checked: 2026-10-06 UTC_
 - Added **AWS Elastic VMWare Service** in Tel Aviv
 - Added **AWS Transform** in US-West
 
-## 2026-09-09
-
-- Added **AWS Parallel Computing Service** in New Zealand
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -52,13 +57,13 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 101 |
-| ap-northeast-1 | Tokyo | 213 |
+| ap-northeast-1 | Tokyo | 214 |
 | ap-northeast-2 | Seoul | 189 |
 | ap-northeast-3 | Osaka | 139 |
 | ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 129 |
-| ap-southeast-1 | Singapore | 207 |
-| ap-southeast-2 | Sydney | 218 |
+| ap-southeast-1 | Singapore | 208 |
+| ap-southeast-2 | Sydney | 219 |
 | ap-southeast-3 | Jakarta | 130 |
 | ap-southeast-4 | Melbourne | 122 |
 | ap-southeast-5 | Malaysia | 128 |
@@ -71,8 +76,8 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-north-1 | Stockholm | 171 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 143 |
-| eu-west-1 | Ireland | 226 |
-| eu-west-2 | London | 204 |
+| eu-west-1 | Ireland | 227 |
+| eu-west-2 | London | 205 |
 | eu-west-3 | Paris | 169 |
 | global | global | 25 |
 | il-central-1 | Tel Aviv | 134 |
@@ -85,7 +90,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | us-gov-east-1 | US-East | 146 |
 | us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 160 |
-| us-west-2 | Oregon | 228 |
+| us-west-2 | Oregon | 229 |
 
 ## Services (267)
 
@@ -173,7 +178,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Lambda | 36 |
 | AWS Launch Wizard | 29 |
 | AWS License Manager | 36 |
-| AWS MCP Server | 2 |
+| AWS MCP Server | 8 |
 | AWS Mainframe Modernization | 23 |
 | AWS Management Console | 3 |
 | AWS Marketplace | 3 |

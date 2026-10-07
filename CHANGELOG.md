@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-07
+
+- Added **AWS MCP Server** in Ireland
+- Added **AWS MCP Server** in London
+- Added **AWS MCP Server** in Oregon
+- Added **AWS MCP Server** in Singapore
+- Added **AWS MCP Server** in Sydney
+- Added **AWS MCP Server** in Tokyo
+
 ## 2026-09-30
 
 - Removed service **AWS SimSpace Weaver**
