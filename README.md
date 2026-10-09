@@ -2,11 +2,20 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,846 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,852 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-08 UTC_
+_Last checked: 2026-10-09 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-09
+
+- Added **AWS Security Agent** in Canada-Central
+- Added **AWS Security Agent** in London
+- Added **AWS Security Agent** in Ohio
+- Added **AWS Security Agent** in Paris
+- Added **AWS Security Agent** in Seoul
+- Added **AWS Security Agent** in Stockholm
 
 ## 2026-10-07
 
@@ -34,14 +43,6 @@ _Last checked: 2026-10-08 UTC_
 
 - Added **Amazon Connect Health** in London
 
-## 2026-09-10
-
-- Added **AWS Elastic VMWare Service** in Osaka
-- Added **AWS Elastic VMWare Service** in Spain
-- Added **AWS Elastic VMWare Service** in Taipei
-- Added **AWS Elastic VMWare Service** in Tel Aviv
-- Added **AWS Transform** in US-West
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -58,7 +59,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 101 |
 | ap-northeast-1 | Tokyo | 214 |
-| ap-northeast-2 | Seoul | 189 |
+| ap-northeast-2 | Seoul | 190 |
 | ap-northeast-3 | Osaka | 139 |
 | ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 129 |
@@ -69,16 +70,16 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-5 | Malaysia | 128 |
 | ap-southeast-6 | New Zealand | 105 |
 | ap-southeast-7 | Thailand | 111 |
-| ca-central-1 | Canada-Central | 191 |
+| ca-central-1 | Canada-Central | 192 |
 | ca-west-1 | Calgary | 117 |
 | eu-central-1 | Frankfurt | 215 |
 | eu-central-2 | Zurich | 131 |
-| eu-north-1 | Stockholm | 171 |
+| eu-north-1 | Stockholm | 172 |
 | eu-south-1 | Milan | 145 |
 | eu-south-2 | Spain | 143 |
 | eu-west-1 | Ireland | 227 |
-| eu-west-2 | London | 205 |
-| eu-west-3 | Paris | 169 |
+| eu-west-2 | London | 206 |
+| eu-west-3 | Paris | 170 |
 | global | global | 25 |
 | il-central-1 | Tel Aviv | 134 |
 | me-central-1 | UAE | 130 |
@@ -86,7 +87,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | mx-central-1 | Mexico-Central | 106 |
 | sa-east-1 | Sao Paulo | 170 |
 | us-east-1 | N. Virginia | 237 |
-| us-east-2 | Ohio | 201 |
+| us-east-2 | Ohio | 202 |
 | us-gov-east-1 | US-East | 146 |
 | us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 160 |
@@ -205,7 +206,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Resource Groups | 36 |
 | AWS Resource Groups Tagging API | 36 |
 | AWS Secrets Manager | 36 |
-| AWS Security Agent | 6 |
+| AWS Security Agent | 12 |
 | AWS Security Hub | 36 |
 | AWS Security Incident Response | 25 |
 | AWS Security Token Service | 36 |

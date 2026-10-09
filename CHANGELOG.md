@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-09
+
+- Added **AWS Security Agent** in Canada-Central
+- Added **AWS Security Agent** in London
+- Added **AWS Security Agent** in Ohio
+- Added **AWS Security Agent** in Paris
+- Added **AWS Security Agent** in Seoul
+- Added **AWS Security Agent** in Stockholm
+
 ## 2026-10-07
 
 - Added **AWS MCP Server** in Ireland
