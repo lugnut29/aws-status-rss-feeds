@@ -2,11 +2,18 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,852 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,856 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-09 UTC_
+_Last checked: 2026-10-10 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-10
+
+- Added **AWS IoT Device Management** in Malaysia
+- Added **AWS IoT Device Management** in Milan
+- Added **AWS IoT Device Management** in Spain
+- Added **AWS IoT Device Management** in Tel Aviv
 
 ## 2026-10-09
 
@@ -39,10 +46,6 @@ _Last checked: 2026-10-09 UTC_
 - Added **Amazon GameLift Servers** in Tel Aviv
 - Removed service **AWS Telco Network Builder**
 
-## 2026-09-16
-
-- Added **Amazon Connect Health** in London
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -67,7 +70,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 219 |
 | ap-southeast-3 | Jakarta | 130 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 128 |
+| ap-southeast-5 | Malaysia | 129 |
 | ap-southeast-6 | New Zealand | 105 |
 | ap-southeast-7 | Thailand | 111 |
 | ca-central-1 | Canada-Central | 192 |
@@ -75,13 +78,13 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-central-1 | Frankfurt | 215 |
 | eu-central-2 | Zurich | 131 |
 | eu-north-1 | Stockholm | 172 |
-| eu-south-1 | Milan | 145 |
-| eu-south-2 | Spain | 143 |
+| eu-south-1 | Milan | 146 |
+| eu-south-2 | Spain | 144 |
 | eu-west-1 | Ireland | 227 |
 | eu-west-2 | London | 206 |
 | eu-west-3 | Paris | 170 |
 | global | global | 25 |
-| il-central-1 | Tel Aviv | 134 |
+| il-central-1 | Tel Aviv | 135 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 106 |
@@ -169,7 +172,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Internet Connectivity | 36 |
 | AWS IoT Core | 25 |
 | AWS IoT Device Defender | 22 |
-| AWS IoT Device Management | 21 |
+| AWS IoT Device Management | 25 |
 | AWS IoT FleetWise | 3 |
 | AWS IoT Greengrass | 16 |
 | AWS IoT SiteWise | 12 |

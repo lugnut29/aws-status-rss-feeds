@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-10
+
+- Added **AWS IoT Device Management** in Malaysia
+- Added **AWS IoT Device Management** in Milan
+- Added **AWS IoT Device Management** in Spain
+- Added **AWS IoT Device Management** in Tel Aviv
+
 ## 2026-10-09
 
 - Added **AWS Security Agent** in Canada-Central

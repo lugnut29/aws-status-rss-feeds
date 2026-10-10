@@ -561,12 +561,16 @@ https://status.aws.amazon.com/rss/awsiotdevicemanagement-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-ap-south-1.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-ap-southeast-2.rss
+https://status.aws.amazon.com/rss/awsiotdevicemanagement-ap-southeast-5.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-ca-central-1.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-eu-central-1.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-eu-north-1.rss
+https://status.aws.amazon.com/rss/awsiotdevicemanagement-eu-south-1.rss
+https://status.aws.amazon.com/rss/awsiotdevicemanagement-eu-south-2.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-eu-west-1.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-eu-west-2.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-eu-west-3.rss
+https://status.aws.amazon.com/rss/awsiotdevicemanagement-il-central-1.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-me-central-1.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-me-south-1.rss
 https://status.aws.amazon.com/rss/awsiotdevicemanagement-sa-east-1.rss
