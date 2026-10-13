@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-10-13
+
+- Added **AWS DevOps Agent** in Ohio
+- Added **AWS DevOps Agent** in Paris
+- Added **AWS DevOps Agent** in Seoul
+- Added **AWS DevOps Agent** in Stockholm
+- Added **AWS Parallel Computing Service** in Malaysia
+
 ## 2026-10-10
 
 - Added **AWS IoT Device Management** in Malaysia

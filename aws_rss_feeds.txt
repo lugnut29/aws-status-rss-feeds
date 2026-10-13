@@ -1629,15 +1629,19 @@ https://status.aws.amazon.com/rss/detective-us-west-1.rss
 https://status.aws.amazon.com/rss/detective-us-west-2.rss
 https://status.aws.amazon.com/rss/devicefarm-us-west-2.rss
 https://status.aws.amazon.com/rss/devops-agent-ap-northeast-1.rss
+https://status.aws.amazon.com/rss/devops-agent-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/devops-agent-ap-south-1.rss
 https://status.aws.amazon.com/rss/devops-agent-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/devops-agent-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/devops-agent-ca-central-1.rss
 https://status.aws.amazon.com/rss/devops-agent-eu-central-1.rss
+https://status.aws.amazon.com/rss/devops-agent-eu-north-1.rss
 https://status.aws.amazon.com/rss/devops-agent-eu-west-1.rss
 https://status.aws.amazon.com/rss/devops-agent-eu-west-2.rss
+https://status.aws.amazon.com/rss/devops-agent-eu-west-3.rss
 https://status.aws.amazon.com/rss/devops-agent-sa-east-1.rss
 https://status.aws.amazon.com/rss/devops-agent-us-east-1.rss
+https://status.aws.amazon.com/rss/devops-agent-us-east-2.rss
 https://status.aws.amazon.com/rss/devops-agent-us-west-2.rss
 https://status.aws.amazon.com/rss/devops-guru-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/devops-guru-ap-northeast-2.rss
@@ -4094,6 +4098,7 @@ https://status.aws.amazon.com/rss/pcs-ap-south-1.rss
 https://status.aws.amazon.com/rss/pcs-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/pcs-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/pcs-ap-southeast-3.rss
+https://status.aws.amazon.com/rss/pcs-ap-southeast-5.rss
 https://status.aws.amazon.com/rss/pcs-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/pcs-eu-central-1.rss
 https://status.aws.amazon.com/rss/pcs-eu-north-1.rss

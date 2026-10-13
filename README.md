@@ -2,11 +2,19 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,856 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,861 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-12 UTC_
+_Last checked: 2026-10-13 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-13
+
+- Added **AWS DevOps Agent** in Ohio
+- Added **AWS DevOps Agent** in Paris
+- Added **AWS DevOps Agent** in Seoul
+- Added **AWS DevOps Agent** in Stockholm
+- Added **AWS Parallel Computing Service** in Malaysia
 
 ## 2026-10-10
 
@@ -37,15 +45,6 @@ _Last checked: 2026-10-12 UTC_
 
 - Removed service **AWS SimSpace Weaver**
 
-## 2026-09-27
-
-- Added **Amazon GameLift Servers** in Hyderabad
-- Added **Amazon GameLift Servers** in Jakarta
-- Added **Amazon GameLift Servers** in Mexico-Central
-- Added **Amazon GameLift Servers** in Spain
-- Added **Amazon GameLift Servers** in Tel Aviv
-- Removed service **AWS Telco Network Builder**
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -62,7 +61,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 101 |
 | ap-northeast-1 | Tokyo | 214 |
-| ap-northeast-2 | Seoul | 190 |
+| ap-northeast-2 | Seoul | 191 |
 | ap-northeast-3 | Osaka | 139 |
 | ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 129 |
@@ -70,19 +69,19 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-2 | Sydney | 219 |
 | ap-southeast-3 | Jakarta | 130 |
 | ap-southeast-4 | Melbourne | 122 |
-| ap-southeast-5 | Malaysia | 129 |
+| ap-southeast-5 | Malaysia | 130 |
 | ap-southeast-6 | New Zealand | 105 |
 | ap-southeast-7 | Thailand | 111 |
 | ca-central-1 | Canada-Central | 192 |
 | ca-west-1 | Calgary | 117 |
 | eu-central-1 | Frankfurt | 215 |
 | eu-central-2 | Zurich | 131 |
-| eu-north-1 | Stockholm | 172 |
+| eu-north-1 | Stockholm | 173 |
 | eu-south-1 | Milan | 146 |
 | eu-south-2 | Spain | 144 |
 | eu-west-1 | Ireland | 227 |
 | eu-west-2 | London | 206 |
-| eu-west-3 | Paris | 170 |
+| eu-west-3 | Paris | 171 |
 | global | global | 25 |
 | il-central-1 | Tel Aviv | 135 |
 | me-central-1 | UAE | 130 |
@@ -90,7 +89,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | mx-central-1 | Mexico-Central | 106 |
 | sa-east-1 | Sao Paulo | 170 |
 | us-east-1 | N. Virginia | 237 |
-| us-east-2 | Ohio | 202 |
+| us-east-2 | Ohio | 203 |
 | us-gov-east-1 | US-East | 146 |
 | us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 160 |
@@ -144,7 +143,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Database Migration Service | 36 |
 | AWS Deadline Cloud | 10 |
 | AWS DeepRacer | 1 |
-| AWS DevOps Agent | 11 |
+| AWS DevOps Agent | 15 |
 | AWS Device Farm | 1 |
 | AWS Direct Connect | 36 |
 | AWS Directory Service | 36 |
@@ -194,7 +193,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Network Firewall | 36 |
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
-| AWS Parallel Computing Service | 22 |
+| AWS Parallel Computing Service | 23 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |
