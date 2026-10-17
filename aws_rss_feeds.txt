@@ -5503,6 +5503,7 @@ https://status.aws.amazon.com/rss/transfer-us-west-2.rss
 https://status.aws.amazon.com/rss/transform-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/transform-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/transform-ap-south-1.rss
+https://status.aws.amazon.com/rss/transform-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/transform-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/transform-ca-central-1.rss
 https://status.aws.amazon.com/rss/transform-eu-central-1.rss

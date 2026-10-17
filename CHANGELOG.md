@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-17
+
+- Added **AWS Transform** in Singapore
+
 ## 2026-10-13
 
 - Added **AWS DevOps Agent** in Ohio

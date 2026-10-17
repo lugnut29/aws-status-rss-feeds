@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,861 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,862 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-16 UTC_
+_Last checked: 2026-10-17 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-17
+
+- Added **AWS Transform** in Singapore
 
 ## 2026-10-13
 
@@ -41,10 +45,6 @@ _Last checked: 2026-10-16 UTC_
 - Added **AWS MCP Server** in Sydney
 - Added **AWS MCP Server** in Tokyo
 
-## 2026-09-30
-
-- Removed service **AWS SimSpace Weaver**
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -65,7 +65,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-northeast-3 | Osaka | 139 |
 | ap-south-1 | Mumbai | 190 |
 | ap-south-2 | Hyderabad | 129 |
-| ap-southeast-1 | Singapore | 208 |
+| ap-southeast-1 | Singapore | 209 |
 | ap-southeast-2 | Sydney | 219 |
 | ap-southeast-3 | Jakarta | 130 |
 | ap-southeast-4 | Melbourne | 122 |
@@ -226,7 +226,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Systems Manager | 36 |
 | AWS Systems Manager for SAP | 28 |
 | AWS Transfer Family | 36 |
-| AWS Transform | 10 |
+| AWS Transform | 11 |
 | AWS Transit Gateway | 36 |
 | AWS Trusted Advisor | 3 |
 | AWS User Notifications | 1 |
