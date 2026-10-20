@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,862 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,863 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-19 UTC_
+_Last checked: 2026-10-20 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-20
+
+- Added **AWS Parallel Computing Service** in Hyderabad
 
 ## 2026-10-17
 
@@ -36,15 +40,6 @@ _Last checked: 2026-10-19 UTC_
 - Added **AWS Security Agent** in Seoul
 - Added **AWS Security Agent** in Stockholm
 
-## 2026-10-07
-
-- Added **AWS MCP Server** in Ireland
-- Added **AWS MCP Server** in London
-- Added **AWS MCP Server** in Oregon
-- Added **AWS MCP Server** in Singapore
-- Added **AWS MCP Server** in Sydney
-- Added **AWS MCP Server** in Tokyo
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -64,7 +59,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-northeast-2 | Seoul | 191 |
 | ap-northeast-3 | Osaka | 139 |
 | ap-south-1 | Mumbai | 190 |
-| ap-south-2 | Hyderabad | 129 |
+| ap-south-2 | Hyderabad | 130 |
 | ap-southeast-1 | Singapore | 209 |
 | ap-southeast-2 | Sydney | 219 |
 | ap-southeast-3 | Jakarta | 130 |
@@ -193,7 +188,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Network Firewall | 36 |
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
-| AWS Parallel Computing Service | 23 |
+| AWS Parallel Computing Service | 24 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |

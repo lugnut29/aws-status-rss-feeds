@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-20
+
+- Added **AWS Parallel Computing Service** in Hyderabad
+
 ## 2026-10-17
 
 - Added **AWS Transform** in Singapore
