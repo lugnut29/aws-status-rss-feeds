@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-23
+
+- Added **Amazon Managed Workflows for Apache Airflow** in Mexico-Central
+
 ## 2026-10-20
 
 - Added **AWS Parallel Computing Service** in Hyderabad

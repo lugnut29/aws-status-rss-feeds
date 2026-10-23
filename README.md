@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,863 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,864 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-22 UTC_
+_Last checked: 2026-10-23 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-23
+
+- Added **Amazon Managed Workflows for Apache Airflow** in Mexico-Central
 
 ## 2026-10-20
 
@@ -30,15 +34,6 @@ _Last checked: 2026-10-22 UTC_
 - Added **AWS IoT Device Management** in Milan
 - Added **AWS IoT Device Management** in Spain
 - Added **AWS IoT Device Management** in Tel Aviv
-
-## 2026-10-09
-
-- Added **AWS Security Agent** in Canada-Central
-- Added **AWS Security Agent** in London
-- Added **AWS Security Agent** in Ohio
-- Added **AWS Security Agent** in Paris
-- Added **AWS Security Agent** in Seoul
-- Added **AWS Security Agent** in Stockholm
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -81,7 +76,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | il-central-1 | Tel Aviv | 135 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
-| mx-central-1 | Mexico-Central | 106 |
+| mx-central-1 | Mexico-Central | 107 |
 | sa-east-1 | Sao Paulo | 170 |
 | us-east-1 | N. Virginia | 237 |
 | us-east-2 | Ohio | 203 |
@@ -305,7 +300,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Managed Service for Apache Flink | 36 |
 | Amazon Managed Service for Prometheus | 11 |
 | Amazon Managed Streaming for Apache Kafka | 36 |
-| Amazon Managed Workflows for Apache Airflow | 31 |
+| Amazon Managed Workflows for Apache Airflow | 32 |
 | Amazon MemoryDB for Redis | 21 |
 | Amazon Monitron | 3 |
 | Amazon Neptune | 31 |

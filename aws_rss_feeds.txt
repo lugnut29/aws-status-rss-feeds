@@ -67,6 +67,7 @@ https://status.aws.amazon.com/rss/airflow-eu-west-3.rss
 https://status.aws.amazon.com/rss/airflow-il-central-1.rss
 https://status.aws.amazon.com/rss/airflow-me-central-1.rss
 https://status.aws.amazon.com/rss/airflow-me-south-1.rss
+https://status.aws.amazon.com/rss/airflow-mx-central-1.rss
 https://status.aws.amazon.com/rss/airflow-sa-east-1.rss
 https://status.aws.amazon.com/rss/airflow-us-east-1.rss
 https://status.aws.amazon.com/rss/airflow-us-east-2.rss

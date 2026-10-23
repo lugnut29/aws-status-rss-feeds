@@ -5038,6 +5038,7 @@
     "London": "https://status.aws.amazon.com/rss/airflow-eu-west-2.rss",
     "Malaysia": "https://status.aws.amazon.com/rss/airflow-ap-southeast-5.rss",
     "Melbourne": "https://status.aws.amazon.com/rss/airflow-ap-southeast-4.rss",
+    "Mexico-Central": "https://status.aws.amazon.com/rss/airflow-mx-central-1.rss",
     "Milan": "https://status.aws.amazon.com/rss/airflow-eu-south-1.rss",
     "Mumbai": "https://status.aws.amazon.com/rss/airflow-ap-south-1.rss",
     "N. California": "https://status.aws.amazon.com/rss/airflow-us-west-1.rss",
