@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-24
+
+- Added **AWS Agent Registry** in Canada-Central
+- Added **AWS Agent Registry** in Frankfurt
+- Added **AWS Agent Registry** in London
+- Added **AWS Agent Registry** in Ohio
+
 ## 2026-10-23
 
 - Added **Amazon Managed Workflows for Apache Airflow** in Mexico-Central

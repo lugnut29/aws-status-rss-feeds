@@ -2,11 +2,18 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,864 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,868 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-23 UTC_
+_Last checked: 2026-10-24 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-24
+
+- Added **AWS Agent Registry** in Canada-Central
+- Added **AWS Agent Registry** in Frankfurt
+- Added **AWS Agent Registry** in London
+- Added **AWS Agent Registry** in Ohio
 
 ## 2026-10-23
 
@@ -27,13 +34,6 @@ _Last checked: 2026-10-23 UTC_
 - Added **AWS DevOps Agent** in Seoul
 - Added **AWS DevOps Agent** in Stockholm
 - Added **AWS Parallel Computing Service** in Malaysia
-
-## 2026-10-10
-
-- Added **AWS IoT Device Management** in Malaysia
-- Added **AWS IoT Device Management** in Milan
-- Added **AWS IoT Device Management** in Spain
-- Added **AWS IoT Device Management** in Tel Aviv
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -62,15 +62,15 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-5 | Malaysia | 130 |
 | ap-southeast-6 | New Zealand | 105 |
 | ap-southeast-7 | Thailand | 111 |
-| ca-central-1 | Canada-Central | 192 |
+| ca-central-1 | Canada-Central | 193 |
 | ca-west-1 | Calgary | 117 |
-| eu-central-1 | Frankfurt | 215 |
+| eu-central-1 | Frankfurt | 216 |
 | eu-central-2 | Zurich | 131 |
 | eu-north-1 | Stockholm | 173 |
 | eu-south-1 | Milan | 146 |
 | eu-south-2 | Spain | 144 |
 | eu-west-1 | Ireland | 227 |
-| eu-west-2 | London | 206 |
+| eu-west-2 | London | 207 |
 | eu-west-3 | Paris | 171 |
 | global | global | 25 |
 | il-central-1 | Tel Aviv | 135 |
@@ -79,7 +79,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | mx-central-1 | Mexico-Central | 107 |
 | sa-east-1 | Sao Paulo | 170 |
 | us-east-1 | N. Virginia | 237 |
-| us-east-2 | Ohio | 203 |
+| us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 146 |
 | us-gov-west-1 | US-West | 167 |
 | us-west-1 | N. California | 160 |
@@ -91,7 +91,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |---------|-------------|
 | AWS Account Management | 1 |
 | AWS Activate Console | 1 |
-| AWS Agent Registry | 5 |
+| AWS Agent Registry | 9 |
 | AWS Amplify | 20 |
 | AWS Amplify Admin | 19 |
 | AWS App Mesh | 25 |

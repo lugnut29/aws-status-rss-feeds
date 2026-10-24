@@ -38,8 +38,12 @@ https://status.aws.amazon.com/rss/acm-pca-us-west-2.rss
 https://status.aws.amazon.com/rss/activateconsole-us-west-2.rss
 https://status.aws.amazon.com/rss/agent-registry-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/agent-registry-ap-southeast-2.rss
+https://status.aws.amazon.com/rss/agent-registry-ca-central-1.rss
+https://status.aws.amazon.com/rss/agent-registry-eu-central-1.rss
 https://status.aws.amazon.com/rss/agent-registry-eu-west-1.rss
+https://status.aws.amazon.com/rss/agent-registry-eu-west-2.rss
 https://status.aws.amazon.com/rss/agent-registry-us-east-1.rss
+https://status.aws.amazon.com/rss/agent-registry-us-east-2.rss
 https://status.aws.amazon.com/rss/agent-registry-us-west-2.rss
 https://status.aws.amazon.com/rss/airflow-af-south-1.rss
 https://status.aws.amazon.com/rss/airflow-ap-east-1.rss
