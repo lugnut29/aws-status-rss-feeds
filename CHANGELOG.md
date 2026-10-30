@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-10-30
+
+- Added **AWS Parallel Computing Service** in Canada-Central
+
 ## 2026-10-24
 
 - Added **AWS Agent Registry** in Canada-Central

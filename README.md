@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,868 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,869 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-29 UTC_
+_Last checked: 2026-10-30 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-30
+
+- Added **AWS Parallel Computing Service** in Canada-Central
 
 ## 2026-10-24
 
@@ -26,14 +30,6 @@ _Last checked: 2026-10-29 UTC_
 ## 2026-10-17
 
 - Added **AWS Transform** in Singapore
-
-## 2026-10-13
-
-- Added **AWS DevOps Agent** in Ohio
-- Added **AWS DevOps Agent** in Paris
-- Added **AWS DevOps Agent** in Seoul
-- Added **AWS DevOps Agent** in Stockholm
-- Added **AWS Parallel Computing Service** in Malaysia
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -62,7 +58,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-5 | Malaysia | 130 |
 | ap-southeast-6 | New Zealand | 105 |
 | ap-southeast-7 | Thailand | 111 |
-| ca-central-1 | Canada-Central | 193 |
+| ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 117 |
 | eu-central-1 | Frankfurt | 216 |
 | eu-central-2 | Zurich | 131 |
@@ -183,7 +179,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Network Firewall | 36 |
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
-| AWS Parallel Computing Service | 24 |
+| AWS Parallel Computing Service | 25 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |

@@ -2148,6 +2148,7 @@
     "US-West": "https://status.aws.amazon.com/rss/outposts-us-gov-west-1.rss"
   },
   "AWS Parallel Computing Service": {
+    "Canada-Central": "https://status.aws.amazon.com/rss/pcs-ca-central-1.rss",
     "Cape Town": "https://status.aws.amazon.com/rss/pcs-af-south-1.rss",
     "Frankfurt": "https://status.aws.amazon.com/rss/pcs-eu-central-1.rss",
     "Hyderabad": "https://status.aws.amazon.com/rss/pcs-ap-south-2.rss",
