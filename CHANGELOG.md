@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-10-31
+
+- Added **Amazon Textract** in Tokyo
+- Added **Amazon Textract** in Zurich
+
 ## 2026-10-30
 
 - Added **AWS Parallel Computing Service** in Canada-Central

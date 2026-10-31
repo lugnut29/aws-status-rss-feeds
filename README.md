@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,869 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,871 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-10-30 UTC_
+_Last checked: 2026-10-31 UTC_
 
 ## Recent changes by AWS
+
+## 2026-10-31
+
+- Added **Amazon Textract** in Tokyo
+- Added **Amazon Textract** in Zurich
 
 ## 2026-10-30
 
@@ -27,10 +32,6 @@ _Last checked: 2026-10-30 UTC_
 
 - Added **AWS Parallel Computing Service** in Hyderabad
 
-## 2026-10-17
-
-- Added **AWS Transform** in Singapore
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -46,7 +47,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
 | ap-east-2 | Taipei | 101 |
-| ap-northeast-1 | Tokyo | 214 |
+| ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 191 |
 | ap-northeast-3 | Osaka | 139 |
 | ap-south-1 | Mumbai | 190 |
@@ -61,7 +62,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 117 |
 | eu-central-1 | Frankfurt | 216 |
-| eu-central-2 | Zurich | 131 |
+| eu-central-2 | Zurich | 132 |
 | eu-north-1 | Stockholm | 173 |
 | eu-south-1 | Milan | 146 |
 | eu-south-2 | Spain | 144 |
@@ -326,7 +327,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Simple Storage Service | 36 |
 | Amazon Simple Workflow Service | 36 |
 | Amazon SimpleDB | 8 |
-| Amazon Textract | 16 |
+| Amazon Textract | 18 |
 | Amazon Timestream | 11 |
 | Amazon Transcribe | 22 |
 | Amazon Translate | 17 |
