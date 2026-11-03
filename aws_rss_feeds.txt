@@ -5063,13 +5063,16 @@ https://status.aws.amazon.com/rss/ses-ap-south-2.rss
 https://status.aws.amazon.com/rss/ses-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/ses-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/ses-ap-southeast-3.rss
+https://status.aws.amazon.com/rss/ses-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/ses-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/ses-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/ses-ca-central-1.rss
 https://status.aws.amazon.com/rss/ses-ca-west-1.rss
 https://status.aws.amazon.com/rss/ses-eu-central-1.rss
 https://status.aws.amazon.com/rss/ses-eu-central-2.rss
 https://status.aws.amazon.com/rss/ses-eu-north-1.rss
 https://status.aws.amazon.com/rss/ses-eu-south-1.rss
+https://status.aws.amazon.com/rss/ses-eu-south-2.rss
 https://status.aws.amazon.com/rss/ses-eu-west-1.rss
 https://status.aws.amazon.com/rss/ses-eu-west-2.rss
 https://status.aws.amazon.com/rss/ses-eu-west-3.rss

@@ -2,11 +2,17 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,871 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,874 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-11-02 UTC_
+_Last checked: 2026-11-03 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-03
+
+- Added **Amazon Simple Email Service** in Melbourne
+- Added **Amazon Simple Email Service** in Spain
+- Added **Amazon Simple Email Service** in Thailand
 
 ## 2026-10-31
 
@@ -27,10 +33,6 @@ _Last checked: 2026-11-02 UTC_
 ## 2026-10-23
 
 - Added **Amazon Managed Workflows for Apache Airflow** in Mexico-Central
-
-## 2026-10-20
-
-- Added **AWS Parallel Computing Service** in Hyderabad
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -55,17 +57,17 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-1 | Singapore | 209 |
 | ap-southeast-2 | Sydney | 219 |
 | ap-southeast-3 | Jakarta | 130 |
-| ap-southeast-4 | Melbourne | 122 |
+| ap-southeast-4 | Melbourne | 123 |
 | ap-southeast-5 | Malaysia | 130 |
 | ap-southeast-6 | New Zealand | 105 |
-| ap-southeast-7 | Thailand | 111 |
+| ap-southeast-7 | Thailand | 112 |
 | ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 117 |
 | eu-central-1 | Frankfurt | 216 |
 | eu-central-2 | Zurich | 132 |
 | eu-north-1 | Stockholm | 173 |
 | eu-south-1 | Milan | 146 |
-| eu-south-2 | Spain | 144 |
+| eu-south-2 | Spain | 145 |
 | eu-west-1 | Ireland | 227 |
 | eu-west-2 | London | 207 |
 | eu-west-3 | Paris | 171 |
@@ -321,7 +323,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon S3 Replication Time Control | 30 |
 | Amazon SageMaker | 36 |
 | Amazon Security Lake | 19 |
-| Amazon Simple Email Service | 29 |
+| Amazon Simple Email Service | 32 |
 | Amazon Simple Notification Service | 36 |
 | Amazon Simple Queue Service | 36 |
 | Amazon Simple Storage Service | 36 |

@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-03
+
+- Added **Amazon Simple Email Service** in Melbourne
+- Added **Amazon Simple Email Service** in Spain
+- Added **Amazon Simple Email Service** in Thailand
+
 ## 2026-10-31
 
 - Added **Amazon Textract** in Tokyo
