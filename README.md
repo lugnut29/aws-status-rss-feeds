@@ -4,7 +4,7 @@ Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed 
 
 Currently tracking **5,874 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-11-04 UTC_
+_Last checked: 2026-11-05 UTC_
 
 ## Recent changes by AWS
 
