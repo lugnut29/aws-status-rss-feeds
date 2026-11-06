@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-06
+
+- Added **Amazon DocumentDB** in New Zealand
+- Added **Amazon DocumentDB** in Taipei
+
 ## 2026-11-03
 
 - Added **Amazon Simple Email Service** in Melbourne

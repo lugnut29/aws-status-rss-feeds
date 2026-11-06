@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,874 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,876 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-11-05 UTC_
+_Last checked: 2026-11-06 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-06
+
+- Added **Amazon DocumentDB** in New Zealand
+- Added **Amazon DocumentDB** in Taipei
 
 ## 2026-11-03
 
@@ -30,10 +35,6 @@ _Last checked: 2026-11-05 UTC_
 - Added **AWS Agent Registry** in London
 - Added **AWS Agent Registry** in Ohio
 
-## 2026-10-23
-
-- Added **Amazon Managed Workflows for Apache Airflow** in Mexico-Central
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -48,7 +49,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
-| ap-east-2 | Taipei | 101 |
+| ap-east-2 | Taipei | 102 |
 | ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 191 |
 | ap-northeast-3 | Osaka | 139 |
@@ -59,7 +60,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 130 |
 | ap-southeast-4 | Melbourne | 123 |
 | ap-southeast-5 | Malaysia | 130 |
-| ap-southeast-6 | New Zealand | 105 |
+| ap-southeast-6 | New Zealand | 106 |
 | ap-southeast-7 | Thailand | 112 |
 | ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 117 |
@@ -256,7 +257,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon DataZone | 21 |
 | Amazon Detective | 23 |
 | Amazon DevOps Guru | 16 |
-| Amazon DocumentDB | 32 |
+| Amazon DocumentDB | 34 |
 | Amazon DynamoDB | 36 |
 | Amazon EC2 Instance Connect | 36 |
 | Amazon EMR Serverless | 36 |

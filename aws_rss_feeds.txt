@@ -1810,6 +1810,7 @@ https://status.aws.amazon.com/rss/dms-us-west-1.rss
 https://status.aws.amazon.com/rss/dms-us-west-2.rss
 https://status.aws.amazon.com/rss/docdb-af-south-1.rss
 https://status.aws.amazon.com/rss/docdb-ap-east-1.rss
+https://status.aws.amazon.com/rss/docdb-ap-east-2.rss
 https://status.aws.amazon.com/rss/docdb-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/docdb-ap-northeast-2.rss
 https://status.aws.amazon.com/rss/docdb-ap-northeast-3.rss
@@ -1820,6 +1821,7 @@ https://status.aws.amazon.com/rss/docdb-ap-southeast-2.rss
 https://status.aws.amazon.com/rss/docdb-ap-southeast-3.rss
 https://status.aws.amazon.com/rss/docdb-ap-southeast-4.rss
 https://status.aws.amazon.com/rss/docdb-ap-southeast-5.rss
+https://status.aws.amazon.com/rss/docdb-ap-southeast-6.rss
 https://status.aws.amazon.com/rss/docdb-ap-southeast-7.rss
 https://status.aws.amazon.com/rss/docdb-ca-central-1.rss
 https://status.aws.amazon.com/rss/docdb-ca-west-1.rss
