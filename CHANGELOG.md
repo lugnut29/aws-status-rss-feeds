@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-11-10
+
+- Added **AWS Agent Registry** in US-West
+- Added service **AWS Quick** (Canada-Central, Cape Town, Frankfurt, Ireland, Jakarta, London, Malaysia, Milan, Mumbai, N. Virginia, Ohio, Oregon, Paris, Sao Paulo, Seoul, Singapore, Spain, Stockholm, Sydney, Tel Aviv, Tokyo, UAE, US-East, US-West, Zurich)
+- Removed service **Amazon Quick Suite**
+
 ## 2026-11-06
 
 - Added **Amazon DocumentDB** in New Zealand

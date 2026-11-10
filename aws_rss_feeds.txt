@@ -44,6 +44,7 @@ https://status.aws.amazon.com/rss/agent-registry-eu-west-1.rss
 https://status.aws.amazon.com/rss/agent-registry-eu-west-2.rss
 https://status.aws.amazon.com/rss/agent-registry-us-east-1.rss
 https://status.aws.amazon.com/rss/agent-registry-us-east-2.rss
+https://status.aws.amazon.com/rss/agent-registry-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/agent-registry-us-west-2.rss
 https://status.aws.amazon.com/rss/airflow-af-south-1.rss
 https://status.aws.amazon.com/rss/airflow-ap-east-1.rss

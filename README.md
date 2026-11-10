@@ -2,11 +2,17 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,876 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,877 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-11-09 UTC_
+_Last checked: 2026-11-10 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-10
+
+- Added **AWS Agent Registry** in US-West
+- Added service **AWS Quick** (Canada-Central, Cape Town, Frankfurt, Ireland, Jakarta, London, Malaysia, Milan, Mumbai, N. Virginia, Ohio, Oregon, Paris, Sao Paulo, Seoul, Singapore, Spain, Stockholm, Sydney, Tel Aviv, Tokyo, UAE, US-East, US-West, Zurich)
+- Removed service **Amazon Quick Suite**
 
 ## 2026-11-06
 
@@ -27,13 +33,6 @@ _Last checked: 2026-11-09 UTC_
 ## 2026-10-30
 
 - Added **AWS Parallel Computing Service** in Canada-Central
-
-## 2026-10-24
-
-- Added **AWS Agent Registry** in Canada-Central
-- Added **AWS Agent Registry** in Frankfurt
-- Added **AWS Agent Registry** in London
-- Added **AWS Agent Registry** in Ohio
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -81,7 +80,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | us-east-1 | N. Virginia | 237 |
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 146 |
-| us-gov-west-1 | US-West | 167 |
+| us-gov-west-1 | US-West | 168 |
 | us-west-1 | N. California | 160 |
 | us-west-2 | Oregon | 229 |
 
@@ -91,7 +90,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |---------|-------------|
 | AWS Account Management | 1 |
 | AWS Activate Console | 1 |
-| AWS Agent Registry | 9 |
+| AWS Agent Registry | 10 |
 | AWS Amplify | 20 |
 | AWS Amplify Admin | 19 |
 | AWS App Mesh | 25 |
@@ -191,6 +190,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Private CA Connector for SCEP | 34 |
 | AWS Private Certificate Authority | 36 |
 | AWS Proton | 11 |
+| AWS Quick | 25 |
 | AWS RTB Fabric | 6 |
 | AWS Resilience Hub | 22 |
 | AWS Resource Access Manager | 36 |
@@ -311,7 +311,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon Polly | 25 |
 | Amazon Q Apps | 2 |
 | Amazon Q Business | 4 |
-| Amazon Quick Suite | 25 |
 | Amazon Redshift | 36 |
 | Amazon Rekognition | 19 |
 | Amazon Relational Database Service | 36 |
