@@ -4122,6 +4122,7 @@ https://status.aws.amazon.com/rss/pcs-us-east-1.rss
 https://status.aws.amazon.com/rss/pcs-us-east-2.rss
 https://status.aws.amazon.com/rss/pcs-us-gov-east-1.rss
 https://status.aws.amazon.com/rss/pcs-us-gov-west-1.rss
+https://status.aws.amazon.com/rss/pcs-us-west-1.rss
 https://status.aws.amazon.com/rss/pcs-us-west-2.rss
 https://status.aws.amazon.com/rss/personalize-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/personalize-ap-northeast-2.rss

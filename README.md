@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,877 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,878 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-11-12 UTC_
+_Last checked: 2026-11-13 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-13
+
+- Added **AWS Parallel Computing Service** in N. California
 
 ## 2026-11-10
 
@@ -29,10 +33,6 @@ _Last checked: 2026-11-12 UTC_
 
 - Added **Amazon Textract** in Tokyo
 - Added **Amazon Textract** in Zurich
-
-## 2026-10-30
-
-- Added **AWS Parallel Computing Service** in Canada-Central
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -81,7 +81,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 146 |
 | us-gov-west-1 | US-West | 168 |
-| us-west-1 | N. California | 160 |
+| us-west-1 | N. California | 161 |
 | us-west-2 | Oregon | 229 |
 
 ## Services (267)
@@ -182,7 +182,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Network Firewall | 36 |
 | AWS Organizations | 3 |
 | AWS Outposts | 28 |
-| AWS Parallel Computing Service | 25 |
+| AWS Parallel Computing Service | 26 |
 | AWS Partner Central | 3 |
 | AWS Payment Cryptography | 16 |
 | AWS Price List Service | 3 |

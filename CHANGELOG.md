@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-13
+
+- Added **AWS Parallel Computing Service** in N. California
+
 ## 2026-11-10
 
 - Added **AWS Agent Registry** in US-West
