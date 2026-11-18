@@ -2,11 +2,18 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,878 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,882 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-11-17 UTC_
+_Last checked: 2026-11-18 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-18
+
+- Added **AWS DevOps Agent** in US-West
+- Added **Amazon Simple Email Service** in Mexico-Central
+- Added **Amazon Simple Email Service** in New Zealand
+- Added **Amazon Simple Email Service** in Taipei
 
 ## 2026-11-13
 
@@ -29,11 +36,6 @@ _Last checked: 2026-11-17 UTC_
 - Added **Amazon Simple Email Service** in Spain
 - Added **Amazon Simple Email Service** in Thailand
 
-## 2026-10-31
-
-- Added **Amazon Textract** in Tokyo
-- Added **Amazon Textract** in Zurich
-
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
 ## Files
@@ -48,7 +50,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 |-----------|----------|----------|
 | af-south-1 | Cape Town | 149 |
 | ap-east-1 | Hong Kong | 148 |
-| ap-east-2 | Taipei | 102 |
+| ap-east-2 | Taipei | 103 |
 | ap-northeast-1 | Tokyo | 215 |
 | ap-northeast-2 | Seoul | 191 |
 | ap-northeast-3 | Osaka | 139 |
@@ -59,7 +61,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-3 | Jakarta | 130 |
 | ap-southeast-4 | Melbourne | 123 |
 | ap-southeast-5 | Malaysia | 130 |
-| ap-southeast-6 | New Zealand | 106 |
+| ap-southeast-6 | New Zealand | 107 |
 | ap-southeast-7 | Thailand | 112 |
 | ca-central-1 | Canada-Central | 194 |
 | ca-west-1 | Calgary | 117 |
@@ -75,12 +77,12 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | il-central-1 | Tel Aviv | 135 |
 | me-central-1 | UAE | 130 |
 | me-south-1 | Bahrain | 145 |
-| mx-central-1 | Mexico-Central | 107 |
+| mx-central-1 | Mexico-Central | 108 |
 | sa-east-1 | Sao Paulo | 170 |
 | us-east-1 | N. Virginia | 237 |
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 146 |
-| us-gov-west-1 | US-West | 168 |
+| us-gov-west-1 | US-West | 169 |
 | us-west-1 | N. California | 161 |
 | us-west-2 | Oregon | 229 |
 
@@ -132,7 +134,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Database Migration Service | 36 |
 | AWS Deadline Cloud | 10 |
 | AWS DeepRacer | 1 |
-| AWS DevOps Agent | 15 |
+| AWS DevOps Agent | 16 |
 | AWS Device Farm | 1 |
 | AWS Direct Connect | 36 |
 | AWS Directory Service | 36 |
@@ -323,7 +325,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon S3 Replication Time Control | 30 |
 | Amazon SageMaker | 36 |
 | Amazon Security Lake | 19 |
-| Amazon Simple Email Service | 32 |
+| Amazon Simple Email Service | 35 |
 | Amazon Simple Notification Service | 36 |
 | Amazon Simple Queue Service | 36 |
 | Amazon Simple Storage Service | 36 |

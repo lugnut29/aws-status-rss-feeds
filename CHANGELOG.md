@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-11-18
+
+- Added **AWS DevOps Agent** in US-West
+- Added **Amazon Simple Email Service** in Mexico-Central
+- Added **Amazon Simple Email Service** in New Zealand
+- Added **Amazon Simple Email Service** in Taipei
+
 ## 2026-11-13
 
 - Added **AWS Parallel Computing Service** in N. California
