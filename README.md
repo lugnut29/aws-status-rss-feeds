@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,882 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,885 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-11-19 UTC_
+_Last checked: 2026-11-20 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-20
+
+- Added service **AWS Abuse Signal API** (London, N. Virginia, Oregon)
 
 ## 2026-11-18
 
@@ -29,12 +33,6 @@ _Last checked: 2026-11-19 UTC_
 
 - Added **Amazon DocumentDB** in New Zealand
 - Added **Amazon DocumentDB** in Taipei
-
-## 2026-11-03
-
-- Added **Amazon Simple Email Service** in Melbourne
-- Added **Amazon Simple Email Service** in Spain
-- Added **Amazon Simple Email Service** in Thailand
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -71,7 +69,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | eu-south-1 | Milan | 146 |
 | eu-south-2 | Spain | 145 |
 | eu-west-1 | Ireland | 227 |
-| eu-west-2 | London | 207 |
+| eu-west-2 | London | 208 |
 | eu-west-3 | Paris | 171 |
 | global | global | 25 |
 | il-central-1 | Tel Aviv | 135 |
@@ -79,17 +77,18 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 108 |
 | sa-east-1 | Sao Paulo | 170 |
-| us-east-1 | N. Virginia | 237 |
+| us-east-1 | N. Virginia | 238 |
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 146 |
 | us-gov-west-1 | US-West | 169 |
 | us-west-1 | N. California | 161 |
-| us-west-2 | Oregon | 229 |
+| us-west-2 | Oregon | 230 |
 
-## Services (267)
+## Services (268)
 
 | Service | Region Count |
 |---------|-------------|
+| AWS Abuse Signal API | 3 |
 | AWS Account Management | 1 |
 | AWS Activate Console | 1 |
 | AWS Agent Registry | 10 |

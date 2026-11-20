@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-20
+
+- Added service **AWS Abuse Signal API** (London, N. Virginia, Oregon)
+
 ## 2026-11-18
 
 - Added **AWS DevOps Agent** in US-West

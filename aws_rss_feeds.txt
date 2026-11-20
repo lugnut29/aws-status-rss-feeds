@@ -1,3 +1,6 @@
+https://status.aws.amazon.com/rss/abuse-signal-api-eu-west-2.rss
+https://status.aws.amazon.com/rss/abuse-signal-api-us-east-1.rss
+https://status.aws.amazon.com/rss/abuse-signal-api-us-west-2.rss
 https://status.aws.amazon.com/rss/account.rss
 https://status.aws.amazon.com/rss/acm-pca-af-south-1.rss
 https://status.aws.amazon.com/rss/acm-pca-ap-east-1.rss

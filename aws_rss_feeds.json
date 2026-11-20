@@ -1,4 +1,9 @@
 {
+  "AWS Abuse Signal API": {
+    "London": "https://status.aws.amazon.com/rss/abuse-signal-api-eu-west-2.rss",
+    "N. Virginia": "https://status.aws.amazon.com/rss/abuse-signal-api-us-east-1.rss",
+    "Oregon": "https://status.aws.amazon.com/rss/abuse-signal-api-us-west-2.rss"
+  },
   "AWS Account Management": {
     "global": "https://status.aws.amazon.com/rss/account.rss"
   },
