@@ -2,11 +2,16 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,885 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,887 feeds** across **268 services** and **37 regions**.
 
-_Last checked: 2026-11-20 UTC_
+_Last checked: 2026-11-21 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-21
+
+- Added **Multiple services** in US-East
+- Added **Multiple services** in US-West
 
 ## 2026-11-20
 
@@ -28,11 +33,6 @@ _Last checked: 2026-11-20 UTC_
 - Added **AWS Agent Registry** in US-West
 - Added service **AWS Quick** (Canada-Central, Cape Town, Frankfurt, Ireland, Jakarta, London, Malaysia, Milan, Mumbai, N. Virginia, Ohio, Oregon, Paris, Sao Paulo, Seoul, Singapore, Spain, Stockholm, Sydney, Tel Aviv, Tokyo, UAE, US-East, US-West, Zurich)
 - Removed service **Amazon Quick Suite**
-
-## 2026-11-06
-
-- Added **Amazon DocumentDB** in New Zealand
-- Added **Amazon DocumentDB** in Taipei
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -79,8 +79,8 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | sa-east-1 | Sao Paulo | 170 |
 | us-east-1 | N. Virginia | 238 |
 | us-east-2 | Ohio | 204 |
-| us-gov-east-1 | US-East | 146 |
-| us-gov-west-1 | US-West | 169 |
+| us-gov-east-1 | US-East | 147 |
+| us-gov-west-1 | US-West | 170 |
 | us-west-1 | N. California | 161 |
 | us-west-2 | Oregon | 230 |
 
@@ -350,7 +350,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | EC2 Serial Console | 36 |
 | Infrastructure Performance | 27 |
 | Kiro | 1 |
-| Multiple services | 34 |
+| Multiple services | 36 |
 | Network Access Analyzer | 20 |
 | Reachability Analyzer | 20 |
 | SageMaker Unified Studio | 15 |

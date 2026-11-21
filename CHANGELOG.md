@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-21
+
+- Added **Multiple services** in US-East
+- Added **Multiple services** in US-West
+
 ## 2026-11-20
 
 - Added service **AWS Abuse Signal API** (London, N. Virginia, Oregon)

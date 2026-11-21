@@ -3850,6 +3850,8 @@ https://status.aws.amazon.com/rss/multipleservices-mx-central-1.rss
 https://status.aws.amazon.com/rss/multipleservices-sa-east-1.rss
 https://status.aws.amazon.com/rss/multipleservices-us-east-1.rss
 https://status.aws.amazon.com/rss/multipleservices-us-east-2.rss
+https://status.aws.amazon.com/rss/multipleservices-us-gov-east-1.rss
+https://status.aws.amazon.com/rss/multipleservices-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/multipleservices-us-west-1.rss
 https://status.aws.amazon.com/rss/multipleservices-us-west-2.rss
 https://status.aws.amazon.com/rss/natgateway-af-south-1.rss

@@ -6281,6 +6281,8 @@
     "Thailand": "https://status.aws.amazon.com/rss/multipleservices-ap-southeast-7.rss",
     "Tokyo": "https://status.aws.amazon.com/rss/multipleservices-ap-northeast-1.rss",
     "UAE": "https://status.aws.amazon.com/rss/multipleservices-me-central-1.rss",
+    "US-East": "https://status.aws.amazon.com/rss/multipleservices-us-gov-east-1.rss",
+    "US-West": "https://status.aws.amazon.com/rss/multipleservices-us-gov-west-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/multipleservices-eu-central-2.rss"
   },
   "Network Access Analyzer": {
