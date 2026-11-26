@@ -3988,7 +3988,6 @@ https://status.aws.amazon.com/rss/omics-il-central-1.rss
 https://status.aws.amazon.com/rss/omics-us-east-1.rss
 https://status.aws.amazon.com/rss/omics-us-east-2.rss
 https://status.aws.amazon.com/rss/omics-us-west-2.rss
-https://status.aws.amazon.com/rss/one-us-east-1.rss
 https://status.aws.amazon.com/rss/organizations-us-gov-east-1.rss
 https://status.aws.amazon.com/rss/organizations-us-gov-west-1.rss
 https://status.aws.amazon.com/rss/organizations.rss

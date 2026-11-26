@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,887 feeds** across **268 services** and **37 regions**.
+Currently tracking **5,886 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-11-25 UTC_
+_Last checked: 2026-11-26 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-26
+
+- Removed service **Amazon One Enterprise**
 
 ## 2026-11-21
 
@@ -27,12 +31,6 @@ _Last checked: 2026-11-25 UTC_
 ## 2026-11-13
 
 - Added **AWS Parallel Computing Service** in N. California
-
-## 2026-11-10
-
-- Added **AWS Agent Registry** in US-West
-- Added service **AWS Quick** (Canada-Central, Cape Town, Frankfurt, Ireland, Jakarta, London, Malaysia, Milan, Mumbai, N. Virginia, Ohio, Oregon, Paris, Sao Paulo, Seoul, Singapore, Spain, Stockholm, Sydney, Tel Aviv, Tokyo, UAE, US-East, US-West, Zurich)
-- Removed service **Amazon Quick Suite**
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -77,14 +75,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 108 |
 | sa-east-1 | Sao Paulo | 170 |
-| us-east-1 | N. Virginia | 238 |
+| us-east-1 | N. Virginia | 237 |
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 170 |
 | us-west-1 | N. California | 161 |
 | us-west-2 | Oregon | 230 |
 
-## Services (268)
+## Services (267)
 
 | Service | Region Count |
 |---------|-------------|
@@ -305,7 +303,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | Amazon MemoryDB for Redis | 21 |
 | Amazon Monitron | 3 |
 | Amazon Neptune | 31 |
-| Amazon One Enterprise | 1 |
 | Amazon OpenSearch Service | 36 |
 | Amazon Personalize | 11 |
 | Amazon Pinpoint | 13 |

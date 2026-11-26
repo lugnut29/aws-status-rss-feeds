@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-26
+
+- Removed service **Amazon One Enterprise**
+
 ## 2026-11-21
 
 - Added **Multiple services** in US-East

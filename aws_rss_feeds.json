@@ -5162,9 +5162,6 @@
     "US-West": "https://status.aws.amazon.com/rss/neptune-db-us-gov-west-1.rss",
     "Zurich": "https://status.aws.amazon.com/rss/neptune-db-eu-central-2.rss"
   },
-  "Amazon One Enterprise": {
-    "N. Virginia": "https://status.aws.amazon.com/rss/one-us-east-1.rss"
-  },
   "Amazon OpenSearch Service": {
     "Bahrain": "https://status.aws.amazon.com/rss/elasticsearch-me-south-1.rss",
     "Calgary": "https://status.aws.amazon.com/rss/elasticsearch-ca-west-1.rss",
