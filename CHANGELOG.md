@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-27
+
+- Added **AWS MCP Server** in Canada-Central
+
 ## 2026-11-26
 
 - Removed service **Amazon One Enterprise**

@@ -1967,6 +1967,7 @@
     "Zurich": "https://status.aws.amazon.com/rss/licensemanager-eu-central-2.rss"
   },
   "AWS MCP Server": {
+    "Canada-Central": "https://status.aws.amazon.com/rss/aws-mcp-ca-central-1.rss",
     "Frankfurt": "https://status.aws.amazon.com/rss/aws-mcp-eu-central-1.rss",
     "Ireland": "https://status.aws.amazon.com/rss/aws-mcp-eu-west-1.rss",
     "London": "https://status.aws.amazon.com/rss/aws-mcp-eu-west-2.rss",

@@ -515,6 +515,7 @@ https://status.aws.amazon.com/rss/aws-glue-us-west-2.rss
 https://status.aws.amazon.com/rss/aws-mcp-ap-northeast-1.rss
 https://status.aws.amazon.com/rss/aws-mcp-ap-southeast-1.rss
 https://status.aws.amazon.com/rss/aws-mcp-ap-southeast-2.rss
+https://status.aws.amazon.com/rss/aws-mcp-ca-central-1.rss
 https://status.aws.amazon.com/rss/aws-mcp-eu-central-1.rss
 https://status.aws.amazon.com/rss/aws-mcp-eu-west-1.rss
 https://status.aws.amazon.com/rss/aws-mcp-eu-west-2.rss

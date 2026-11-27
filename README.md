@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,886 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,887 feeds** across **267 services** and **37 regions**.
 
-_Last checked: 2026-11-26 UTC_
+_Last checked: 2026-11-27 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-27
+
+- Added **AWS MCP Server** in Canada-Central
 
 ## 2026-11-26
 
@@ -27,10 +31,6 @@ _Last checked: 2026-11-26 UTC_
 - Added **Amazon Simple Email Service** in Mexico-Central
 - Added **Amazon Simple Email Service** in New Zealand
 - Added **Amazon Simple Email Service** in Taipei
-
-## 2026-11-13
-
-- Added **AWS Parallel Computing Service** in N. California
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -59,7 +59,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | ap-southeast-5 | Malaysia | 130 |
 | ap-southeast-6 | New Zealand | 107 |
 | ap-southeast-7 | Thailand | 112 |
-| ca-central-1 | Canada-Central | 194 |
+| ca-central-1 | Canada-Central | 195 |
 | ca-west-1 | Calgary | 117 |
 | eu-central-1 | Frankfurt | 216 |
 | eu-central-2 | Zurich | 132 |
@@ -169,7 +169,7 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS Lambda | 36 |
 | AWS Launch Wizard | 29 |
 | AWS License Manager | 36 |
-| AWS MCP Server | 8 |
+| AWS MCP Server | 9 |
 | AWS Mainframe Modernization | 23 |
 | AWS Management Console | 3 |
 | AWS Marketplace | 3 |
