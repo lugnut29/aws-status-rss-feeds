@@ -2,11 +2,15 @@
 
 Auto-updated list of every AWS Service Health Dashboard RSS feed URL, refreshed daily via GitHub Actions.
 
-Currently tracking **5,887 feeds** across **267 services** and **37 regions**.
+Currently tracking **5,886 feeds** across **266 services** and **37 regions**.
 
-_Last checked: 2026-11-27 UTC_
+_Last checked: 2026-11-28 UTC_
 
 ## Recent changes by AWS
+
+## 2026-11-28
+
+- Removed service **AWS DeepRacer**
 
 ## 2026-11-27
 
@@ -24,13 +28,6 @@ _Last checked: 2026-11-27 UTC_
 ## 2026-11-20
 
 - Added service **AWS Abuse Signal API** (London, N. Virginia, Oregon)
-
-## 2026-11-18
-
-- Added **AWS DevOps Agent** in US-West
-- Added **Amazon Simple Email Service** in Mexico-Central
-- Added **Amazon Simple Email Service** in New Zealand
-- Added **Amazon Simple Email Service** in Taipei
 
 _Full history in [CHANGELOG.md](CHANGELOG.md)_
 
@@ -75,14 +72,14 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | me-south-1 | Bahrain | 145 |
 | mx-central-1 | Mexico-Central | 108 |
 | sa-east-1 | Sao Paulo | 170 |
-| us-east-1 | N. Virginia | 237 |
+| us-east-1 | N. Virginia | 236 |
 | us-east-2 | Ohio | 204 |
 | us-gov-east-1 | US-East | 147 |
 | us-gov-west-1 | US-West | 170 |
 | us-west-1 | N. California | 161 |
 | us-west-2 | Oregon | 230 |
 
-## Services (267)
+## Services (266)
 
 | Service | Region Count |
 |---------|-------------|
@@ -130,7 +127,6 @@ _Full history in [CHANGELOG.md](CHANGELOG.md)_
 | AWS DataSync | 36 |
 | AWS Database Migration Service | 36 |
 | AWS Deadline Cloud | 10 |
-| AWS DeepRacer | 1 |
 | AWS DevOps Agent | 16 |
 | AWS Device Farm | 1 |
 | AWS Direct Connect | 36 |

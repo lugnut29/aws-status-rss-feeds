@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-28
+
+- Removed service **AWS DeepRacer**
+
 ## 2026-11-27
 
 - Added **AWS MCP Server** in Canada-Central
